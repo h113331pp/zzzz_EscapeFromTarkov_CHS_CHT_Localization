@@ -920,6 +920,7 @@ modmuzzleak74zenitdtk1Desc,重量：[4FBE28]0.128kg[-]\n后座力：[4FBE28]-18%
 modsilencerhexagonAKDesc,重量：[4FBE28]0.462kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、RPK-16、AK-107、SKS、AKMN、AK-103、AK-109,重量：[4FBE28]0.462kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、RPK-16、AK-107、SKS、AKMN、AK-103、AK-109
 modmuzzleak12stdDesc,重量：[4FBE28]0.100kg[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：AK-12,重量：[4FBE28]0.100kg[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：AK-12
 modsilencerak12stdDesc,重量：[4FBE28]0.450kg[-]\n后座力：[4FBE28]-24%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-12,重量：[4FBE28]0.450kg[-]\n後座力：[4FBE28]-24%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-12
+modmuzzle_mosin_tacfire_tanker_style_762x54rDesc,重量：[4FBE28]0.250kg[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：莫辛纳甘,重量：[4FBE28]0.250kg[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：莫辛納甘
 modmuzzlerpdbrakecompensatorDesc,重量：[4FBE28]0.124kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：RPD,重量：[4FBE28]0.124kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：RPD
 modsilencerSV98stdDesc,重量：[4FBE28]0.330kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SV-98,重量：[4FBE28]0.330kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SV-98
 modmuzzleSV98mk2SRVVDesc,重量：[4FBE28]0.460kg[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：SV-98,重量：[4FBE28]0.460kg[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：SV-98
@@ -1359,4 +1360,5 @@ armorNomadOutfitDesc,重型装甲\n针对荒原上的各种威胁提供最大的
 
 
 cntWoodFurnitureBlockVariantHelper,木制家具,木製家具
+
 
