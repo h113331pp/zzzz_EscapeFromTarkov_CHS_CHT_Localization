@@ -785,7 +785,7 @@ modmagmp7box70Desc,重量：[4FBE28]0.580kg[-]\n装弹数：[4FBE28]120[-]\n更�
 modmagP90ZakuPlateDesc,重量：[4FBE28]0.600kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：P90,重量：[4FBE28]0.600kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：P90
 modmagP90ZakuDrumChoppedDesc,重量：[4FBE28]0.666kg[-]\n装弹数：[4FBE28]135[-]\n更换弹匣时间：[FF4F33]+22%[-]\n\n相容性：P90,重量：[4FBE28]0.666kg[-]\n裝彈數：[4FBE28]135[-]\n更換彈匣時間：[FF4F33]+22%[-]\n\n相容性：P90
 modmagP90ZakuDrumDesc,重量：[4FBE28]1.200kg[-]\n装弹数：[4FBE28]200[-]\n更换弹匣时间：[FF4F33]+25%[-]\n\n相容性：P90,重量：[4FBE28]1.200kg[-]\n裝彈數：[4FBE28]200[-]\n更換彈匣時間：[FF4F33]+25%[-]\n\n相容性：P90
-modmagak74std30Desc,重量：[4FBE28]0.215kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：AKS-74UN, AK-74N,重量：[4FBE28]0.215kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：AKS-74UN, AK-74N
+modmagak74std30Desc,重量：[4FBE28]0.215kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：AKS-74UN、AK-74N,重量：[4FBE28]0.215kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：AKS-74UN、AK-74N
 modmagAK74extended45Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]45[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]45[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：下列口徑的槍械：5.45×39
 modmagAK74_6L31_60Desc,重量：[4FBE28]0.400kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.400kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：5.45×39
 modmagRPK16drum95Desc,重量：[4FBE28]0.680kg[-]\n装弹数：[4FBE28]95[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.680kg[-]\n裝彈數：[4FBE28]95[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：5.45×39
@@ -1359,3 +1359,4 @@ armorNomadOutfitDesc,重型装甲\n针对荒原上的各种威胁提供最大的
 
 
 cntWoodFurnitureBlockVariantHelper,木制家具,木製家具
+
