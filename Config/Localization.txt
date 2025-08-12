@@ -1,0 +1,1361 @@
+Key,schinese,tchinese
+
+barbedWireSpindle,铁丝网锭子 (3m),鐵絲網錠子 (3m)
+barbedWireSpindleDesc,用铁制成的铁丝网可以减缓敌人的速度，使他们更容易对付。按滑鼠右键放置。\n\n用铁修复。,用鐵製成的鐵絲網可以減緩敵人的速度，使他們更容易對付。按滑鼠右鍵放置。\n\n用鐵修復。
+barbedWireSpindle1m,铁丝网纺锤 (1m),鐵絲網紡錘 (1m)
+barbedWireSpindle1mDesc,用铁制成的铁丝网可以减缓敌人的速度，使他们更容易对付。按滑鼠右键放置。\n\n用铁修复。,用鐵製成的鐵絲網可以減緩敵人的速度，使他們更容易對付。按滑鼠右鍵放置。\n\n用鐵修復。
+barbedWireSpindleDiagonal1m,铁丝网主轴（1米/对角线）,鐵絲網主軸（1公尺/對角線）
+barbedWireSpindleDiagonal1mDesc,用铁制成的铁丝网可以减缓敌人的速度，使他们更容易对付。按滑鼠右键放置。\n\n用铁修复。,用鐵製成的鐵絲網可以減緩敵人的速度，使他們更容易對付。按滑鼠右鍵放置。\n\n用鐵修復。
+oldCash,旧美元钞票,舊美元鈔票
+
+meleeToolAxeT1IronFireaxeDesc,铁製消防斧很适合收穫木材。\n\n用[D3CE1D]锻铁[-]修復。\n报废可以得到生铁。,鐵製消防斧很適合收穫木材。\n\n用[D3CE1D]鍛鐵[-]修復。\n報廢可以得到生鐵。
+meleeToolAxeT2SteelAxeDesc,钢斧具有耐用的刀刃，非常适合采伐木材。\n\n使用 [D3CE1D]钢制工具零件[-]进行修复。\n将废料转化为钢制工具零件。,鋼斧具有耐用的刀刃，非常適合採伐木材。\n\n使用 [D3CE1D]鋼製工具零件[-]進行修復。\n將廢料轉化為鋼製工具零件。
+meleeToolAxeT3ChainsawDesc,使用这把以汽油为燃料的强力电锯，比保罗·班扬 (Paul Bunyan) 更快地砍倒最大的树木或僵尸。\n\n使用 [D3CE1D] 电动工具零件 [-] 进行修复。\n将废料转化为电动工具零件。,使用這把以汽油為燃料的強力電鋸，比保羅·班揚 (Paul Bunyan) 更快地砍倒最大的樹木或僵屍。\n\n使用 [D3CE1D] 電動工具零件 [-] 進行修復。\n將廢料轉化為電動工具零件。
+meleeToolPickT1IronPickaxeDesc,铁镐非常适合用来砸碎石头和采集矿物。\n\n用[D3CE1D]锻铁[-]进行修复。\n将废料转化为铁。,鐵鎬非常適合用來砸碎石頭和採集礦物。\n\n用[D3CE1D]鍛鐵[-]進行修復。\n將廢料轉化為鐵。
+meleeToolPickT2SteelPickaxeDesc,钢镐最适合用来破石和采集矿物。\n\n用 [D3CE1D]钢制工具零件[-]进行修复。\n将废料转化为钢制工具零件。,鋼鎬最適合用來破石和採集礦物。\n\n用 [D3CE1D]鋼製工具零件[-]進行修復。\n將廢料轉化為鋼製工具零件。
+meleeToolPickT3AugerDesc,拿出你的螺旋钻，当每个矿工看到你使用这把性感的气动螺旋钻时，你会羡慕不已。\n\n用 [D3CE1D] 电动工具零件 [-] 进行修复。\n将废料转化为电动工具零件。,拿出你的螺旋鑽，當每個礦工看到你使用這把性感的氣動螺旋鑽時，你會羨慕不已。\n\n用 [D3CE1D] 電動工具零件 [-] 進行修復。\n將廢料轉化為電動工具零件。
+meleeToolRepairT1ClawHammerDesc,羊角锤非常适合修复和升级基地墙壁，而且作为武器也不错。\n\n使用 [D3CE1D]锻铁[-]进行修复。\n废料变铁。,羊角錘非常適合修復和升級基地牆壁，而且作為武器也不錯。\n\n使用 [D3CE1D]鍛鐵[-]進行修復。\n廢料變鐵。
+meleeToolRepairT3NailgunDesc,射钉枪是修复和升级基座墙壁的最佳工具，如果你有钉子的话，它还是一件不错的武器。\n\n使用 [D3CE1D]钢制工具零件[-]进行修复。\n废料转化为机械零件。,射釘槍是修復和升級基座牆壁的最佳工具，如果你有釘子的話，它還是一件不錯的武器。\n\n使用 [D3CE1D]鋼製工具零件[-]進行修復。\n廢料轉化為機械零件。
+meleeToolSalvageT1WrenchDesc,非常适合拆卸汽车、空调等机械设备。\n\n用[D3CE1D]锻铁[-]修复。\n废料变铁。,非常適合拆卸汽車、空調等機械設備。\n\n用[D3CE1D]鍛鐵[-]修復。\n廢料變鐵。
+meleeToolSalvageT2RatchetDesc,非常适合拆卸汽车、空调等机械设备。\n\n用[D3CE1D]锻铁[-]进行修复。\n将废料转化为钢制工具零件。,非常適合拆卸汽車、空調等機械設備。\n\n用[D3CE1D]鍛鐵[-]進行修復。\n將廢料轉化為鋼製工具零件。
+meleeToolSalvageT3ImpactDriverDesc,非常适合拆卸汽车、空调等机械设备。\n\n使用 [D3CE1D]钢制工具零件[-]进行修理。\n将废料转化为电机工具零件。,非常適合拆卸汽車、空調等機械設備。\n\n使用 [D3CE1D]鋼製工具零件[-]進行修理。\n將廢料轉化為電機工具零件。
+meleeToolShovelT1IronShovelDesc,铁铲非常适合挖掘泥土、沙子或雪。\n\n用[D3CE1D]锻铁[-]修复。\n废料变铁。,鐵鏟非常適合挖掘泥土、沙子或雪。\n\n用[D3CE1D]鍛鐵[-]修復。\n廢料變鐵。
+meleeToolShovelT2SteelShovelDesc,钢铲非常耐用，是挖掘泥土、沙子或积雪的理想工具。\n\n使用 [D3CE1D]钢制工具零件[-]进行修复。\n将废料转化为钢制工具零件。,鋼鏟非常耐用，是挖掘泥土、沙子或積雪的理想工具。\n\n使用 [D3CE1D]鋼製工具零件[-]進行修復。\n將廢料轉化為鋼製工具零件。
+meleeWpnBatonT2StunBatonDesc,滋滋！\n\n用 [D3CE1D]电击棒零件[-] 修复。\n报废可得电击棒零件。,滋滋！\n\n用 [D3CE1D]電擊棒零件[-] 修復。\n報廢可得致暈棍部件。
+meleeWpnBladeT1HuntingKnifeDesc,非常适合砍杀僵尸和剖开动物的肚子以获取肉。\n普通攻击会造成 1 个流血伤口，蓄力攻击至少会造成 2 个流血伤口。\n用 [D3CE1D]锻铁[-]进行修复。\n废料变铁。,非常適合砍殺僵屍和剖開動物的肚子以獲取肉。\n普通攻擊會造成 1 個流血傷口，蓄力攻擊至少會造成 2 個流血傷口。\n用 [D3CE1D]鍛鐵[-]進行修復。\n廢料變鐵。
+meleeWpnBladeT3MacheteDesc,非常适合砍杀僵尸、伐木和剖开动物的肚子以获取肉。\n普通攻击会造成 1 个流血伤口，蓄力攻击至少会造成 2 个流血伤口。\n用 [D3CE1D]大砍刀部件[-]进行修復。\n报废可得大砍刀部件。,非常適合砍殺僵屍、伐木和剖開動物的肚子以獲取肉。\n普通攻擊會造成 1 個流血傷口，蓄力攻擊至少會造成 2 個流血傷口。\n用 [D3CE1D]大砍刀部件[-]進行修復。\n報廢可得大砍刀部件。
+meleeWpnClubT1BaseballBatDesc,这种棍棒用于过去在巨大竞技场举行的角斗士比赛中。\n\n用[D3CE1D]锻铁[-]修复。\n废料变成木材。,這種棍棒用於過去在巨大競技場舉行的角鬥士比賽中。\n\n用[D3CE1D]鍛鐵[-]修復。\n廢料變成木材。
+meleeWpnClubT3SteelClubDesc,钢制球杆非常耐用，而且打击力很强。\n\n用 [D3CE1D]钢制球杆零件[-] 进行修复。\n废料为钢制球杆零件。,鋼製球桿非常耐用，而且打擊力很強。\n\n用 [D3CE1D]鋼製球桿零件[-] 進行修復。\n廢料為鋼製球桿零件。
+meleeWpnKnucklesT1IronKnucklesDesc,提供手部保护以及挥拳时可以增加重量。\n用 [D3CE1D]锻铁[-] 修復。报废可得铁。,提供手部保護以及揮拳時可以增加重量。\n用 [D3CE1D]鍛鐵[-] 修復。報廢可得鐵。
+meleeWpnKnucklesT3SteelKnucklesDesc,提供手部保护以及挥拳时可以增加重量。手套上的刀刃也可用于取出动物的内脏。\n\n使用 [D3CE1D]钢拳套零件[-] 进行修复。\n报废可取得钢拳套零件。,提供手部保護以及揮拳時可以增加重量。手套上的刀刃也可用於取出動物的內臟。\n\n使用 [D3CE1D]鋼拳套零件[-] 進行修復。\n報廢可取得鋼拳套零件。
+meleeWpnSledgeT1IronSledgehammerDesc,大锤是砸碎头骨的最佳武器之一。\n\n用[D3CE1D]锻铁[-]修复。\n废料变铁。,大錘是砸碎頭骨的最佳武器之一。\n\n用[D3CE1D]鍛鐵[-]修復。\n廢料變鐵。
+meleeWpnSledgeT3SteelSledgehammerDesc,大锤是砸碎头骨的最佳武器之一。\n\n使用 [D3CE1D]钢制大锤零件[-]进行修复。\n将废料转化为钢制大锤零件。,大錘是砸碎頭骨的最佳武器之一。\n\n使用 [D3CE1D]鋼製大錘零件[-]進行修復。\n將廢料轉化為鋼製大錘零件。
+meleeWpnSpearT1IronSpearDesc,长矛比其他近战武器的攻击范围更远。\n\n用[D3CE1D]锻铁[-]修复。\n废料变铁。,長矛比其他近戰武器的攻擊範圍更遠。\n\n用[D3CE1D]鍛鐵[-]修復。\n廢料變鐵。
+meleeWpnSpearT3SteelSpearDesc,长矛比其他近战武器的攻击范围更远。\n\n用 [D3CE1D]钢矛零件[-]修复。\n分解为钢矛零件。,長矛比其他近戰武器的攻擊範圍更遠。\n\n用 [D3CE1D]鋼矛零件[-]修復。\n分解為鋼矛零件。
+gunBotT1JunkSledgeDesc,你可能不擅长拳击，但你拥有技术。\n你也可以使用次要操作将其部署在地面上。\n使用 [D3CE1D]机器人零件[-] 进行修复。\n废弃为机器人零件。,你可能不擅長拳擊，但你擁有技術。\n你也可以使用次要操作將其部署在地面上。\n使用 [D3CE1D]機器人零件[-] 進行修復。\n廢棄為機器人零件。
+gunBotT2JunkTurretDesc,这种装置可以像枪一样发射和装填。它使用机器人炮塔弹药作为弹药。\n您也可以使用次要操作将其部署在地面上。\n使用 [D3CE1D]机器人零件[-] 进行修复。\n分解为机器人零件。,這種裝置可以像槍一樣發射和裝填。它使用機器人炮塔彈藥作為彈藥。\n您也可以使用次要操作將其部署在地面上。\n使用 [D3CE1D]機器人零件[-] 進行修復。\n分解為機器人零件。
+gunBotT3JunkDroneDesc,机器人无人机由机器人零件和废料制成，是末日中的终极伙伴。它可以治愈你并携带一些物品。\n使用 [D3CE1D]机器人零件[-]进行修复。\n废料转化为机器人零件。,機器人無人機由機器人零件和廢料製成，是末日中的終極伙伴。它可以治癒你並攜帶一些物品。\n使用 [D3CE1D]機器人零件[-]進行修復。\n廢料轉化為機器人零件。
+gunBowT1IronCrossbowDesc,弩的装填速度很慢，但比弓的伤害更大。\n这种武器可以在水下发射。\n按住装填键可使用备用弹药。\n用 [D3CE1D]弓/弩零件[-] 进行修复。\n分解为弓/弩零件。,十字弓的裝填速度很慢，但比弓的傷害更大。\n這種武器可以在水下發射。\n按住裝填鍵可使用備用彈藥。\n用 [D3CE1D]弓/弩零件[-] 進行修復。\n分解為弓/弩零件。
+gunBowT1WoodenBowDesc,适合猎杀僵尸。使用箭作为弹药。\n按住重新加载以使用备用弹药。\n\n使用 [D3CE1D]弓/弩零件[-]进行修复。\n分解为弓/弩零件。,適合獵殺僵屍。使用箭作為彈藥。\n按住重新載入以使用備用彈藥。\n\n使用 [D3CE1D]弓/弩零件[-]進行修復。\n分解為弓/弩零件。
+gunBowT3CompoundBowDesc,复合弓的伤害更大，而且箭飞得更直，更容易瞄准。\n\n用 [D3CE1D]弓/弩部件[-]进行修复。\n废弃为弓/弩部件。,複合弓的傷害更大，而且箭飛得更直，更容易瞄準。\n\n用 [D3CE1D]弓/弩部件[-]進行修復。\n廢棄為弓/弩部件。
+gunExplosivesT3RocketLauncherDesc,火箭发射器发射火箭推进榴弹。\n\n使用 [D3CE1D]火箭发射器零件[-]进行修复。\n分解为火箭发射器零件。,火箭發射器發射火箭推進榴彈。\n\n使用 [D3CE1D]火箭發射器零件[-]進行修復。\n分解為火箭發射器零件。
+
+disassembleAmmoGroupDesc,打开此物品即可取回弹药的全部资源。,打開此物品即可取回彈藥的全部資源。
+
+resourceScrapPolymersDesc,橡胶和塑胶的碎片，可以被用来塑造成新的形状。\n以 [D3CE1D]10[-] 为单位制作。,橡膠和塑膠的碎片，可以被用來塑造成新的形狀。\n以 [D3CE1D]10[-] 為單位製作。
+resourceRepairKit,车辆修理套件,車輛修理套件
+resourceRepairKitDesc,修理套件主要用于车辆修理。,修理套件主要用於車輛修理。
+palletBrownBoxesBase,棕色盒子,棕色盒子
+palletBrownBoxesLoose,棕色盒子,棕色盒子
+palletBrownBoxesTile,棕色盒子,棕色盒子
+palletBrownBoxesTop,棕色盒子,棕色盒子
+palletBrownBoxesTopSmall,棕色盒子,棕色盒子
+palletCartonMilitaryBase,弹药箱,彈藥箱
+palletCartonMilitaryCap,弹药箱,彈藥箱
+palletCartonMilitaryTile,弹药箱,彈藥箱
+palletCartonMilitaryTileCovered,弹药箱,彈藥箱
+cntBarrelPlasticQuadA,蓝色水桶,藍色水桶
+cntBarrelPlasticQuadB,蓝色水桶,藍色水桶
+cntBarrelPlasticSingle00,蓝色水桶,藍色水桶
+cntBarrelPlasticSingle45,蓝色水桶,藍色水桶
+
+loadingTipEft1_title,逃离塔科夫 Overhaul - v1.0 测试版,逃離塔科夫 Overhaul - v1.0 測試版
+loadingTipEft1,这是 Escape From Tarkov Overhaul 的测试版本 1.0。 \n最新功能： 动作技能、新的枪械操作系统、经济系统重新平衡、更倚赖商人的游戏玩法，以及更多的平衡性/游戏玩法的变更。 这将使游戏难度上升。\n移除：技能、技能书、杂誌、偷袭伤害、潜行、所有服装配件（除了头盔灯和夜视镜）、非军事外观的服装。,這是 Escape From Tarkov Overhaul 的測試版本 1.0。 \n最新功能： 動作技能、新的槍械操作系統、經濟系統重新平衡、更倚賴商人的遊戲玩法，以及更多的平衡性/遊戲玩法的變更。 這將使遊戲難度上升。\n移除：技能、技能書、雜誌、偷襲傷害、潛行、所有服裝配件（除了頭盔燈和夜視鏡）、非軍事外觀的服裝。
+
+loadingTipEft2_title,新的枪械与配件,新的槍械與配件
+loadingTipEft2,本模组新增 100 种以上的枪械，以及 200 种以上的枪械配件，例如反射式瞄准镜、镜头、握把、枪托、枪管下榴弹发射器、膛口装置和抑制器。您可以透过製作或在武器相关的战利品/商人处找到枪械和枪械配件。,本模組新增 100 種以上的槍械，以及 200 種以上的槍械配件，例如反射式瞄準鏡、鏡頭、握把、槍托、槍管下榴彈發射器、膛口裝置和消音器。您可以透過製作或在武器相關的戰利品/商人處找到槍械和槍械配件。
+loadingTipEft3_title,弹药与拆解,彈藥與拆解
+loadingTipEft3,本模组新增了 17 种新的弹药；每种弹药类型都包含全金属被甲弹、空尖弹和穿甲弹。\n你需要依照面前的敌人来更换你的弹药种类。\n穿甲弹在对付戴头盔或穿防弹衣的殭尸时更有效，而空尖弹则在杀死肥胖或有辐射的殭尸时更有用。\n弹药可以通过拆解来获取製作原料：在製作栏中搜寻「disassembly」来製作拆解用工具。,本模組新增了 17 種新的彈藥；每種彈藥類型都包含全金屬被甲彈、空尖彈和穿甲彈。\n你需要依照面前的敵人來更換你的彈藥種類。\n穿甲彈在對付戴頭盔或穿防彈衣的殭屍時更有效，而空尖彈則在殺死肥胖或有輻射的殭屍時更有用。\n彈藥可以通過拆解來獲取製作原料：在製作欄中搜尋「disassembly」來製作拆解用工具。
+loadingTipEft4_title,新物品,新物品
+loadingTipEft4,这个模组加了许多有用的物品。化学药品、贵重物品、医疗用品、食物、饮料、酒类与注射器。弹药製作变得更複杂，所有物品都有专属特殊的动作。,這個模組加了許多有用的物品。化學藥品、貴重物品、醫療用品、食物、飲料、酒類與注射器。彈藥製作變得更複雜，所有物品都有專屬特殊的動作。
+loadingTipEft5_title,射击四肢,射擊四肢
+loadingTipEft5,射击四肢会造成较低的伤害。空尖弹则没有这个问题。,射擊四肢會造成較低的傷害。空尖彈則沒有這個問題。
+loadingTipEft6_title,动作技能与状态,動作技能與狀態
+loadingTipEft6,您可以在玩家统计视窗中（预设键 B）检查您的枪支和动作技能。该视窗会显示您目前持有的枪枝性能以及动作技能的等级。,您可以在玩家統計視窗中（預設鍵 B）檢查您的槍支和動作技能。該視窗會顯示您目前持有的槍枝性能以及動作技能的等級。
+loadingTipEft7_title,经济系统与商人,經濟系統與商人
+loadingTipEft7,游戏中的货币已更换为卢布。每个商人都有自己独特的藏品，经营不同种类的商品。,遊戲中的貨幣已更換為盧布。每個商人都有自己獨特的藏品，經營不同種類的商品。
+loadingTipEft8_title,物品等级,物品等級
+loadingTipEft8,T1物品以白色显示，T2：绿色，T3：蓝色，T4：紫色，T5：金色。,T1物品以白色顯示，T2：綠色，T3：藍色，T4：紫色，T5：金色。
+loadingTipEft9_title,装甲与辐射殭尸,裝甲與輻射殭屍
+loadingTipEft9,只要造成足够的伤害，即使是空尖弹，也能打穿盔甲。四肢一般没有装甲保护。辐射殭尸的再生能力已被加强，如果没有「辐射抑制器」 或造成足够的伤害来杀死辐射殭尸，他们就会在您重新装填完手枪之前就恢復全部的生命值。,只要造成足夠的傷害，即使是空尖彈，也能打穿盔甲。四肢一般沒有裝甲保護。輻射殭屍的再生能力已被加強，如果沒有「輻射抑制器」 或造成足夠的傷害來殺死輻射殭屍，他們就會在您重新裝填完手槍之前就恢復全部的生命值。
+loadingTipEft10_title,野生动物及特殊殭尸,野生動物及特殊殭屍
+loadingTipEft10,野生动物是非常危险的，他们的速度非常快，而且会造成非常高的伤害。\n有些殭尸有机会背着战利品，这些战利品会在殭尸死亡时掉落。,野生動物是非常危險的，他們的速度非常快，而且會造成非常高的傷害。\n有些殭屍有機會背著戰利品，這些戰利品會在殭屍死亡時掉落。
+loadingTipEft11_title,战利品,戰利品
+loadingTipEft11,所有战利品奖励都已重新调整。搜刮带有武器的武器架一定会得到武器，搜刮放置化学物品的架子则一定能够取得含化学物品，如此类推。,所有戰利品獎勵都已重新調整。搜刮帶有武器的武器架一定會得到武器，搜刮放置化學物品的架子則一定能夠取得含化學物品，如此類推。
+loadingTipEft12_title,本模组还在开发中,本模組還在開發中
+loadingTipEft12,儘管这是第一个稳定版，仍有可能出现问题。,儘管這是第一個穩定版，仍有可能出現問題。
+
+sneakDamageBonus,潜行伤害加成：[FDE302]{0}%[-],潛行傷害加成：[FDE302]{0}%[-]
+lootEntity,\n搜索 {1} (未触及)\n,\n搜索 {1} (未觸及)\n
+lootTooltipEmpty,\n[b]空[-]\n,\n[b]空[-]\n
+lootTooltipNew,\n搜索 {1} (未触及)\n,\n搜索 {1} (未觸及)\n
+lootTooltipTouched,\n搜索 {1}\n,\n搜索 {1}\n
+tooltipJammed,\n使用 {1} ([DECEA3]卡住[-])\n,\n使用 {1} ([DECEA3]卡住[-])\n
+tooltipLocked,\n使用 {1} ([DECEA3]已锁定[-])\n,\n使用 {1} ([DECEA3]已鎖定[-])\n
+
+starterCase,新手礼包,新手包
+starterCaseDesc,你不记得发生了什麽事，但你知道你所有的家当都在这个箱子里。,你不記得發生了什麼事，但你知道你所有的家當都在這個箱子裡。
+bundleStarter1,自行车英雄套件,單車英雄套件
+bundleStarter1Desc,此套件包含下列物品：\n一辆脚踏车和三罐可乐,此套件包含下列物品：\n一輛腳踏車和三罐可樂
+bundleStarter2,酗酒工匠套件,酗酒工匠套件
+bundleStarter2Desc,此套件包含下列物品：\n一把消防斧、一把鹤嘴锄、一把扳手、一把铲子、两瓶啤酒和一罐图尚卡罐头。,此套件包含下列物品：\n一柄消防斧、一柄鶴嘴鋤、一個扳手、一柄鏟子、兩瓶啤酒和一罐圖尚卡罐頭。
+bundleStarter3,特殊建筑师套件,特殊建築師套件
+bundleStarter3Desc,此套件包含下列物品：\n工作台、一个大槌机器人、一柄羊角锤、一个钱包、两包维他果汁和一罐炼乳。,此套件包含下列物品：\n工作台、一個大槌機器人、一柄羊角錘、一個錢包、兩包維他果汁和一罐煉乳。
+bundleStarter4,医学狂人套件,醫學狂人套件
+bundleStarter4Desc,此套件包含下列物品：\n一个 CMS手术包、两个草药抗生素、两个单兵战术急救包、五支肾上腺素注射器、五支丙酸刺激剂注射器和五支吗啡注射器,此套件包含下列物品：\n一個 CMS手術包、兩個草藥抗生素、兩個單兵戰術急救包、五支腎上腺素注射器、五支丙酸刺激劑注射器和五支嗎啡注射器
+bundleStarter5,猎人秘密套件,獵人秘密套件
+bundleStarter5Desc,此套件包含下列物品：\n一把反曲弓、一把猎刀、15 支铁箭和 5 支钢箭、两包军用口粮和两包紧急饮用水,此套件包含下列物品：\n一把反曲弓、一把獵刀、15 支鐵箭和 5 支鋼箭、兩包軍用口糧和兩包緊急飲用水
+
+
+noteEFT,陌生人的留言,陌生人的留言
+noteEFTDesc,给看到这张字条的人:所有人都死定了。我死定了。你也死定了。没有任何人能活下来。除了巴尼。 不，就算是连巴尼也死定了。 不管怎样，拿着我的东西逃出Navezgane吧\n (Navezgane位于亚利桑那州。 在阿帕奇语中，「Navezgane」意为「杀死怪物的」),給看到這張字條的人:所有人都死定了。我死定了。你也死定了。沒有任何人能活下來。除了巴尼。 不，就算是連巴尼也死定了。 不管怎樣，帶走我的物品逃出Navezgane吧\n (Navezgane位於亞利桑那州。 在阿帕奇語中，「Navezgane」意為「殺死怪物的」)
+
+npcTraderJoel,[D52685]巴尼[-],[D52685]巴尼[-]
+
+resourceMechanicalParts,金属零件,金屬零件
+resourceElectricParts,电子元件,電子元件
+resourceHeadlight,灯泡,燈泡
+resourceHeadlightDesc,灯泡对于制造车辆和发光设备很有用。,燈泡對於製造車輛和發光設備很有用。
+resourcePotassiumNitratePowder,硝酸钾,硝酸鉀
+resourcePotassiumNitratePowderBundle,KNO₃ 堆栈（6000）,KNO₃ 堆棧（6000）
+resourceLegendaryParts,[BB00FF]凯克塔普(KEKTAPE)胶带[-],[BB00FF]凱克塔普(KEKTAPE)膠帶[-]
+resourceLegendaryPartsDesc,製作高阶装备的重要材料。用于製作 T4 物品和配件。,製作高階裝備的重要材料。用於製作 T4 物品和配件。
+resourcePaperDesc,纸张可与其他材料一起使用，制作霰弹枪弹药、炸药和雪茄。\n以 [D3CE1D]10[-] 为单位制作。,紙張可與其他材料一起使用，製作霰彈槍彈藥、炸藥和雪茄。\n以 [D3CE1D]10[-] 為單位製作。
+
+cntGunSafeInsecure,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureArmyGreen,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureBlue,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureBrown,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureGreen,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureGrey,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureOrange,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecurePink,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecurePurple,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureRed,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureWhite,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeInsecureYellow,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafe,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeArmyGreen,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeBlue,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeBrown,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeGreen,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeGrey,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeOrange,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafePink,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafePurple,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeRed,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeWhite,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+cntGunSafeYellow,[FFD700]枪支保险箱[-],[FFD700]槍枝保險箱[-]
+
+cntAmmoPileLarge,大型军火堆,大型軍火堆
+
+cntMunitionsBoxArmy,[FFD700]军用弹药箱[-],[FFD700]軍用彈藥箱[-]
+cntMunitionsBoxBlue,[FFD700]军用弹药箱[-],[FFD700]軍用彈藥箱[-]
+cntMunitionsBoxGreen,[FFD700]军用弹药箱[-],[FFD700]軍用彈藥箱[-]
+cntMunitionsBoxOrange,[FFD700]军用弹药箱[-],[FFD700]軍用彈藥箱[-]
+cntMunitionsBoxRed,[FFD700]军用弹药箱[-],[FFD700]軍用彈藥箱[-]
+cntHardenedChestInsecure,[FFD700]强化箱子[-],[FFD700]強化箱子[-]
+cntHardenedChestSecure,[FFD700]强化箱子[-],[FFD700]強化箱子[-]
+cntHardenedChestInsecureT5,[FFD700]强化英雄宝箱[-],[FFD700]強化英雄寶箱[-]
+cntHardenedChestSecureT5,[FFD700]强化英雄宝箱[-],[FFD700]強化英雄寶箱[-]
+
+cntBuriedWeaponChest,埋藏的武器箱,埋藏的武器箱
+cntDisplayCaseAmmoLeftBroken,手枪展示架,手槍展示架
+cntDisplayCaseAmmoMiddleBroken01,手枪展示架,手槍展示架
+cntDisplayCaseAmmoMiddleBroken02,手枪展示架,手槍展示架
+cntDisplayCaseAmmoRightBroken,手枪展示架,手槍展示架
+cntGunRackSmallArmor,护甲展示架,護甲展示架
+cntCounterHollowCabinet,水槽,水槽
+cntCounterHollowCabinetOld,水槽,水槽
+cntCounterHollowCabinetTaupe,水槽,水槽
+cntFoodPileLarge,一大堆罐头食品,一大堆罐頭食品
+cntFoodPileMedium,一堆罐头食品,一堆罐頭食品
+cntFoodPileSmall,一小堆罐头食品,一小堆罐頭食品
+cntStoreShelfSingleBottomFood01,食品架,食品架
+cntStoreShelfSingleBottomFood02,食品架,食品架
+cntStoreShelfSingleTopFood01,食品架,食品架
+cntStoreShelfDoubleBottomFood01,食品架,食品架
+cntStoreShelfDoubleBottomFood02,食品架,食品架
+cntStoreShelfDoubleTopFood01,食品架,食品架
+cntStoreShelfSingleBottomHardware01,五金货架,五金貨架
+cntStoreShelfSingleBottomHardware02,五金货架,五金貨架
+cntStoreShelfSingleTopHardware01,五金货架,五金貨架
+cntStoreShelfSingleTopHardware02,五金货架,五金貨架
+cntStoreShelfDoubleBottomHardware01,五金货架,五金貨架
+cntStoreShelfDoubleBottomHardware02,五金货架,五金貨架
+cntStoreShelfDoubleBottomHardware03Rags,废弃的架子,廢棄的架子
+cntStoreShelfDoubleTopHardware01,五金货架,五金貨架
+cntStoreShelfDoubleTopHardware02Rags,废弃的架子,廢棄的架子
+cntStoreShelfSingleBottomPharmaGoods01,药品货架,藥品貨架
+cntStoreShelfSingleBottomPharmaGoods02,药品货架,藥品貨架
+cntStoreShelfDoubleBottomPharmaGoods01,药品货架,藥品貨架
+cntStoreShelfDoubleBottomPharmaGoods02,药品货架,藥品貨架
+cntStoreShelfSingleBottomTrash01,废弃的架子,廢棄的架子
+cntStoreShelfSingleBottomTrash02,废弃的架子,廢棄的架子
+cntStoreShelfSingleTopTrash01,废弃的架子,廢棄的架子
+cntStoreShelfSingleTopTrash02,废弃的架子,廢棄的架子
+cntStoreShelfDoubleBottomTrash01,废弃的架子,廢棄的架子
+cntStoreShelfDoubleBottomTrash02,废弃的架子,廢棄的架子
+cntStoreShelfDoubleTopTrash01,废弃的架子,廢棄的架子
+cntStoreShelfElectronicsSingleBottomPC,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomElectronicsMonitor,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomGoodsMisc,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomHeadphones,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomKeyboard,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomLaptopClosed,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomLaptopOpen,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsSingleBottomSpeaker,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsDoubleBottomGoods01,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsDoubleBottomGoods02,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsDoubleBottomGoods03,电子产品货架,電子產品貨架
+cntStoreShelfElectronicsDoubleBottomGoods04,电子产品货架,電子產品貨架
+cntStoreElectronicsBookShelfSpeaker,电子产品货架,電子產品貨架
+cntStoreElectronicsPalletTvFallen,电子产品货架,電子產品貨架
+cntStoreElectronicsPalletTvStanding,电子产品货架,電子產品貨架
+cntBarrelOilQuadA,H2SO4 桶,H2SO4 桶
+cntBarrelOilQuadB,H2SO4 桶,H2SO4 桶
+cntBarrelOilSingle00,H2SO4 桶,H2SO4 桶
+cntBarrelOilSingle45,H2SO4 桶,H2SO4 桶
+cntBarrelRadiatedQuadA,HNO3桶,HNO3桶
+cntBarrelRadiatedQuadB,HNO3桶,HNO3桶
+cntBarrelRadiatedSingle00,HNO3桶,HNO3桶
+cntBarrelRadiatedSingle45,HNO3桶,HNO3桶
+cntVendingMachineGroupDesc,使用卢布在自动售货机上购买商品或自己购买商品来出售商品。,使用盧布在自動販賣機上購買商品或自己購買商品來出售商品。
+challengeQuestCompleteDesc,[DECEA3]商人[-]提供多种[DECEA3]任务[-]类型，奖励玩家[DECEA3]卢布[-]、[DECEA3]XP[-]和[DECEA3]物品[-]。[DECEA3]任务[-]必须归还给您接受它们的[DECEA3]商人[-]。如果您在未完成所有目标的情况下离开，[DECEA3]POI[-]的[DECEA3]任务[-]将失败。\n\n通过接近[DECEA3]激活标记[-]（黄色感叹号标识）并使用[action:permanent:Activate][action:local:Activate]激活它来启动[DECEA3]任务[-]。 \n\n[FF0000]警告：[-]这将导致 [DECEA3]POI[-] [FF0000]完全[-]重置，移除 [DECEA3]任何[-]玩家放置的 [DECEA3]方块[-]，包括 [DECEA3]容器[-]、[DECEA3]建筑方块[-]和 [DECEA3]装饰品[-]。此重置是 [FF0000]永久性[-]且 [FF0000]不可逆[-]，因此请确保在 [DECEA3]激活[-]标记前仔细检查。\n\n放置 [DECEA3]床单[-]或 [DECEA3]土地要求方块[-]将保护 [DECEA3]POI[-]不被以这种方式 [DECEA3]重置[-]。,[DECEA3]商人[-]提供多種[DECEA3]任務[-]類型，獎勵玩家[DECEA3]盧布[-]、[DECEA3]XP[-]和[DECEA3]物品[-]。[DECEA3]任務[-]必須歸還給您接受它們的[DECEA3]商人[-]。如果您在未完成所有目標的情況下離開，[DECEA3]POI[-]的[DECEA3]任務[-]將失敗。\n\n透過接近[DECEA3]啟用標記[-]（黃色驚嘆號標識）並使用[action:permanent:Activate][action:local:Activate]啟用它來啟動[DECEA3]任務[-]。 \n\n[FF0000]警告：[-]這將導致 [DECEA3]POI[-] [FF0000]完全[-]重設，移除 [DECEA3]任何[-]玩家放置的 [DECEA3]方塊[-]，包括 [DECEA3]容器[-]、[DECEA3]建築方塊[-]和 [DECEA3]裝飾品[-]。此重設是 [FF0000]永久性[-]且 [FF0000]不可逆[-]，因此請確保在 [DECEA3]啟用[-]標記前仔細檢查。\n\n放置 [DECEA3]床單[-]或 [DECEA3]土地要求方塊[-]將保護 [DECEA3]POI[-]不被以這種方式 [DECEA3]重設[-]。
+traderTip,商人遍布全球各地的定居点。他们有商人标志和高高飘扬的绿色商人旗帜。\n物品可以用卢布买卖。您可以在库存的上角看到您的总现金。\n商人会定期补货。\n有些物品只能成捆买卖。\n商人在黎明和黄昏之间营业。\n投资“更好的易货”特权，以提高您与商人的买卖技能。\n随着您的等级和/或投资“勇敢的冒险家”，它将提高您的交易者阶段。提高交易者阶段可以让您获得更好的交易物品。\n商人还可以给您任务。,商人遍布全球各地的定居點。他們有商人標誌和高高飄揚的綠色商人旗幟。\n物品可以用盧布買賣。您可以在庫存的上角看到您的總現金。\n商人會定期補貨。\n有些物品只能成捆買賣。\n商人在黎明和黃昏之間營業。\n投資“更好的易貨”特權，以提高您與商人的買賣技能。\n隨著您的等級和/或投資“勇敢的冒險家”，它將提高您的交易者階段。提高交易者階段可以讓您獲得更好的交易物品。\n商人還可以給您任務。
+vendingMachineTip,自动售货机有三种类型：各种 POI 中的食品和饮料自动售货机、商人定居点中的可租用自动售货机以及可从商人处购买的玩家拥有的自动售货机。所有自动售货机都使用卢布，卢布可以在世界中找到或通过向商人出售物品获得。您可以在库存的右上角看到您有多少钱。NPC 可以从您租用的自动售货机购买，因此明智的做法是保持库存充足，不要将物品标得太高。,自動販賣機有三種類型：各種 POI 中的食品和飲料自動販賣機、商人定居點中的可租用自動販賣機以及可從商人處購買的玩家擁有的自動販賣機。所有自動販賣機都使用盧布，盧布可以在世界中找到或通過向商人出售物品獲得。您可以在庫存的右上角看到您有多少錢。NPC 可以從您租用的自動販賣機購買，因此明智的做法是保持庫存充足，不要將物品標得太高。
+quest_next_trader_completion,听到这个消息真是太好了！我们的卢布已经尘封太久了。我们一直想开辟新的贸易路线。如果你有时间，我们有一些工作要做。,聽到這個消息真是太好了！我們的盧布已經塵封太久了。我們一直想開闢新的貿易路線。如果你有時間，我們有一些工作要做。
+quest_next_trader_offer,我们正在拓展通往 [DECEA3]{goto.directionfull}[-] 的贸易路线。告诉 [DECEA3]{goto.name}[-] 的人们我们的卢布已经准备好了，他们会给你奖励并给你更多工作。,我們正在拓展通往 [DECEA3]{goto.directionfull}[-] 的貿易路線。告訴 [DECEA3]{goto.name}[-] 的人們我們的盧布已經準備好了，他們會給你獎勵並給你更多工作。
+trader_bob_greeting_02,如果你有卢布，我们就准备好上路！,如果你有盧布，我們就準備好上路！
+
+ammoEft7mmShotgun,12/70 - 7mm 霰弹,12/70 - 7mm 霰彈
+ammoEftFlechetteShotgun,12/70 - 飞镖弹,12/70 - 飛鏢彈
+ammoEftAP20Slug,12/70 - AP-20 霰弹块,12/70 - AP-20 霰彈塊
+ammoEftShrapnel25Shotgun,23×75 榴霰弹,23×75 榴霰彈
+ammoEftBarricadeSlug,23×75「Barrikada」霰弹块,23×75「Barrikada」霰彈塊
+
+ammoEft54539Desc,5.45×39 全金属被甲弹。\n性能良好的中口径弹药。良好的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,5.45×39 全金屬被甲彈。\n性能良好的中口徑彈藥。良好的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft54539APDesc,5.45×39 穿甲弹。\n高穿透力，确保你能穿透所有最高等级的装甲。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,5.45×39 穿甲彈。\n高穿透力，確保你能穿透所有最高等級的裝甲。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft54539HPDesc,5.45×39 空尖弹。\n对非装甲目标造成非常高的伤害，但用来对付装甲殭尸时就很吃力。,5.45×39 空尖彈。\n對非裝甲目標造成非常高的傷害，但用來對付裝甲殭屍時就很吃力。
+ammoEft55645NATODesc,5.56×45 全金属被甲弹。\n性能良好的中口径弹药。良好的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,5.56×45 全金屬被甲彈。\n性能良好的中口徑彈藥。良好的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft55645NATOAPDesc,5.56×45 穿甲弹。\n高穿透力，确保你能穿透所有最高等级的装甲。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,5.56×45 穿甲彈。\n高穿透力，確保你能穿透所有最高等級的裝甲。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft55645NATOHPDesc,5.56×45 空尖弹。\n对非装甲目标造成非常高的伤害，但用来对付装甲殭尸时就很吃力。,5.56×45 空尖彈。\n對非裝甲目標造成非常高的傷害，但用來對付裝甲殭屍時就很吃力。
+ammoEft300blkDesc,.300 blackout 全金属被甲弹。\n性能良好的中口径弹药。良好的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,.300 blackout 全金屬被甲彈。\n性能良好的中口徑彈藥。良好的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft300BblkAPDesc,.300 blackout 穿甲弹。\n高穿透力，确保你能穿透所有最高等级的装甲。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,.300 blackout 穿甲彈。\n高穿透力，確保你能穿透所有最高等級的裝甲。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft300blkHPDesc,.300 blackout 空尖彈。\n对非装甲目标造成非常高的伤害，但用来对付装甲殭尸时就很吃力。,.300 blackout 空尖彈。\n對非裝甲目標造成非常高的傷害，但用來對付裝甲殭屍時就很吃力。
+ammoEft76239Desc,7.62×39 全金属被甲弹。\n性能良好的中口径弹药。良好的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,7.62×39 全金屬被甲彈。\n性能良好的中口徑彈藥。良好的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft76239APDesc,7.62×39 穿甲弹。\n高穿透力，确保你能穿透所有最高等级的装甲。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,7.62×39 穿甲彈。\n高穿透力，確保你能穿透所有最高等級的裝甲。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft76239HPDesc,7.62×39 空尖弹。\n对非装甲目标造成非常高的伤害，但用来对付装甲殭尸时就很吃力。,7.62×39 空尖彈。\n對非裝甲目標造成非常高的傷害，但用來對付裝甲殭屍時就很吃力。
+ammoEft939Desc,9×39 全金属被甲弹。\n性能良好的中口径弹药。良好的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,9×39 全金屬被甲彈。\n性能良好的中口徑彈藥。良好的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft939APDesc,9×39 穿甲弹。\n高穿透力，确保你能穿透所有最高等级的装甲。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,9×39 穿甲彈。\n高穿透力，確保你能穿透所有最高等級的裝甲。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft939HPDesc,9×39 空尖弹。\n对非装甲目标造成非常高的伤害，但用来对付装甲殭尸时就很吃力。,9×39 空尖彈。\n對非裝甲目標造成非常高的傷害，但用來對付裝甲殭屍時就很吃力。
+ammoEft76251NATODesc,7.62×51 全金属被甲弹。\n重型标准弹药，具备坚实的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,7.62×51 全金屬被甲彈。\n重型標準彈藥，具備堅實的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft76251NATOAPDesc,7.62×51 穿甲弹。\n高穿透力，以降低平均伤害为代价来快速对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,7.62×51 穿甲彈。\n高穿透力，以降低平均傷害為代價來快速對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft76251NATOHPDesc,7.62×51 空尖弹。\n对软性目标造成毁灭性的伤害，但装甲穿透力不佳。,7.62×51 空尖彈。\n對軟性目標造成毀滅性的傷害，但裝甲穿透力不佳。
+ammoEft76254RDesc,7.62×54R 全金属被甲弹。\n重型标准弹药，具备坚实的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,7.62×54R 全金屬被甲彈。\n重型標準彈藥，具備堅實的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft76254RAPDesc,7.62×54R 穿甲弹。\n高穿透力，以降低平均伤害为代价来快速对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,7.62×54R 穿甲彈。\n高穿透力，以降低平均傷害為代價來快速對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft76254RHPDesc,7.62×54R 空尖弹。\n对软性目标造成毁灭性的伤害，但装甲穿透力不佳。,7.62×54R 空尖彈。\n對軟性目標造成毀滅性的傷害，但裝甲穿透力不佳。
+ammoEft12755PS12Desc,12.7×55 全金属被甲弹。\n重型标准弹药，具备坚实的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,12.7×55 全金屬被甲彈。\n重型標準彈藥，具備堅實的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft12755PS12BDesc,12.7×55 穿甲弹。\n高穿透力，以降低平均伤害为代价来快速对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 2500 的建筑方块。,12.7×55 穿甲彈。\n高穿透力，以降低平均傷害為代價來快速對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 2500 的建築方塊。
+ammoEft12755PS12ADesc,12.7×55 空尖弹。\n对软性目标造成毁灭性的伤害，但装甲穿透力不佳。,12.7×55 空尖彈。\n對軟性目標造成毀滅性的傷害，但裝甲穿透力不佳。
+ammoEft338Desc,.338 Lapua Magnum（拉普马格南）全金属被甲弹。\n重型标准弹药，具备坚实的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,.338 Lapua Magnum（拉普麥格農）全金屬被甲彈。\n重型標準彈藥，具備堅實的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft338APDesc,.338 Lapua Magnum（拉普马格南）穿甲弹。\n高穿透力，以降低平均伤害为代价来快速对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 2500 的建筑方块。,.338 Lapua Magnum（拉普麥格農）穿甲彈。\n高穿透力，以降低平均傷害為代價來快速對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 2500 的建築方塊。
+ammoEft338HPDesc,.338 Lapua Magnum（拉普马格南）空尖弹。\n对软性目标造成毁灭性的伤害，但装甲穿透力不佳。,.338 Lapua Magnum（拉普麥格農）空尖彈。\n對軟性目標造成毀滅性的傷害，但裝甲穿透力不佳。
+ammoEft76225mmTokarevDesc,7.62×25 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,7.62×25 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft918mmPMDesc,9×18 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,9×18 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft919mmDesc,9×19 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,9×19 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft919mmAPDesc,9×19 穿甲弹。\n不错的穿透力可破坏中低阶的护甲，但基础伤害较低。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,9×19 穿甲彈。\n不錯的穿透力可破壞中低階的護甲，但基礎傷害較低。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft919mmHPDesc,9×19 RIP 空尖弹。\n对非装甲目标造成高伤害，但在装甲上就很吃力。,9×19 RIP 空尖彈。\n對非裝甲目標造成高傷害，但在裝甲上就很吃力。
+ammoEft9x21mmDesc,9×21 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,9×21 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft9x21mmAPDesc,9×21 穿甲弹。\n不错的穿透力可破坏中低阶的护甲，但基础伤害较低。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,9×21 穿甲彈。\n不錯的穿透力可破壞中低階的護甲，但基礎傷害較低。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft9x21mmHPDesc,9×21 空尖弹。\n对非装甲目标造成高伤害，但在装甲上就很吃力。,9×21 空尖彈。\n對非裝甲目標造成高傷害，但在裝甲上就很吃力。
+ammoEft45ACPDesc,.45ACP 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,.45ACP 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft45ACPAPDesc,.45ACP 穿甲弹。\n不错的穿透力可破坏中低阶的护甲，但基础伤害较低。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,.45ACP 穿甲彈。\n不錯的穿透力可破壞中低階的護甲，但基礎傷害較低。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft45ACPRIPDesc,.45ACP RIP 空尖弹。\n对非装甲目标造成高伤害，但在装甲上就很吃力。,.45ACP RIP 空尖彈。\n對非裝甲目標造成高傷害，但在裝甲上就很吃力。
+ammoEft4630mmHKDesc,4.6×30 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,4.6×30 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft4630mmHKAPDesc,4.6×30 穿甲弹。\n不错的穿透力可破坏中低阶的护甲，但基础伤害较低。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,4.6×30 穿甲彈。\n不錯的穿透力可破壞中低階的護甲，但基礎傷害較低。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft4630mmHKHPDesc,4.6×30 空尖弹。\n对非装甲目标造成高伤害，但在装甲上就很吃力。,4.6×30 空尖彈。\n對非裝甲目標造成高傷害，但在裝甲上就很吃力。
+ammoEft5728FNDesc,5.7×28 全金属被甲弹。\n性能一般的轻型弹药。伤害与穿透力对得起它的口径。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,5.7×28 全金屬被甲彈。\n性能一般的輕型彈藥。傷害與穿透力對得起它的口徑。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft5728FNAPDesc,5.7×28 穿甲弹。\n不错的穿透力可破坏中低阶的护甲，但基础伤害较低。对四肢造成较低伤害。\n可穿透耐久度 1500 的建筑方块。,5.7×28 穿甲彈。\n不錯的穿透力可破壞中低階的護甲，但基礎傷害較低。對四肢造成較低傷害。\n可穿透耐久度 1500 的建築方塊。
+ammoEft5728FNHPDesc,5.7×28 空尖弹。\n对非装甲目标造成高伤害，但在装甲上就很吃力。,5.7×28 空尖彈。\n對非裝甲目標造成高傷害，但在裝甲上就很吃力。
+ammoEft50aeDesc,.50 AE（Action Express）全金属被甲弹。\n重型标准弹药，具备坚实的伤害与穿透力。无法有效对付装甲殭尸。对四肢造成较低伤害。\n可穿透耐久度 750 的建筑方块。,.50 AE（Action Express）全金屬被甲彈。\n重型標準彈藥，具備堅實的傷害與穿透力。無法有效對付裝甲殭屍。對四肢造成較低傷害。\n可穿透耐久度 750 的建築方塊。
+ammoEft50aeHPDesc,.50 AE（Action Express）空尖弹。\n对软性目标造成毁灭性的伤害，但装甲穿透力不佳。,.50 AE（Action Express）空尖彈。\n對軟性目標造成毀滅性的傷害，但裝甲穿透力不佳。
+
+ammoEft7mmShotgunDesc,12/70 7mm 霰弹。\n对所有目标都造成极高的伤害，但对装甲僵尸几乎毫无用处，非常不准确，并且距离越远伤害就越小。\n\n堆叠大小：150,12/70 7mm 霰彈。\n對所有目標都造成極高的傷害，但對裝甲僵屍幾乎毫無用處，非常不準確，並且距離越遠傷害就越小。\n\n堆疊大小：150
+ammoEftAP20SlugDesc,12/70 'AP-20' 子弹。\n对付装甲僵尸非常有效。它更精确，有效射程更大。\n\n堆叠大小：150\n可以穿透高达 1500 点生命值的方块。,12/70 'AP-20' 子彈。\n對付裝甲僵屍非常有效。它更精確，有效射程更大。\n\n堆疊大小：150\n可以穿透高達 1500 點生命值的方塊。
+ammoEftFlechetteShotgunDesc,12/70 Flechette\n对付装甲僵尸非常有效，但射程和穿透力比 AP-20 Slug 要小。\n\n堆叠大小：150,12/70 Flechette\n對付裝甲僵屍非常有效，但射程和穿透力比 AP-20 Slug 要小。\n\n堆疊大小：150
+ammoEftBarricadeSlugDesc,23×75 “Shrap 25”。\n对所有目标造成极高的伤害，但对装甲僵尸几乎无效，非常不准确并且会随着距离的增加而迅速失去伤害。\n\n堆叠大小：100\n可以穿透高达 750 点生命值的方块。,23×75 “Shrap 25”。\n對所有目標造成極高的傷害，但對裝甲僵屍幾乎無效，非常不準確並且會隨著距離的增加而迅速失去傷害。\n\n堆疊大小：100\n可以穿透高達 750 點生命值的方塊。
+ammoEftShrapnel25ShotgunDesc,23×75 'Barrikada'。\n对付装甲僵尸非常有效。它更精确，有效射程更大。\n\n堆叠大小：100\n可以穿透高达 1500 点生命值的方块。,23×75 'Barrikada'。\n對付裝甲僵屍非常有效。它更精確，有效射程更大。\n\n堆疊大小：100\n可以穿透高達 1500 點生命值的方塊。
+
+thrownGrenade,M67 手雷,M67 手榴彈
+thrownGrenadeDesc,M67 延迟引信手雷，引信时间 5 秒\n取下插栓后投掷。\n按[action:local:Secondary]取下插栓后按[action:local:Primary]掷出,M67 延遲引信手榴彈，引信時間 5 秒\n取下插栓後投擲。\n按[action:local:Secondary]取下插栓後按[action:local:Primary]擲出
+thrownGrenadeContact,RGN Impact 手雷,RGN Impact 手榴彈
+thrownGrenadeContactDesc,RGN Impact 手雷\n接触引信式手榴弹，一经接触即会爆炸。\n按[action:local:Secondary]取下插栓后按[action:local:Primary]掷出,RGN Impact 手榴彈\n接觸引信式手榴彈，一經接觸即會爆炸。\n按[action:local:Secondary]取下插栓後按[action:local:Primary]擲出
+
+ammoEft4046381,40×46mm M381 高爆榴弹,40×46mm M381 高爆榴彈
+ammoEft4046576,40×46mm M576 集束榴弹,40×46mm M576 集束榴彈
+ammoEft4053vog25,40×53mm VOG-25 高爆榴弹,40×53mm VOG-25 高爆榴彈
+ammoEft4046381Desc,40×46mm M381 高爆榴弹，可用于各种 40mm 榴弹发射器。\n致命半径： [F44336]4公尺（4格方块）[-]\n安全半径： [4FBE28]大于8公尺（8格方块）[-]。,40×46mm M381 高爆榴彈，可用於各種 40mm 榴彈發射器。致命半徑： [F44336]4公尺（4格方塊）[-]\n安全半徑： [4FBE28]大於8公尺（8格方塊）[-]。
+ammoEft4046576Desc,40×46mm M576 集束榴弹为40mm砲弹。适用于掷弹兵被迫于室内战斗的紧急情况。对软性目标造成巨大的伤害，并可在近距离快速降低重装甲目标的装甲强度。,40×46mm M576 集束榴彈為40mm砲彈。適用於擲彈兵被迫於室內戰鬥的緊急情況。對軟性目標造成巨大的傷害，並可在近距離快速降低重裝甲目標的裝甲強度。
+ammoEft4053vog25Desc,VOG-25 榴弹，用于装备在标准 AK 的各式衍生型号上的 GP-25 枪管下挂式榴弹发射器。\n致命半径： [F44336]4公尺（4格方块）[-]\n安全半径： [4FBE28]大于8公尺（8格方块）[-]。,VOG-25 榴彈，用於裝備在標準 AK 的各式衍生型號上的 GP-25 槍管下掛式榴彈發射器。\n致命半徑： [F44336]4公尺（4格方塊）[-]\n安全半徑： [4FBE28]大於8公尺（8格方塊）[-]。
+ammoEft9340pg7vlDesc,93×40mm 反坦克导弹。\n大杀伤力的弹头将会留下毁灭的痕迹。\n\n堆叠数量：10,93×40mm 反坦克飛彈。\n大殺傷力的彈頭將會留下毀滅的痕跡。\n\n堆疊數量：10
+
+firemode_fa,[D3CE1D]全自动射击[-],[D3CE1D]全自動射擊[-]
+firemode_2rb,[D3CE1D]二发点放[-],[D3CE1D]二發點放[-]
+firemode_3rb,[D3CE1D]三发点放[-],[D3CE1D]三發點放[-]
+firemode_5rb,[D3CE1D]五发点放[-],[D3CE1D]五發點放[-]
+firemode_sa,[D3CE1D]半自动射击[-],[D3CE1D]半自動射擊[-]
+
+gunppsh41Desc,PPSh-41 冲锋枪\n\n使用弹药类型：[D3CE1D]7.62×25[-]\n修复方式：[D3CE1D]武器修理套件[-],PPSh-41 衝鋒槍\n\n使用彈藥類型：[D3CE1D]7.62×25[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunpp9klinDesc,PP-9「klin」（楔子）冲锋枪\n\n使用弹药类型：[D3CE1D]9×18[-]\n修复方式：[D3CE1D]武器修理套件[-],PP-9「klin」（楔子）衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×18[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp5kDesc,HK MP5K 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],HK MP5K 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp5Desc,HK MP5 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n需要握把来装备手电筒/激光瞄准器和C 型弹匣。,HK MP5 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把來裝備手電筒/雷射瞄準器和C 型彈匣。
+gunuziDesc,IWI（以色列武器工业）生产的 UZI（乌兹）冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-],IWI（以色列武器工業）生產的 UZI（烏茲）衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunpp19vityazDesc,PP-19-01「Vityaz」（勇士）冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把来装备手电筒/雷射瞄准器。,PP-19-01「Vityaz」（勇士）衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把來裝備手電筒/雷射瞄準器。
+gunmp9Desc,B&T MP9-N 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],B&T MP9-N 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunuziprosmgDesc,IWI（以色列武器工业）生产的 UZI（乌兹）PRO 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-],IWI（以色列武器工業）生產的 UZI（烏茲）PRO 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp5sdDesc,HK MP5SD 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],HK MP5SD 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunvector9Desc,KRISS公司的（前身为转型武器研究国防工业,TDI）生产的 Vector Gen.2 （维克托）冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],KRISS公司的（前身為轉型武器研究國防工業,TDI）生產的 Vector Gen.2（維克托）衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmpxDesc,SIG MPX 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],SIG MPX 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunstm9Desc,Soyuz-TM STM-9 Gen.2 卡宾枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复方式：[D3CE1D]武器修理套件[-],Soyuz-TM STM-9 Gen.2 卡賓槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunsr2mvereskDesc,SR-2M「Veresk」（希瑟）冲锋枪\n\n使用弹药类型：[D3CE1D]9×21[-]\n修复方式：[D3CE1D]武器修理套件[-],SR-2M「Veresk」（希瑟）衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×21[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunump45Desc,HK UMP 45 冲锋枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复方式：[D3CE1D]武器修理套件[-],HK UMP 45 衝鋒槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunthompsonDesc,Colt公司的Thompson（汤普森）冲锋枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复方式：[D3CE1D]武器修理套件[-],Colt公司的Thompson（湯普森）衝鋒槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunvector45Desc,KRISS公司的（前身为转型武器研究国防工业,TDI）生产的 Vector Gen.2 （维克托）冲锋枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复方式：[D3CE1D]武器修理套件[-],KRISS公司的（前身為轉型武器研究國防工業,TDI）生產的 Vector Gen.2（維克托）衝鋒槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp7Desc,HK MP7A1 冲锋枪\n\n使用弹药类型：[D3CE1D]4.6×30[-]\n修复方式：[D3CE1D]武器修理套件[-],HK MP7A1 衝鋒槍\n\n使用彈藥類型：[D3CE1D]4.6×30[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunp90Desc,FN P90 冲锋枪\n\n使用弹药类型：[D3CE1D]5.7×28[-]\n修复方式：[D3CE1D]武器修理套件[-],FN P90 衝鋒槍\n\n使用彈藥類型：[D3CE1D]5.7×28[-]\n修復方式：[D3CE1D]武器修理套件[-]
+
+gunglock17,格洛克 17,克拉克 17
+gunglock17Desc,Glock 17 手枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复工具：[D3CE1D]武器修理套件[-],Glock 17 手槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunglock18c,[09FF00]格洛克 18C[-],[09FF00]克拉克 18C[-]
+gunglock18cDesc,Glock 18C 冲锋枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复工具：[D3CE1D]武器修理套件[-],Glock 18C 衝鋒槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunstechkin,斯捷奇金自动手枪,斯捷奇金自動手槍
+gunstechkinDesc,斯捷奇金自动手枪\n\n使用弹药类型：[D3CE1D]9×18[-]\n修复方式：[D3CE1D]武器修理套件[-],斯捷奇金自動手槍\n\n使用彈藥類型：[D3CE1D]9×18[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gundeserteagle,沙漠之鹰L6型,沙漠之鷹L6型
+gundeserteagleDesc,沙漠之鹰手枪\n\n使用弹药类型：[D3CE1D].50AE[-]\n修復方式：[D3CE1D]武器修理套件[-],沙漠之鷹手槍\n\n使用彈藥類型：[D3CE1D].50AE[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunrsh12,RSh-12,RSh-12
+gunrsh12Desc,RSh-12 左轮手枪\n\n使用弹药类型：[D3CE1D]12.7×55[-]\n修复方式：[D3CE1D]武器修理套件[-],RSh-12 左輪手槍\n\n使用彈藥類型：[D3CE1D]12.7×55[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunfiveseven,FN Five-SeveN,FN Five-SeveN
+gunfivesevenDesc,FV Five-SeveN MK2 手枪\n\n使用弹药类型：[D3CE1D]5.7×28[-]\n修复方式：[D3CE1D]武器修理套件[-],FV Five-SeveN MK2 手槍\n\n使用彈藥類型：[D3CE1D]5.7×28[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm1911,M1911,M1911
+gunm1911Desc,柯尔特 M1911A1 手枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-],柯特 M1911A1 手槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunm45,M45A1,M45A1
+gunm45Desc,柯尔特 M45A1 手枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-],柯特 M45A1 手槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunusp45match,USP 45 竞技型,USP 45 競技型
+gunusp45matchDesc,HK USP 45手枪搭载竞技用膛口制退器\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-]\n不可以安装消音器，瞄具只能安装「Burris FastFire3」反射式瞄准镜。,HK USP 45手槍搭載競技用膛口制退器\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修覆工具：[D3CE1D]武器修理套件[-]\n不可以安裝消音器，瞄具只能安裝「Burris FastFire3」反射式瞄準鏡。
+gunusp45tacDesc,HK USP 45 手枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-],HK USP 45 手槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunusp45tac,USP 45 战术型,USP 45 戰術型
+gunusp45tacDesc,HK USP 45 战术型手枪\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-]\n可以安装消音器，瞄具只能安装「Burris FastFire3」反射式瞄准镜。,HK USP 45 戰術型手槍\n\n使用弹药类型：[D3CE1D].45ACP[-]\n修复工具：[D3CE1D]武器修理套件[-]\n可以安裝消音器，瞄具只能安裝「Burris FastFire3」反射式瞄準鏡。
+guntokarevtt,TT-33,TT-33
+guntokarevttDesc,托卡列夫 TT-33 手枪\n\n使用弹药类型：[D3CE1D]7.62×25[-]\n修复方式：[D3CE1D]武器修理套件[-],托卡列夫 TT-33 手槍\n\n使用彈藥類型：[D3CE1D]7.62×25[-]\n修復方式：[D3CE1D]武器修理套件[-]
+guntokarevgold,[FFD700]TT-33 黄金版[-],[FFDB1A]TT-33 黃金版[-]
+guntokarevgoldDesc,托卡列夫 TT-33 手枪 [FFD700]黄金版[-]\n\n使用弹药类型：[D3CE1D]7.62×25[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n[FFDB1A]扣动一次板机可以发射两发子弹[-],托卡列夫 TT-33 手槍 [FFD700]黃金版[-]\n\n使用彈藥類型：[D3CE1D]7.62×25[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n[FFDB1A]扣動一次板機可以發射兩發子彈[-]
+guntokarevmachine,TT-33 自动手枪,TT-33 自動手槍
+guntokarevmachineDesc,托卡列夫 TT-33 自动手枪\n\n使用弹药类型：[D3CE1D]7.62×25[-]\n修复方式：[D3CE1D]武器修理套件[-],托卡列夫 TT-33 自動手槍\n\n使用彈藥類型：[D3CE1D]7.62×25[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunpb,PB微声手枪,PB消音手槍
+gunpbDesc,PB 微声手枪\n\n使用弹药类型：[D3CE1D]9×18[-]\n修复工具：[D3CE1D]武器修理套件[-],PB 消音手槍\n\n使用彈藥類型：[D3CE1D]9×18[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunpmalphadog,马卡洛夫手枪,馬可洛夫手槍
+gunpmalphadogDesc,马卡洛夫 手枪\n\n使用弹药类型：[D3CE1D]9×18[-]\n修复方式：[D3CE1D]武器修理套件[-],馬可洛夫 手槍\n\n使用彈藥類型：[D3CE1D]9×18[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunsr1mp,SR-1MP,SR-1MP
+gunsr1mpDesc,Serdyukov SR-1MP Gyurza 手枪\n\n使用弹药类型：[D3CE1D]9×21[-]\n修复工具：[D3CE1D]武器修理套件[-],Serdyukov SR-1MP Gyurza 手槍\n\n使用彈藥類型：[D3CE1D]9×21[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunp226,P226R,P226R
+gunp226Desc,SIG P226R 手枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复工具：[D3CE1D]武器修理套件[-],SIG P226R 手槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復工具：[D3CE1D]武器修理套件[-]
+gunm9a3,M9A3,M9A3
+gunm9a3Desc,伯莱塔 M9A3 手枪\n\n使用弹药类型：[D3CE1D]9×19[-]\n修复工具：[D3CE1D]武器修理套件[-],貝瑞塔 M9A3 手槍\n\n使用彈藥類型：[D3CE1D]9×19[-]\n修復工具：[D3CE1D]武器修理套件[-]
+
+gunks23,[004CFF]KS-23M[-],[004CFF]KS-23M[-]
+gunks23Desc,TOZ KS-23M 泵动式霰弹枪\n\n使用弹药类型：[D3CE1D]23×75[-]\n修复方式：[D3CE1D]武器修理套件[-],TOZ KS-23M 泵動式霰彈槍\n\n使用彈藥類型：[D3CE1D]23×75[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp43,MP-43-1C,MP-43-1C
+gunmp43Desc,MP-43-1C 双管猎枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修复方式：[D3CE1D]武器修理套件[-],MP-43-1C 雙管獵槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmts255,MTs-255-12,MTs-255-12
+gunmts255Desc,MTs-255-12 转轮供弹式霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-],MTs-255-12 轉輪供彈式霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm590,M590A1,M590A1
+gunm590Desc,Mossberg 590A1 泵动式霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修复方式：[D3CE1D]武器修理套件[-],Mossberg 590A1 泵動式霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm870,[09FF00]M870[-],[09FF00]M870[-]
+gunm870Desc,雷明顿 Model 870 泵动式霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-],雷明頓 Model 870 泵動式霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunksg12,[09FF00]KSG-12[-],[09FF00]KSG-12[-]
+gunksg12Desc,Kel-Tec KSG 泵动式霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-],Kel-Tec KSG 泵動式霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp153,[09FF00]MP-153[-],[09FF00]MP-153[-]
+gunmp153Desc,MP-153 半自动霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修复方式：[D3CE1D]武器修理套件[-],MP-153 半自動霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm3benelli,[004CFF]M3 Benelli[-],[004CFF]M3 Benelli[-]
+gunm3benelliDesc,Benelli M3 半自动霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-],Benelli M3 半自動霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunsaiga12,[BB00FF]Saiga-12K[-],[BB00FF]Saiga-12K[-]
+gunsaiga12Desc,Saiga-12K 半自动霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把来装备枪灯/激光瞄准器。,Saiga-12K 半自動霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把來裝備槍燈/雷射瞄準器。
+gunAA12,[BB00FF]AA-12[-],[BB00FF]AA-12[-]
+gunAA12Desc,MPS Auto Assault-12 Gen 2 全自动霰弹枪\n\n使用弹药类型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把来装备枪灯/激光瞄准器。,MPS Auto Assault-12 Gen 2 全自動霰彈槍\n\n使用彈藥類型：[D3CE1D]12/70[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n需要握把來裝備槍燈/雷射瞄準器。
+
+gunadarDesc,ADAR 2-15 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],ADAR 2-15 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunauga3Desc,STEYR AUG A3 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],STEYR AUG A3 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gung36kv2Desc,HK G36 KV2 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],HK G36 KV2 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm4a1Desc,Colt M4A1 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Colt M4A1 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunm16a4Desc,Colt M16A4 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Colt M16A4 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunl85a2Desc,L85A2 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,L85A2 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunmdr556Desc,Desert Tech MDR 突击步枪 (5.56)\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],Desert Tech MDR 突擊步槍 (5.56)\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunhk416Desc,HK416A5 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],HK416A5 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunIWItavorx95Desc,IWI Tavor X95 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],IWI Tavor X95 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunIWIcarmelDesc,IWI Carmel 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],IWI Carmel 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunak300velociraptorDesc,Aklys Defense Velociraptor 突击步枪\n\n使用弹药类型：[D3CE1D].300 blackout[-]\n修复方式：[D3CE1D]武器修理套件[-],Aklys Defense Velociraptor 突擊步槍\n\n使用彈藥類型：[D3CE1D].300 blackout[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunstar15Desc,ST AR-15 突击步枪\n\n使用弹药类型：[D3CE1D].300 blackout[-]\n修复方式：[D3CE1D]武器修理套件[-],ST AR-15 突擊步槍\n\n使用彈藥類型：[D3CE1D].300 blackout[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunhoneybadgerDesc,AAC Honey Badger 突击步枪\n\n使用弹药类型：[D3CE1D].300 blackout[-]\n修复方式：[D3CE1D]武器修理套件[-],AAC Honey Badger 突擊步槍\n\n使用彈藥類型：[D3CE1D].300 blackout[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmcxDesc,SIG MCX 突击步枪\n\n使用弹药类型：[D3CE1D].300 blackout[-]\n修复方式：[D3CE1D]武器修理套件[-],SIG MCX 突擊步槍\n\n使用彈藥類型：[D3CE1D].300 blackout[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm700Desc,Remington Model 700 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]50%[-] 额外伤害,Remington Model 700 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]50%[-] 額外傷害
+gundvl10Desc,DVL-10 'Saboteur' 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]100%[-] 额外伤害,DVL-10 'Saboteur' 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]100%[-] 額外傷害
+gunt5000Desc,Orsis T-5000 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]100%[-] 额外伤害,Orsis T-5000 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]100%[-] 額外傷害
+gunFALsa58dmrDesc,FN FAL 精准射手步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,FN FAL 精準射手步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunm1aEBRDesc,Springfield Armory M1A 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,Springfield Armory M1A 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunrfbDesc,Kel-Tec RFB 精准射手步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,Kel-Tec RFB 精準射手步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunsr25Desc,KAC SR-25 精准射手步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,KAC SR-25 精準射手步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunrsassDesc,Remington R11 RSASS 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,Remington R11 RSASS 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunhkg28Desc,HK G28 精准射手步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,HK G28 精準射手步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunFALsa58brDesc,FN FAL 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],FN FAL 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmdr762Desc,Desert Tech MDR 突击步枪 (7.62)\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],Desert Tech MDR 突擊步槍 (7.62)\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunscarhDesc,FN SCAR-H 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],FN SCAR-H 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunhk417Desc,HK 417 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],HK 417 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm14sassDesc,Springfield Armory M14 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],Springfield Armory M14 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmcxspearDesc,SIG MCX Spear 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],SIG MCX Spear 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmp18Desc,MP-18 单发步枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-],MP-18 單發步槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmosinDesc,Mosin-Nagant 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]50%[-] 额外伤害,Mosin-Nagant 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]50%[-] 額外傷害
+gunsv98Desc,SV-98 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]100%[-] 额外伤害,SV-98 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]100%[-] 額外傷害
+gunsvtDesc,Tokarev SVT-40 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,Tokarev SVT-40 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunsvdDesc,SVDS Dragunov 狙击步枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]25%[-] 额外伤害,SVDS Dragunov 狙擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]25%[-] 額外傷害
+gunash12Desc,ASh-12 突击步枪\n\n使用弹药类型：[D3CE1D]12.7×55[-]\n修复方式：[D3CE1D]武器修理套件[-],ASh-12 突擊步槍\n\n使用彈藥類型：[D3CE1D]12.7×55[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunrpk16Desc,RPK-16 轻机枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-],RPK-16 輕機槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunfnminimiDesc,FN Minimi 轻机枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-],FN Minimi 輕機槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunrpdDesc,Degtyarev RPD 机枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装B-25U握把,Degtyarev RPD 機槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝B-25U握把
+gunm60e6Desc,M60E6 机枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],M60E6 機槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunpkpDesc,Kalashnikov PKP 通用机枪\n\n使用弹药类型：[D3CE1D]7.62×54R[-]\n修复方式：[D3CE1D]武器修理套件[-],Kalashnikov PKP 通用機槍\n\n使用彈藥類型：[D3CE1D]7.62×54R[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunaks74unDesc,Kalashnikov AKS-74UN 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-],Kalashnikov AKS-74UN 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunak74nDesc,Kalashnikov AK-74N 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashnikov AK-74N 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunak74mDesc,Kalashnikov AK-74M 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashnikov AK-74M 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunak12Desc,Kalashnikov AK-12 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-],Kalashnikov AK-12 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunak107Desc,Kalashniswoop AK-107 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashniswoop AK-107 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunsksDesc,Simonov SKS 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-],Simonov SKS 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunakmnDesc,Kalashnikov AKMN 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashnikov AKMN 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunak103Desc,Kalashnikov AK-103 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashnikov AK-103 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunak109Desc,Kalashniswoop AK-109 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把,Kalashniswoop AK-109 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把
+gunrd704Desc,Rifle Dynamics RD-704 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-],Rifle Dynamics RD-704 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunmk47Desc,CMMG Mk47 Mutant 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×39[-]\n修复方式：[D3CE1D]武器修理套件[-],CMMG Mk47 Mutant 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gun9a91Desc,9A-91 突击步枪\n\n使用弹药类型：[D3CE1D]9×39[-]\n修复方式：[D3CE1D]武器修理套件[-],9A-91 突擊步槍\n\n使用彈藥類型：[D3CE1D]9×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunvssDesc,VSS Vintorez 突击步枪\n\n使用弹药类型：[D3CE1D]9×39[-]\n修复方式：[D3CE1D]武器修理套件[-],VSS Vintorez 突擊步槍\n\n使用彈藥類型：[D3CE1D]9×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunasvalDesc,AS VAL 突击步枪\n\n使用弹药类型：[D3CE1D]9×39[-]\n修复方式：[D3CE1D]武器修理套件[-],AS VAL 突擊步槍\n\n使用彈藥類型：[D3CE1D]9×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunaxmcDesc,Accuracy International AXMC 狙击步枪\n\n使用弹药类型：[D3CE1D].338 Lapua Magnum[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n狙击步枪奖励：造成 [4FBE28]100%[-] 额外伤害,Accuracy International AXMC 狙擊步槍\n\n使用彈藥類型：[D3CE1D].338 Lapua Magnum[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n狙擊步槍獎勵：造成 [4FBE28]100%[-] 額外傷害
+gunswordmk18Desc,SWORD International Mk-18 精准射手步枪\n\n使用弹药类型：[D3CE1D].338 Lapua Magnum[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n射手步枪奖励：造成 [4FBE28]50%[-] 额外伤害,SWORD International Mk-18 精準射手步槍\n\n使用彈藥類型：[D3CE1D].338 Lapua Magnum[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n射手步槍獎勵：造成 [4FBE28]50%[-] 額外傷害
+gunfamasDesc,FAMAS 突击步枪\n\n使用弹药类型：[D3CE1D]5.56×45[-]\n修复方式：[D3CE1D]武器修理套件[-]\n\n安装枪灯/激光瞄准器前需要先安装握把或下护木,FAMAS 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.56×45[-]\n修復方式：[D3CE1D]武器修理套件[-]\n\n安裝槍燈/雷射瞄準器前需要先安裝握把或下護木
+gunhkg3Desc,HK G3 突击步枪\n\n使用弹药类型：[D3CE1D]7.62×51[-]\n修复方式：[D3CE1D]武器修理套件[-],HK G3 突擊步槍\n\n使用彈藥類型：[D3CE1D]7.62×51[-]\n修復方式：[D3CE1D]武器修理套件[-]
+
+gunfn40glDesc,FN40GL Mk2 榴弹发射器\n\n使用弹药类型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-],FN40GL Mk2 榴彈發射器\n\n使用彈藥類型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunchinalakeDesc,NAWS China Lake 榴弹发射器\n\n使用弹药类型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-],NAWS China Lake 榴彈發射器\n\n使用彈藥類型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunm32a1mglDesc,Milkor M32A1 MSGL 榴弹发射器\n\n使用弹药类型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-],Milkor M32A1 MSGL 榴彈發射器\n\n使用彈藥類型：[D3CE1D]40×46[-]\n修復方式：[D3CE1D]武器修理套件[-]
+gunrpg7Desc,RPG-7V2「Ruchnoy Protivotankovyy Granatomot」手持反战车火箭推进榴弹发射器\n\n使用弹药类型：[D3CE1D]93×40[-]\n修復方式：[D3CE1D]武器修理套件[-],RPG-7V2「Ruchnoy Protivotankovyy Granatomot」手持反戰車火箭推進榴彈發射器\n\n使用彈藥類型：[D3CE1D]93×40[-]\n修復方式：[D3CE1D]武器修理套件[-]
+
+gunExplosivesT3RocketLauncher,[004CFF]火箭发射器[-],[004CFF]火箭發射器[-]
+meleeToolAxeT1IronFireaxe,铁製消防斧,鐵製消防斧
+meleeToolAxeT2SteelAxe,[09FF00]钢斧[-],[09FF00]鋼斧[-]
+meleeToolAxeT3Chainsaw,[004CFF]链锯[-],[004CFF]鏈鋸[-]
+meleeToolPickT1IronPickaxe,小镐,小鎬
+meleeToolPickT2SteelPickaxe,[09FF00]钢镐[-],[09FF00]鋼鎬[-]
+meleeToolPickT3Auger,[004CFF]钉枪(骑马钉)[-],[004CFF]釘槍(騎馬釘)[-]
+meleeToolRepairT1ClawHammer,羊角锤,羊角錘
+meleeToolRepairT3Nailgun,[004CFF]射钉枪(钉子)[-],[004CFF]射釘槍(釘子)[-]
+meleeToolSalvageT1Wrench,扳手,扳手
+meleeToolSalvageT2Ratchet,[09FF00]棘轮[-],[09FF00]棘輪[-]
+meleeToolSalvageT3ImpactDriver,[004CFF]冲击起子[-],[004CFF]衝擊起子[-]
+meleeToolShovelT1IronShovel,铁铲,鐵鏟
+meleeToolShovelT2SteelShovel,[09FF00]钢铲[-],[09FF00]鋼鏟[-]
+meleeWpnBatonT2StunBaton,[09FF00]电击警棍[-],[09FF00]電擊警棍[-]
+meleeWpnBladeT1HuntingKnife,刀,刀
+meleeWpnBladeT3Machete,[004CFF]弯刀[-],[004CFF]彎刀[-]
+meleeWpnClubT1BaseballBat,棒球棒,棒球棒
+meleeWpnClubT3SteelClub,[004CFF]棍棒[-],[004CFF]棍棒[-]
+meleeWpnKnucklesT1IronKnuckles,拳套,拳套
+meleeWpnKnucklesT3SteelKnuckles,[004CFF]尖刺拳套[-],[004CFF]尖刺拳套[-]
+meleeWpnSledgeT1IronSledgehammer,大锤,大錘
+meleeWpnSledgeT3SteelSledgehammer,[004CFF]大锤[-],[004CFF]大錘[-]
+meleeWpnSpearT1IronSpear,拼接长矛,拼接長矛
+meleeWpnSpearT3SteelSpear,[004CFF]钢矛[-],[004CFF]鋼矛[-]
+gunBotT1JunkSledge,垃圾大锤机器人,垃圾大錘機器人
+gunBotT2JunkTurret,[09FF00]垃圾炮塔[-],[09FF00]垃圾炮塔[-]
+gunBotT3JunkDrone,[004CFF]无人机[-],[004CFF]無人機[-]
+gunBowT1WoodenBow,反曲弓,反曲弓
+gunBowT3CompoundBow,[004CFF]复合弓[-],[004CFF]複合弓[-]
+gunBowT1IronCrossbow,弩,十字弓
+gunBowT3CompoundCrossbow,[004CFF]复合弩[-],[004CFF]複合十字弓[-]
+
+modGunMeleeRadRemoverDesc,抑制辐射僵尸的再生能力 [4FBE28]10[-] 秒。,抑制輻射僵屍的再生能力 [4FBE28]10[-] 秒。
+modGunCrippleEmDesc,击中后，僵尸的移动速度会降低 [4FBE28]30%[-]。,擊中後，僵屍的移動速度會降低 [4FBE28]30%[-]。
+modGunLaserSightDesc,重量：[4FBE28]0.12kg[-]\n腰射准确度：[4FBE28]+12.5%[-]\n\n相容性：所有配备战术轨道的枪支\n按 F 键开启。,重量：[4FBE28]0.12kg[-]\n腰射準確度：[4FBE28]+12.5%[-]\n\n相容性：所有配備戰術軌道的槍支\n按 F 鍵開啟。
+modMeleeTemperedBladeDesc,此改造刀片可提高对建筑方块伤害 [4FBE28]10%[-] 并降低磨损 [4FBE28]15%[-],此改造刀片可提高對建築方塊傷害 [4FBE28]10%[-] 並降低磨損 [4FBE28]15%[-]
+modMeleeSerratedBladeDesc,[4FBE28]10%[-] 机率于普通攻击时追加流血效果。,[4FBE28]10%[-] 機率於普通攻擊時追加流血效果。
+modMeleeWeightedHeadDesc,适用于所有近战武器和工具。\n提高眩晕和减速效果的发生机率。\n造成 [4FBE28]10%[-] 额外伤害。\n猎刀和大砍刀无法适用。,適用於所有近戰武器和工具。\n提高眩暈和減速效果的發生機率。\n造成 [4FBE28]10%[-] 額外傷害。\n獵刀和大砍刀無法適用。
+modGunMeleeTheHunterDesc,对所有目标造成[4FBE28]10%[-]的额外伤害。,對所有目標造成[4FBE28]10%[-]的額外傷害。
+modMeleeErgonomicGripDesc,减少近战耐力消耗 [4FBE28]10%[-] 并增加弓箭武器处理能力 [4FBE28]10%[-]。,減少近戰耐力消耗 [4FBE28]10%[-] 並增加弓箭武器處理能力 [4FBE28]10%[-]。
+modMeleeFortifyingGripDesc,当生命值低于 50% 时，每 5 秒获得 [4FBE28]1[-] 点生命值。,當生命值低於 50% 時，每 5 秒獲得 [4FBE28]1[-] 點生命值。
+modMeleeStructuralBraceDesc,近战武器和工具的磨损降低[4FBE28] 25％[-]。,近戰武器和工具的磨損降低[4FBE28] 25％[-]。
+modMeleeDiamondTipDesc,任何手动工具或刀刃类型武器磨损降低 [4FBE28]40%[-]。\n提高对建筑方块或者目标伤害 [4FBE28]10%[-]。,任何手動工具或刀刃類型武器磨損降低 [4FBE28]40%[-]。\n提高對建築方塊或者目標傷害 [4FBE28]10%[-]。
+modMeleeClubBarbedWireDesc,[4FBE28]有20%[-]的机率造成流血伤害，[4FBE28]有40%[-]的机率发动重击。\n可以安装在高尔夫球杆上。,[4FBE28]有20%[-]的機率造成流血傷害，[4FBE28]有40%[-]的機率發動重擊。\n可以安裝在高爾夫球桿上。
+modMeleeClubMetalChainDesc,[4FBE28]有10%[-]的概率击倒对手。\n可安装在高尔夫球杆上。,[4FBE28]有10%[-]的機率擊倒對手。\n可安裝在高爾夫球桿上。
+modMeleeClubMetalSpikesDesc,每次连续打击都会降低敌人的护甲等级 [4FBE28]20%[-]。\n可以安装在高尔夫球杆上。,每次連續打擊都會降低敵人的護甲等級 [4FBE28]20%[-]。\n可以安裝在高爾夫球桿上。
+modMeleeFiremansAxeModDesc,对方块造成 [4FBE28]25%[-] 额外伤害并对敌人造成 [4FBE28]5%[-] 额外伤害。,對方塊造成 [4FBE28]25%[-] 額外傷害並對敵人造成 [4FBE28]5%[-] 額外傷害。
+modMeleeBunkerBusterDesc,[4FBE28]对石头的伤害增加50%[-]。,[4FBE28]對石頭的傷害增加50%[-]。
+modMeleeWoodSplitterDesc,[4FBE28]对木材的伤害增加50%[-]。,[4FBE28]對木材的傷害增加50%[-]。
+modMeleeGraveDiggerDesc,[4FBE28]对泥土的伤害增加 50%[-]。,[4FBE28]對泥土的傷害增加 50%[-]。
+modMeleeIronBreakerDesc,[4FBE28]对铁的伤害增加50%[-]。,[4FBE28]對鐵的傷害增加50%[-]。
+modFuelTankLargeDesc,将链锯和螺旋钻的油箱容量增加 [4FBE28]100%[-]。,將鏈鋸和螺旋鑽的油箱容量增加 [4FBE28]100%[-]。
+modFuelTankSmallDesc,将链锯和螺旋钻的油箱容量增加 [4FBE28]50%[-]。,將鏈鋸和螺旋鑽的油箱容量增加 [4FBE28]50%[-]。
+
+modMeleeDiamondTip,[004CFF]金刚石刀刃模组[-],[004CFF]鑽石刃尖模組[-]
+modGunCrippleEm,[004CFF]致残模组[-],[004CFF]瘸腿模組[-]
+modGunMeleeTheHunter,[004CFF]猎人模组[-],[004CFF]獵人模組[-]
+modGunMeleeRadRemover,[004CFF]辐射干扰器[-],[004CFF]輻射干擾器[-]
+modFuelTankLarge,[004CFF]大型油箱[-],[004CFF]大型油箱[-]
+modFuelTankSmall,[09FF00]扩展油箱[-],[09FF00]擴展油箱[-]
+modArmorBandolier,[004CFF]子弹带[-],[004CFF]子彈帶[-]
+modArmorImprovedFittings,改进配件,改進配件
+modArmorCustomizedFittings,[09FF00]定制配件[-],[09FF00]特製配件[-]
+modArmorPlatingBasic,基础装甲板,基礎裝甲板
+modArmorPlatingReinforced,[09FF00]强化装甲板[-],[09FF00]強化裝甲板[-]
+modArmorDoubleStoragePocket,[09FF00]双重储物袋[-],[09FF00]雙重儲物袋[-]
+modArmorTripleStoragePocket,[004CFF]三重储物袋[-],[004CFF]三重儲物袋[-]
+modArmorQuadStoragePocket,[BB00FF]四重储物袋[-],[BB00FF]四重儲物袋[-]
+modArmorMuffledConnectors,[09FF00]消音连接器[-],[09FF00]消音連接器[-]
+modArmorAdvancedMuffledConnectors,[004CFF]高级消音连接器[-],[004CFF]高級消音連接器[-]
+modArmorImpactBracing,[09FF00]冲击支撑[-],[09FF00]衝擊支撐[-]
+modArmorStealthBoots,[09FF00]隐形靴[-],[09FF00]隱形靴[-]
+modArmorWaterPurifier,[09FF00]净水器[-],[09FF00]淨水器[-]
+modArmorHelmetLight,破旧头盔灯,破舊頭盔燈
+modArmorHelmetLight2,头盔灯,頭盔燈
+modArmorHelmetLight3,[09FF00]「Lumen」头盔灯[-],[09FF00]「Lumen」頭盔燈[-]
+modArmorHelmetLightDesc,破旧的微弱光源，可以安装在任何头部装甲上。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用。,破舊的微弱光源，可以安裝在任何頭部裝甲上。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用。
+modArmorHelmetLight2Desc,可安装于任何头部装甲的光源。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用。,可安裝於任何頭部裝甲的光源。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用。
+modArmorHelmetLight3Desc,非常明亮的光源，可安装在任何头部装甲上。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用。,非常明亮的光源，可安裝在任何頭部裝甲上。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用。
+modArmorNightVision,PVS 7 Gen 2 夜视镜,PVS 7 Gen 2 夜視鏡
+modArmorNightVision2,[09FF00]PVS 14 Gen 3 夜视镜[-],[09FF00]PVS 14 Gen 3 夜視鏡[-]
+modArmorNightVision3,[004CFF]Opsin Digital 夜视镜[-], [004CFF]Opsin Digital 夜視鏡[-]
+modArmorNightVisionDesc,使用这款夜视头盔配件，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用夜视镜。,使用這款夜視頭盔配件，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用夜視鏡。
+modArmorNightVision2Desc,使用这款夜视头盔配件，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用夜视镜。,使用這款夜視頭盔配件，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用夜視鏡。
+modArmorNightVision3Desc,使用这款高科技夜视头盔配件，在黑暗中也能看得一清二楚。，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）来启用夜视镜。,使用這款高科技夜視頭盔配件，在黑暗中也能看得一清二楚。，在黑暗中也能看得清楚。\n\n按下（[action:permanent:ToggleFlashlight][action:local:ToggleFlashlight]）來啟用夜視鏡。
+modArmorCigar,[BB00FF]雪茄[-],[BB00FF]雪茄[-]
+modArmorAgility,[BB00FF]+1 敏捷[-],[BB00FF]+1 敏捷[-]
+modArmorFortitude,[BB00FF]+1 坚毅[-],[BB00FF]+1 堅毅[-]
+modArmorIntellect,[BB00FF]+1 智力[-],[BB00FF]+1 智力[-]
+modArmorPerception,[BB00FF]+1 感知[-],[BB00FF]+1 感知[-]
+modArmorStrength,[BB00FF]+1 力量[-],[BB00FF]+1 力量[-]
+modGunFlashlight,战术手电筒,戰術手電筒
+modGunLaserSight,[09FF00]战术激光指示器[-],[09FF00]戰術雷射指示器[-]
+modGunLaserSightDesc,重量：[4FBE28]0.12kg[-]\n腰射准确度：[4FBE28]+12%[-]\n\n相容性：所有配备战术轨道的枪支\n按 [D3CE1D]F[-]启用。,重量：[4FBE28]0.12kg[-]\n腰射准确度：[4FBE28]+12%[-]\n\n相容性：所有配備戰術軌道的槍支\n按 [D3CE1D]F[-]啟用。
+modbipodrailRexana,[BB00FF]BT10 V8 Atlas 摺叠脚架[-],[BB00FF]BT10 V8 Atlas 摺疊腳架[-]
+modbipodrailRexanaDesc,重量：[4FBE28]0.310kg[-]\n人体工学：[FF4F33]-10%[-] / [4FBE28]+25%[-](脚架展开后)\n腰射准确度：[FF4F33]-12%[-]\n后座力：[4FBE28]-50%[-](脚架展开后)\n\n相容性：多数步枪与STM-9,重量：[4FBE28]0.310kg[-]\n人体工学：[FF4F33]-10%[-] / [4FBE28]+25%[-](腳架展開後)\n腰射准确度：[FF4F33]-12%[-]\n后座力：[4FBE28]-50%[-](腳架展開後)\n\n相容性：多數步槍與STM-9
+modgriphksturmgriff,[09FF00]HK Sturmgriff 前握把[-],[09FF00]HK Sturmgriff 前握把[-]
+modgriphksturmgriffDesc,重量：[4FBE28]0.070kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+5%[-]\n\n相容性：适用于大多数枪械的通用握把。使得在护木较短的枪械上安装附件(如激光指示器、枪灯)成为可能。,重量：[4FBE28]0.070kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+5%[-]\n\n相容性：適用於大多數槍械的通用握把。使得在護木較短的槍械上安裝附件(如雷射指示器、槍燈)成為可能。
+modgripmagpulrvg,[004CFF]Magpul 战术握把[-],[004CFF]Magpul 戰術握把[-]
+modgripmagpulrvgDesc,重量：[4FBE28]0.080kg[-]\n人体工学：[4FBE28]+20%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-6%[-]\n\n相容性：适用于大多数枪械的通用握把。使得在护木较短的枪械上安装附件(如激光指示器、枪灯)成为可能。,重量：[4FBE28]0.080kg[-]\n人體工學：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-6%[-]\n\n相容性：適用於大多數槍械的通用握把。使得在護木較短的槍械上安裝附件(如雷射指示器、槍燈)成為可能。
+modgripzenitrk1,[BB00FF]Zenit RK-1 前握把[-],[BB00FF]Zenit RK-1 前握把[-]
+modgripzenitrk1Desc,重量：[4FBE28]0.170kg[-]\n人体工学：[4FBE28]+30%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-10%[-]\n\n相容性：适用于大多数枪械的通用握把。使得在护木较短的枪械上安装附件(如激光指示器、枪灯)成为可能。,重量：[4FBE28]0.170kg[-]\n人体工学：[4FBE28]+30%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-10%[-]\n\n相容性：適用於大多數槍械的通用握把。使得在護木較短的槍械上安裝附件(如雷射指示器、槍燈)成為可能。
+modgripzenitb25urk1,[BB00FF]Zenit RK-1 前握把(裝在 B-25U 支架上)[-],[BB00FF]Zenit RK-1 前握把(裝在 B-25U 支架上)[-]
+modgripzenitb25urk1Desc,重量：[4FBE28]0.180kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+20%[-]\n后座力：[4FBE28]-8%[-]\n\n相容性：适用于大多数枪械的通用握把。使得在护木较短的枪械上安装附件(如激光指示器、枪灯)成为可能。,重量：[4FBE28]0.180kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-8%[-]\n\n相容性：適用於大多數槍械的通用握把。使得在護木較短的槍械上安裝附件(如雷射指示器、槍燈)成為可能。
+modhandguardUziRailedForegrip,[09FF00]UZI 战术握把[-],[09FF00]UZI 戰術握把[-]
+modhandguardUziRailedForegripDesc,安装此握把将额外提供安装[4FBE28]雷射指示器、枪灯[-]的扩展能力。\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-7%[-]\n\n相容性：UZI,安裝此握把將額外提供安裝[4FBE28]雷射指示器、槍燈[-]的擴展能力。\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-7%[-]\n\n相容性：UZI
+
+modscopePU3_5x,[09FF00]PU 3.5倍瞄准镜[-],[09FF00]PU 3.5倍瞄準鏡[-]
+modscopePU3_5xDesc,重量：[4FBE28]0.440kg[-]\n\n兼容性：莫辛纳甘、SVT-40,重量：[4FBE28]0.440kg[-]\n\n相容性：莫辛納甘、SVT-40
+modscopeaimpointAcroP1,[09FF00]Aimpoint ACRO P-1反射瞄准镜[-],[09FF00]Aimpoint ACRO P-1反射瞄準鏡[-]
+modscopeaimpointAcroP1Desc,重量：[4FBE28]0.130kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.130kg[-]\n\n相容性：適用於大多數槍械
+modscopeaimpointAcroP1canted,[09FF00]Aimpoint ACRO P-1反射瞄准镜(側向)[-],[09FF00]Aimpoint ACRO P-1反射瞄準鏡(側向)[-]
+modscopeaimpointAcroP1cantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeaimpointMicroH2,[09FF00]Aimpoint Micro H2反射瞄准镜[-],[09FF00]Aimpoint Micro H2反射瞄準鏡[-]
+modscopeaimpointMicroH2Desc,重量：[4FBE28]0.109kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.109kg[-]\n\n相容性：適用於大多數槍械
+modscopeaimpointMicroH2canted,[09FF00]Aimpoint Micro H-2反射瞄准镜(側向)[-],[09FF00]Aimpoint Micro H-2反射瞄準鏡(側向)[-]
+modscopeaimpointMicroH2cantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeaimpointMicroT1,[09FF00]Aimpoint Micro T1反射瞄准镜[-],[09FF00]Aimpoint Micro T1反射瞄準鏡[-]
+modscopeaimpointMicroT1Desc,重量：[4FBE28]0.099kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.099kg[-]\n\n相容性：適用於大多數槍械
+modscopeaimpointMicroT1canted,[09FF00]Aimpoint Micro T-1反射瞄准镜(側向)[-],[09FF00]Aimpoint Micro T-1反射瞄準鏡(側向)[-]
+modscopeaimpointMicroT1cantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeBelOMOpk06,[09FF00]BelOMO PK-06反射瞄准镜[-],[09FF00]BelOMO PK-06反射瞄準鏡[-]
+modscopeBelOMOpk06Desc,重量：[4FBE28]0.090kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.090kg[-]\n\n相容性：適用於大多數槍械
+modscopeBelOMOpk06canted,[09FF00]BelOMO PK-06反射瞄准镜(側向)[-],[09FF00]BelOMO PK-06反射瞄準鏡(側向)[-]
+modscopeBelOMOpk06cantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeburrisfastfire,[09FF00]Burris Fastfire Reflex 3反射瞄准镜[-],[09FF00]Burris Fastfire Reflex 3反射瞄準鏡[-]
+modscopeburrisfastfireDesc,重量：[4FBE28]0.042kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.042kg[-]\n\n相容性：適用於大多數槍械
+modscopeburrisfastfirecanted,[09FF00]Burris FastFire 3反射瞄准镜(側向)[-],[09FF00]Burris FastFire 3反射瞄準鏡(側向)[-]
+modscopeburrisfastfirecantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeSIGromeo4,[09FF00]SIG SAUER ROMEO 4反射瞄准镜[-],[09FF00]SIG SAUER ROMEO 4反射瞄準鏡[-]
+modscopeSIGromeo4Desc,重量：[4FBE28]0.104kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.104kg[-]\n\n相容性：適用於大多數槍械
+modscopeSIGromeo4canted,[09FF00]SIG Sauer ROMEO4反射瞄准镜(側向)[-],[09FF00]SIG Sauer ROMEO4反射瞄準鏡(側向)[-]
+modscopeSIGromeo4cantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeRMR,[09FF00]Trijicon RMR反射瞄准镜[-],[09FF00]Trijicon RMR反射瞄準鏡[-]
+modscopeRMRDesc,重量：[4FBE28]0.042kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.042kg[-]\n\n相容性：適用於大多數槍械
+modscopeRMRcanted,[09FF00]Trijicon RMR反射瞄准镜(側向)[-],[09FF00]Trijicon RMR反射瞄準鏡(側向)[-]
+modscopeRMRcantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeleupolddeltapoint,[09FF00]Leupold DeltaPoint反射瞄准镜[-],[09FF00]Leupold DeltaPoint反射瞄準鏡[-]
+modscopeleupolddeltapointDesc,重量：[4FBE28]0.098kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.098kg[-]\n\n相容性：適用於大多數槍械
+modscopeleupolddeltapointcanted,[09FF00]Leupold DeltaPoint反射瞄准镜(側向)[-],[09FF00]Leupold DeltaPoint反射瞄準鏡(側向)[-]
+modscopeleupolddeltapointcantedDesc,性能与同名瞄准镜相同，安装在后置偏置瞄准镜座上以求快速瞄准近距离目标。按下F键启用。,性能與同名瞄準鏡相同，安裝在後置偏置瞄準鏡座上以求快速瞄準近距離目標。按下 F 鍵啟用。
+modscopeAimPointCompM4,[09FF00]AimPoint CompM4反射瞄准镜[-],[09FF00]AimPoint CompM4反射瞄準鏡[-]
+modscopeAimPointCompM4Desc,重量：[4FBE28]0.445kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.445kg[-]\n\n相容性：適用於大多數槍械
+modscopeAimPointPro,[09FF00]AimPoint PRO反射瞄准镜[-],[09FF00]AimPoint PRO反射瞄準鏡[-]
+modscopeAimPointProDesc,重量：[4FBE28]0.345kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.345kg[-]\n\n相容性：適用於大多數槍械
+modscopeaksionEKP818,[09FF00]Aksion Kobra EKP-8-18反射瞄准镜[-],[09FF00]Aksion Kobra EKP-8-18反射瞄準鏡[-]
+modscopeaksionEKP818Desc,重量：[4FBE28]0.270kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.270kg[-]\n\n相容性：適用於大多數槍械
+modscopeaksionEKP1s03,[09FF00]Aksion Kobra EKP-1S-03反射瞄准镜(燕尾式)[-],[09FF00]Aksion Kobra EKP-1S-03反射瞄準鏡(燕尾式)[-]
+modscopeaksionEKP1s03Desc,重量：[4FBE28]0.270kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.270kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeaksionEKP802,[09FF00]Aksion Kobra EKP-8-02反射瞄准镜(燕尾式)[-],[09FF00]Aksion Kobra EKP-8-02反射瞄準鏡(燕尾式)[-]
+modscopeaksionEKP802Desc,重量：[4FBE28]0.270kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.270kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeBelOMOdovetailPKAA,[09FF00]BelOMO PK-AA反射瞄准镜(燕尾式)[-],[09FF00]BelOMO PK-AA反射瞄準鏡(燕尾式)[-]
+modscopeBelOMOdovetailPKAADesc,重量：[4FBE28]0.450kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.450kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeElcanSpecterHCO,[09FF00]Elcan Specter HCO全息瞄准镜[-],[09FF00]Elcan Specter HCO全息瞄準鏡[-]
+modscopeElcanSpecterHCODesc,重量：[4FBE28]0.433kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.433kg[-]\n\n相容性：適用於大多數槍械
+modscopeLeapersUTG,[09FF00]Leapers UTG反射瞄准镜[-],[09FF00]Leapers UTG反射瞄準鏡[-]
+modscopeLeapersUTGDesc,重量：[4FBE28]0.227kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.227kg[-]\n\n相容性：適用於大多數槍械
+modscopeNPZPK1,[09FF00]NPZ PK-1 Obzor反射瞄准镜(燕尾式)[-],[09FF00]NPZ PK-1 Obzor反射瞄準鏡(燕尾式)[-]
+modscopeNPZPK1Desc,重量：[4FBE28]0.520kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.520kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeOKP7dovetail,[09FF00]OKP-7反射瞄准镜(燕尾式)[-],[09FF00]OKP-7反射瞄準鏡(燕尾式)[-]
+modscopeOKP7dovetailDesc,重量：[4FBE28]0.295kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.295kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeSIGRomeo8T,[09FF00]SIG Sauer ROMEO8T反射瞄准镜[-],[09FF00]SIG Sauer ROMEO8T反射瞄準鏡[-]
+modscopeSIGRomeo8TDesc,重量：[4FBE28]0.388kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.388kg[-]\n\n相容性：適用於大多數槍械
+modscopeSRS02,[09FF00]Trijicon SRS 02反射瞄准镜[-],[09FF00]Trijicon SRS 02反射瞄準鏡[-]
+modscopeSRS02Desc,重量：[4FBE28]0.390kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.390kg[-]\n\n相容性：適用於大多數槍械
+modscopeValdayKrechet,[09FF00]Valday Krechet反射瞄准镜[-],[09FF00]Valday Krechet反射瞄準鏡[-]
+modscopeValdayKrechetDesc,重量：[4FBE28]0.350kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.350kg[-]\n\n相容性：適用於大多數槍械
+modscopeValdayPK120,[09FF00]Valday PK-120反射瞄准镜[-],[09FF00]Valday PK-120反射瞄準鏡[-]
+modscopeValdayPK120Desc,重量：[4FBE28]0.297kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.297kg[-]\n\n相容性：適用於大多數槍械
+modscopeVOMZPiladP1,[09FF00]VOMZ Pilad P1x42反射瞄准镜[-],[09FF00]VOMZ Pilad P1x42反射瞄準鏡[-]
+modscopeVOMZPiladP1Desc,重量：[4FBE28]0.297kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.297kg[-]\n\n相容性：適用於大多數槍械
+modscopeVortexRazorAMGUH1,[09FF00]Vortex Razor AMG UH-1反射瞄准镜[-],[09FF00]Vortex Razor AMG UH-1反射瞄準鏡[-]
+modscopeVortexRazorAMGUH1Desc,重量：[4FBE28]0.160kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.160kg[-]\n\n相容性：適用於大多數槍械
+modscopewalthermrsreflex,[09FF00]Walther MRS反射瞄准镜[-],[09FF00]Walther MRS反射瞄準鏡[-]
+modscopewalthermrsreflexDesc,重量：[4FBE28]0.113kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.113kg[-]\n\n相容性：適用於大多數槍械
+modscopeWilcoxBossXeHP,[09FF00]Wilcox BOSS Xe反射瞄准镜[-],[09FF00]Wilcox BOSS Xe反射瞄準鏡[-]
+modscopeWilcoxBossXeHPDesc,重量：[4FBE28]0.250kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.250kg[-]\n\n相容性：適用於大多數槍械
+modscopeokp7reflex,[09FF00]OKP-7反射瞄准镜[-],[09FF00]OKP-7反射瞄準鏡[-]
+modscopeokp7reflexDesc,重量：[4FBE28]0.295kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.295kg[-]\n\n相容性：適用於大多數槍械
+modscopeEOTech553holo,[09FF00]EOTech 553全息瞄准镜[-],[09FF00]EOTech 553全息瞄準鏡[-]
+modscopeEOTech553holoDesc,重量：[4FBE28]0.349kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.349kg[-]\n\n相容性：適用於大多數槍械
+modscopeFNP90ringreflex,[004CFF]P90環形反射瞄准镜[-],[004CFF]P90環形反射瞄準鏡[-]
+modscopeFNP90ringreflexDesc,重量：[4FBE28]0.297kg[-]\n\n兼容性：P90,重量：[4FBE28]0.297kg[-]\n\n相容性：P90
+modscopeElcanSpecterDR,[004CFF]ELCAN SpecterDR 1倍/4倍瞄准镜[-],[004CFF]ELCAN SpecterDR 1倍/4倍瞄準鏡[-]
+modscopeElcanSpecterDRDesc,重量：[4FBE28]0.640kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.640kg[-]\n\n相容性：適用於大多數槍械
+modscopeNPZ1p78,[09FF00]NPZ 1P78-1 2.8倍瞄准镜(燕尾式)[-],[09FF00]NPZ 1P78-1 2.8倍瞄準鏡(燕尾式)[-]
+modscopeNPZ1p78Desc,重量：[4FBE28]0.640kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.640kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeNPZ1p29,[09FF00]NPZ USP-1 Tyulpan 4倍瞄准镜(燕尾式)[-],[09FF00]NPZ USP-1 Tyulpan 4倍瞄準鏡(燕尾式)[-]
+modscopeNPZ1p29Desc,重量：[4FBE28]0.500kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.500kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeBelOMOPSO1M2,[09FF00]BelOMO PSO-1M2-1 4x24瞄准镜(燕尾式)[-],[09FF00]BelOMO PSO-1M2-1 4x24瞄準鏡(燕尾式)[-]
+modscopeBelOMOPSO1M2Desc,重量：[4FBE28]0.600kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.600kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopemonstrumcompact,[09FF00]Monstrum Compact瞄准镜[-],[09FF00]Monstrum Compact瞄準鏡[-]
+modscopemonstrumcompactDesc,重量：[4FBE28]0.425kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.425kg[-]\n\n相容性：適用於大多數槍械
+modscopeSwampFoxPrism,[09FF00]SwampFox Trihawk Prism 3x30瞄准镜[-],[09FF00]SwampFox Trihawk Prism 3x30瞄準鏡[-]
+modscopeSwampFoxPrismDesc,重量：[4FBE28]0.436kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.436kg[-]\n\n相容性：適用於大多數槍械
+modscopeeotechhhshybrid,[004CFF]EOTech HHS Hybrid混合瞄准镜[-],[004CFF]EOTech HHS Hybrid混合瞄準鏡[-]
+modscopeeotechhhshybridDesc,重量：[4FBE28]0.635kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.635kg[-]\n\n相容性：適用於大多數槍械
+modscopeacogta01NSN4x32,[004CFF]Trijicon ACOG TA01NSN 4x32瞄准镜[-],[004CFF]Trijicon ACOG TA01NSN 4x32瞄準鏡[-]
+modscopeacogta01NSN4x32Desc,重量：[4FBE28]0.506kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.506kg[-]\n\n相容性：適用於大多數槍械
+modscopeacogta11D35x,[004CFF]Trijicon ACOG TA11D 3.5x35瞄准镜[-],[004CFF]Trijicon ACOG TA11D 3.5x35瞄準鏡[-]
+modscopeacogta11D35xDesc,重量：[4FBE28]0.506kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.506kg[-]\n\n相容性：適用於大多數槍械
+modscopeLeupoldMark4Hamr,[004CFF]Leupold Mark 4 HAMR 4x24混合瞄准镜[-],[004CFF]Leupold Mark 4 HAMR 4x24混合瞄準鏡[-]
+modscopeLeupoldMark4HamrDesc,重量：[4FBE28]0.411kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.411kg[-]\n\n相容性：適用於大多數槍械
+modscopeSIGBravo4,[004CFF]SIG Sauer BRAVO4 4x30瞄准镜[-],[004CFF]SIG Sauer BRAVO4 4x30瞄準鏡[-]
+modscopeSIGBravo4Desc,重量：[4FBE28]0.419kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.419kg[-]\n\n相容性：適用於大多數槍械
+modscopeValdayPS320,[004CFF]Valday PS-320 1/6倍瞄准镜[-],[004CFF]Valday PS-320 1/6倍瞄準鏡[-]
+modscopeValdayPS320Desc,重量：[4FBE28]0.570kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.570kg[-]\n\n相容性：適用於大多數槍械
+modscopeSBPMII18x2430mm,[004CFF]Schmidt & Bender PM II 1-8x24瞄准镜[-],[004CFF]Schmidt & Bender PM II 1-8x24瞄準鏡[-]
+modscopeSBPMII18x2430mmDesc,重量：[4FBE28]1.139kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]1.139kg[-]\n\n相容性：適用於大多數槍械
+modscopeSBPMII320x5034mm,[004CFF]Schmid & Bender PM II 3-20x50瞄准镜[-],[004CFF]Schmid & Bender PM II 3-20x50瞄準鏡[-]
+modscopeSBPMII320x5034mmDesc,重量：[4FBE28]1.240kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]1.240kg[-]\n\n相容性：適用於大多數槍械
+modscopeSBPMII525x5634mm,[004CFF]Schmidt & Bender PM II 5-25x56瞄准镜[-],[004CFF]Schmidt & Bender PM II 5-25x56瞄準鏡[-]
+modscopeSBPMII525x5634mmDesc,重量：[4FBE28]1.420kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]1.420kg[-]\n\n相容性：適用於大多數槍械
+modscopeBFTac3014x2430mm,[004CFF]Burris Fullfield TAC30 1-4x24瞄准镜[-],[004CFF]Burris Fullfield TAC30 1-4x24瞄準鏡[-]
+modscopeBFTac3014x2430mmDesc,重量：[4FBE28]0.726kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.726kg[-]\n\n相容性：適用於大多數槍械
+modscopeEOTVudu16x2430mm,[004CFF]EOTech Vudu 1-6x24瞄准镜[-],[004CFF]EOTech Vudu 1-6x24瞄準鏡[-]
+modscopeEOTVudu16x2430mmDesc,重量：[4FBE28]0.816kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.816kg[-]\n\n相容性：適用於大多數槍械
+modscopeLeupoldMark4LR30mm,[004CFF]Leupold Mark4 LR 6.5-20x50瞄准镜[-],[004CFF]Leupold Mark4 LR 6.5-20x50瞄準鏡[-]
+modscopeLeupoldMark4LR30mmDesc,重量：[4FBE28]0.870kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.870kg[-]\n\n相容性：適用於大多數槍械
+modscopeMarchTactical30mm,[004CFF]March Tactical 3-24x42瞄准镜[-],[004CFF]March Tactical 3-24x42瞄準鏡[-]
+modscopeMarchTactical30mmDesc,重量：[4FBE28]0.890kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.890kg[-]\n\n相容性：適用於大多數槍械
+modscopeSIGTango6T16x2430mm,[004CFF]SIG Sauer TANGO6T 1-6x24瞄准镜[-],[004CFF]SIG Sauer TANGO6T 1-6x24瞄準鏡[-]
+modscopeSIGTango6T16x2430mmDesc,重量：[4FBE28]0.876kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.876kg[-]\n\n相容性：適用於大多數槍械
+modscopeRazorHDGen216x2430mm,[004CFF]Vortex Razor HD Gen.2 1-6x24瞄准镜[-],[004CFF]Vortex Razor HD Gen.2 1-6x24瞄準鏡[-]
+modscopeRazorHDGen216x2430mmDesc,重量：[4FBE28]0.820kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.820kg[-]\n\n相容性：適用於大多數槍械
+modscopeNFATACR735x5634mm,[004CFF]Nightforce ATACR 7-35x56瞄准镜[-],[004CFF]Nightforce ATACR 7-35x56瞄準鏡[-]
+modscopeNFATACR735x5634mmDesc,重量：[4FBE28]1.363kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]1.363kg[-]\n\n相容性：適用於大多數槍械
+modscopeHensoldtFF416x5634mm,[004CFF]Hensoldt FF 4-16x56瞄准镜[-],[004CFF]Hensoldt FF 4-16x56瞄準鏡[-]
+modscopeHensoldtFF416x5634mmDesc,重量：[4FBE28]1.150kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]1.150kg[-]\n\n相容性：適用於大多數槍械
+modscopeNCStarADO,[004CFF]NcSTAR ADO P4 3-9x42混合瞄准镜[-],[004CFF]NcSTAR ADO P4 3-9x42混合瞄準鏡[-]
+modscopeNCStarADODesc,重量：[4FBE28]0.595kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.595kg[-]\n\n相容性：適用於大多數槍械
+modscopeKMZ1p69Weaver,[004CFF]KMZ 1P69 3-10倍瞄准镜(Weaver)[-],[004CFF]KMZ 1P69 3-10倍瞄準鏡(Weaver)[-]
+modscopeKMZ1p69WeaverDesc,重量：[4FBE28]0.940kg[-]\n\n兼容性：适用于大多数枪械,重量：[4FBE28]0.940kg[-]\n\n相容性：適用於大多數槍械
+modscopeKMZ1p69Dovetail,[004CFF]KMZ 1P69 3-10倍瞄准镜(燕尾式)[-],[004CFF]KMZ 1P69 3-10倍瞄準鏡(燕尾式)[-]
+modscopeKMZ1p69DovetailDesc,重量：[4FBE28]0.940kg[-]\n\n兼容性：适用于配有燕尾式导轨(一种旧式标准导轨，用于安装瞄准镜)的枪械,重量：[4FBE28]0.940kg[-]\n\n相容性：適用於配有燕尾式導軌(一種舊式標準導軌，用於安裝瞄準鏡)的槍械
+modscopeG36HensoldtCarryHandle3x,[004CFF]HK G36 Hensoldt HKV 3倍提把瞄准镜[-],[004CFF]HK G36 Hensoldt HKV 3倍提把瞄準鏡[-]
+modscopeG36HensoldtCarryHandle3xDesc,重量：[4FBE28]0.420kg[-]\n\n兼容性：G36,重量：[4FBE28]0.420kg[-]\n\n相容性：G36
+
+modmagppsh41drum71,PPSh-41 71发装弹弹鼓,PPSh-41 71發裝彈彈鼓
+modmagttcustomdrum75,TT-33 75发装弹弹鼓,TT-33 75發裝彈彈鼓
+modmagpmmakeshiftdrum84,PB/PM 84发装弹弹鼓,PB/PM 84發裝彈彈鼓
+modmagpp9extended30,PP-9 'Klin' 30发装弹弹匣,PP-9 'Klin' 30發裝彈彈匣
+modmagpp9snaildrum90,PP-9 'Klin' 90发装弹弹鼓,PP-9 'Klin' 90發裝彈彈鼓
+modmagpp19vityazdrum50,PP-19-01 50发装弹弹鼓,PP-19-01 50發裝彈彈鼓
+modmagsr2mtape60,SR-2M 60发装弹弹匣(使用胶带并联),SR-2M 60發裝彈彈匣(使用膠帶並聯)
+modmaguzi50std,UZI 50发装弹标准弹匣,UZI 50發裝彈標準彈匣
+modmagmp5std30,MP5K 30发装弹标准弹匣,MP5K 30發裝彈標準彈匣
+modmagmp5xproductdrum50,MP5 50发装弹弹鼓,MP5 50發裝彈彈鼓
+modmagmp5Cmag100,MP5 C形弹匣 100发装弹,MP5 C形彈匣 100發裝彈
+modmagmp9Cmag100,MP-9N/UZI C形弹匣 100发装弹,MP-9N/UZI C形彈匣 100發裝彈
+modmagglock9x19bigstick33,Glock 9x19 33发装弹弹匣,Glock 9x19 33發裝彈彈匣
+modmagglock9x19sgmtdrum50,Glock 9x19 50发装弹弹鼓,Glock 9x19 50發裝彈彈鼓
+modmagglock9x19Cmag100,Glock 9x19 C形弹匣 100发装弹,Glock 9x19 C形彈匣 100發裝彈
+modmagmpxbasepad41,SIG MPX 41发装弹弹匣,SIG MPX 41發裝彈彈匣
+modmagmpxf5mfgdrum50,SIG MPX 50发装弹弹鼓,SIG MPX 50發裝彈彈鼓
+modmagmpxCmag100,SIG MPX C形弹匣 100发装弹,SIG MPX C形彈匣 100發裝彈
+modmagump45casket60,UMP 45 60发装弹双进弹匣,UMP 45 60發裝彈雙進彈匣
+modmagump45customCmag100,UMP 45 C形弹匣 100发装弹,UMP 45 C形彈匣 100發裝彈
+modmagthompsondrum100,Thompson 100发装弹弹鼓,Thompson 100發裝彈彈鼓
+modmagglock45drum60,Vector 45 60发装弹弹鼓,Vector 45 60發裝彈彈鼓
+modmagglock45Cmag100,Vector 45 C形弹匣 100发装弹,Vector 45 C形彈匣 100發裝彈
+modmagmp7std40,MP7A1 40发装弹标准弹匣,MP7A1 40發裝彈標準彈匣
+modmagmp7box70,MP7A1 120发装弹盒式弹匣,MP7A1 120發裝彈盒式彈匣
+modmagP90ZakuPlate,P90 Zaku 100发装弹弹匣,P90 Zaku 100發裝彈彈匣
+modmagP90ZakuDrumChopped,P90 Zaku 135发装弹弹鼓,P90 Zaku 135發裝彈彈鼓
+modmagP90ZakuDrum,P90 Zaku 200发装弹弹鼓,P90 Zaku 200發裝彈彈鼓
+modmagak74std30,AK-74 30发装弹标准弹匣,AK-74 30發裝彈標準彈匣
+modmagAK74extended45,5.45×39 45发装弹弹匣,5.45×39 45發裝彈彈匣
+modmagAK74_6L31_60,5.45×39 60发装弹弹匣,5.45×39 60發裝彈彈匣
+modmagRPK16drum95,5.45×39 95发装弹弹鼓,5.45×39 95發裝彈彈鼓
+modmagSKSextended35,SKS 35发装弹弹匣,SKS 35發裝彈彈匣
+modmagSKSdrum75,SKS 75发装弹弹鼓,SKS 75發裝彈彈鼓
+modmagakmstd30,AKMN 30发装弹标准弹匣,AKMN 30發裝彈標準彈匣
+modmagAK762extended40,7.62×39 40发装弹弹匣,7.62×39 40發裝彈彈匣
+modmagAK762molotdrum75,7.62×39 75发装弹弹鼓,7.62×39 75發裝彈彈鼓
+modmagAK762steeldrum100,7.62×39 100发装弹弹鼓,7.62×39 100發裝彈彈鼓
+modmag762x39RPDBox200,RPD 200发装弹盒式弹匣,RPD 200發裝彈盒式彈匣
+modmag762NATOjunglefighter35,7.62×51 35发装弹弹匣,7.62×51 35發裝彈彈匣
+modmagSA58FAL30,FN FAL 30发装弹标准弹匣,FN FAL 30發裝彈標準彈匣
+modmagSA58FALXproduct50,FN FAL 50发装弹弹匣,FN FAL 50發裝彈彈匣
+modmag762NATOM14xproduct50,M14 50发装弹弹匣,M14 50發裝彈彈匣
+modmag762NATOX25drum50,7.62×51 50发装弹弹鼓,7.62×51 50發裝彈彈鼓
+modmag762NATOCmag100,7.62×51 C形弹匣 100发装弹,7.62×51 C形彈匣 100發裝彈
+modmagM60TriBoxWelded250,M60E6 250发装弹盒式弹匣(三盒焊接),M60E6 250發裝彈盒式彈匣(三盒焊接)
+modmagSVDstd20,SVDS 'Dragunov' 20发装弹标准弹匣,SVDS 'Dragunov' 20發裝彈標準彈匣
+modmagSVDmakeshiftdrum50,SVDS 'Dragunov' 50发装弹弹鼓,SVDS 'Dragunov' 50發裝彈彈鼓
+modmag762x54RPKBox200,PKP Pecheneg 200发装弹盒式弹匣,PKP Pecheneg 200發裝彈盒式彈匣
+modmagAUGextended42,AUG A3 42发装弹弹匣,AUG A3 42發裝彈彈匣
+modmagAUGdrum60,AUG A3 60发装弹弹鼓,AUG A3 60發裝彈彈鼓
+modmagstanagstd30,STANAG 30发装弹标准弹匣,STANAG 30發裝彈標準彈匣
+modmagstanag556x45pmag40,5.56×45 & .300blk 40发装弹弹匣,5.56×45 & .300blk 40發裝彈彈匣
+modmagstanag556x45pmagd60,5.56×45 & .300blk 60发装弹弹鼓,5.56×45 & .300blk 60發裝彈彈鼓
+modmagstanag556x45sf60,5.56×45 & .300blk 60发装弹弹匣,5.56×45 & .300blk 60發裝彈彈匣
+modmagstanag556x45sf100,5.56×45 & .300blk 100发装弹弹匣,5.56×45 & .300blk 100發裝彈彈匣
+modmag556AKmolot45,Velociraptor 45发装弹弹匣,Velociraptor 45發裝彈彈匣
+modmagvssval30,VSS/AS VAL 30发装弹弹匣,VSS/AS VAL 30發裝彈彈匣
+modmagvssval45,VSS/AS VAL 40发装弹弹匣,VSS/AS VAL 40發裝彈彈匣
+modmagAsh12extended40,ASh-12 40发装弹弹匣,ASh-12 40發裝彈彈匣
+modmagAsh12extended60,ASh-12 60发装弹弹匣,ASh-12 60發裝彈彈匣
+modmag338SwordMK18Pmag20,Mk-18 20发装弹弹匣,Mk-18 20發裝彈彈匣
+modmag_870_remington_magazine_extension_12g_10,M870 11发装弹弹匣,M870 11發裝彈彈匣
+modmag_m3_benelli_std_12g_7,M3 Benelli 8发装弹标准弹匣,M3 Benelli 8發裝彈標準彈匣
+modmag_m3_tonisystem_magazine_extension_12g_13,M3 Benelli 14发装弹弹匣,M3 Benelli 14發裝彈彈匣
+modmag_mr153_izhmeh_12g_8,MP-153 & MP-155 9发装弹弹匣,MP-153 & MP-155 9發裝彈彈匣
+modmag_saiga12_maxrounds_powermag_20_12x76_20,Saiga-12K 20发装弹弹匣,Saiga-12K 20發裝彈彈匣
+modmag_aa12_mps_aa12_drum_mag_12g_20,AA-12 20发装弹弹鼓,AA-12 20發裝彈彈鼓
+modmag_aa12_drum_mag_12g_32,AA-12 32发装弹弹鼓,AA-12 32發裝彈彈鼓
+
+modmagppsh41drum71Desc,重量：[4FBE28]0.900kg[-]\n装弹数：[4FBE28]71[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：PPSH-41,重量：[4FBE28]0.900kg[-]\n裝彈數：[4FBE28]71[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：PPSH-41
+modmagttcustomdrum75Desc,重量：[4FBE28]0.750kg[-]\n装弹数：[4FBE28]75[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：TT-33,重量：[4FBE28]0.750kg[-]\n裝彈數：[4FBE28]75[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：TT-33
+modmagpmmakeshiftdrum84Desc,重量：[4FBE28]0.364kg[-]\n装弹数：[4FBE28]84[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：PB, PM,重量：[4FBE28]0.364kg[-]\n裝彈數：[4FBE28]84[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：PB, PM
+modmagpp9extended30Desc,重量：[4FBE28]0.128kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：PP-9 'Klin',重量：[4FBE28]0.128kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：PP-9 'Klin'
+modmagpp9snaildrum90Desc,重量：[4FBE28]0.471kg[-]\n装弹数：[4FBE28]90[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：PP-9 'Klin',重量：[4FBE28]0.471kg[-]\n裝彈數：[4FBE28]90[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：PP-9 'Klin'
+modmagpp19vityazdrum50Desc,重量：[4FBE28]0.460kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：PP-19-01,重量：[4FBE28]0.460kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：PP-19-01
+modmagsr2mtape60Desc,重量：[4FBE28]0.323kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：SR-2M,重量：[4FBE28]0.323kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：SR-2M
+modmaguzi50stdDesc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：UZI,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：UZI
+modmagmp5std30Desc,重量：[4FBE28]0.170kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：MP5K,重量：[4FBE28]0.170kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：MP5K
+modmagmp5xproductdrum50Desc,重量：[4FBE28]0.640kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：MP5K, MP5, MP5SD,重量：[4FBE28]0.640kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：MP5K, MP5, MP5SD
+modmagmp5Cmag100Desc,重量：[4FBE28]1.180kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：MP5, MP5SD\n需装备战术握把以安装在枪支上。,重量：[4FBE28]1.180kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：MP5, MP5SD\n需裝備戰術握把以安裝在槍枝上。
+modmagmp9Cmag100Desc,重量：[4FBE28]1.180kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：MP-9N, UZI, UZI Pro SMG,重量：[4FBE28]1.180kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：MP-9N, UZI, UZI Pro SMG
+modmagglock9x19bigstick33Desc,重量：[4FBE28]0.150kg[-]\n装弹数：[4FBE28]33[-]\n\n相容性：Glock 17, Glock 18C,重量：[4FBE28]0.150kg[-]\n裝彈數：[4FBE28]33[-]\n\n相容性：Glock 17, Glock 18C
+modmagglock9x19sgmtdrum50Desc,重量：[4FBE28]0.600kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：Glock 17, Glock 18C, Vector 9, STM-9,重量：[4FBE28]0.600kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：Glock 17, Glock 18C, Vector 9, STM-9
+modmagglock9x19Cmag100Desc,重量：[4FBE28]1.100kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：Glock 17, Glock 18C, Vector 9, STM-9,重量：[4FBE28]1.100kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：Glock 17, Glock 18C, Vector 9, STM-9
+modmagmpxbasepad41Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]41[-]\n\n相容性：SIG MPX,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]41[-]\n\n相容性：SIG MPX
+modmagmpxf5mfgdrum50Desc,重量：[4FBE28]0.650kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：SIG MPX,重量：[4FBE28]0.650kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：SIG MPX
+modmagmpxCmag100Desc,重量：[4FBE28]1.250kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：SIG MPX,重量：[4FBE28]1.250kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：SIG MPX
+modmagump45casket60Desc,重量：[4FBE28]0.800kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：UMP 45,重量：[4FBE28]0.800kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：UMP 45
+modmagump45customCmag100Desc,重量：[4FBE28]1.270kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：UMP 45,重量：[4FBE28]1.270kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：UMP 45
+modmagthompsondrum100Desc,重量：[4FBE28]1.950kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：Thompson,重量：[4FBE28]1.950kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：Thompson
+modmagglock45drum60Desc,重量：[4FBE28]0.750kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+10%[-]\n\n相容性：Vector 45,重量：[4FBE28]0.750kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+10%[-]\n\n相容性：Vector 45
+modmagglock45Cmag100Desc,重量：[4FBE28]1.200kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：Vector 45,重量：[4FBE28]1.200kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：Vector 45
+modmagmp7std40Desc,重量：[4FBE28]0.200kg[-]\n装弹数：[4FBE28]40[-]\n\n相容性：MP7A1,重量：[4FBE28]0.200kg[-]\n裝彈數：[4FBE28]40[-]\n\n相容性：MP7A1
+modmagmp7box70Desc,重量：[4FBE28]0.580kg[-]\n装弹数：[4FBE28]120[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：MP7A1,重量：[4FBE28]0.580kg[-]\n裝彈數：[4FBE28]120[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：MP7A1
+modmagP90ZakuPlateDesc,重量：[4FBE28]0.600kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：P90,重量：[4FBE28]0.600kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：P90
+modmagP90ZakuDrumChoppedDesc,重量：[4FBE28]0.666kg[-]\n装弹数：[4FBE28]135[-]\n更换弹匣时间：[FF4F33]+22%[-]\n\n相容性：P90,重量：[4FBE28]0.666kg[-]\n裝彈數：[4FBE28]135[-]\n更換彈匣時間：[FF4F33]+22%[-]\n\n相容性：P90
+modmagP90ZakuDrumDesc,重量：[4FBE28]1.200kg[-]\n装弹数：[4FBE28]200[-]\n更换弹匣时间：[FF4F33]+25%[-]\n\n相容性：P90,重量：[4FBE28]1.200kg[-]\n裝彈數：[4FBE28]200[-]\n更換彈匣時間：[FF4F33]+25%[-]\n\n相容性：P90
+modmagak74std30Desc,重量：[4FBE28]0.215kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：AKS-74UN, AK-74N,重量：[4FBE28]0.215kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：AKS-74UN, AK-74N
+modmagAK74extended45Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]45[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]45[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：下列口徑的槍械：5.45×39
+modmagAK74_6L31_60Desc,重量：[4FBE28]0.400kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.400kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：5.45×39
+modmagRPK16drum95Desc,重量：[4FBE28]0.680kg[-]\n装弹数：[4FBE28]95[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：5.45×39,重量：[4FBE28]0.680kg[-]\n裝彈數：[4FBE28]95[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：5.45×39
+modmagSKSextended35Desc,重量：[4FBE28]0.185kg[-]\n装弹数：[4FBE28]35[-]\n\n相容性：SKS,重量：[4FBE28]0.185kg[-]\n裝彈數：[4FBE28]35[-]\n\n相容性：SKS
+modmagSKSdrum75Desc,重量：[4FBE28]1.043kg[-]\n装弹数：[4FBE28]75[-]\n\n相容性：SKS,重量：[4FBE28]1.043kg[-]\n裝彈數：[4FBE28]75[-]\n\n相容性：SKS
+modmagakmstd30Desc,重量：[4FBE28]0.370kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：AKMN,重量：[4FBE28]0.370kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：AKMN
+modmagAK762extended40Desc,重量：[4FBE28]0.460kg[-]\n装弹数：[4FBE28]40[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：以下口径的枪械：7.62×39,重量：[4FBE28]0.460kg[-]\n裝彈數：[4FBE28]40[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：下列口徑的槍械：7.62×39
+modmagAK762molotdrum75Desc,重量：[4FBE28]0.900kg[-]\n装弹数：[4FBE28]75[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：7.62×39,重量：[4FBE28]0.900kg[-]\n裝彈數：[4FBE28]75[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：7.62×39
+modmagAK762steeldrum100Desc,重量：[4FBE28]1.364kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：以下口径的枪械：7.62×39,重量：[4FBE28]1.364kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：下列口徑的槍械：7.62×39
+modmag762x39RPDBox200Desc,重量：[4FBE28]1.600kg[-]\n装弹数：[4FBE28]200[-]\n更换弹匣时间：[FF4F33]+25%[-]\n\n相容性：RPD,重量：[4FBE28]1.600kg[-]\n裝彈數：[4FBE28]200[-]\n更換彈匣時間：[FF4F33]+25%[-]\n\n相容性：RPD
+modmag762NATOjunglefighter35Desc,重量：[4FBE28]0.444kg[-]\n装弹数：[4FBE28]35[-]\n更换弹匣时间：[FF4F33]+12%[-]\n\n相容性：SR-25, RSASS, G28, MDR 7.62, HK417,重量：[4FBE28]0.444kg[-]\n裝彈數：[4FBE28]35[-]\n更換彈匣時間：[FF4F33]+12%[-]\n\n相容性：SR-25, RSASS, G28, MDR 7.62, HK417
+modmagSA58FAL30Desc,重量：[4FBE28]0.460kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：FN FAL, RFB,重量：[4FBE28]0.460kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：FN FAL, RFB
+modmagSA58FALXproduct50Desc,重量：[4FBE28]0.670kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：FN FAL,重量：[4FBE28]0.670kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：FN FAL
+modmag762NATOM14xproduct50Desc,重量：[4FBE28]0.794kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：M1A EBR, M14 SASS,重量：[4FBE28]0.794kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：M1A EBR, M14 SASS
+modmag762NATOX25drum50Desc,重量：[4FBE28]0.660kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：SR-25, RSASS, MDR 7.62, SCAR-H, SIG MCX Spear,重量：[4FBE28]0.660kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：SR-25, RSASS, MDR 7.62, SCAR-H, SIG MCX Spear
+modmag762NATOCmag100Desc,重量：[4FBE28]1.540kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：M1A EBR, SR-25, RSASS, G28, MDR 7.62, SCAR-H, HK417, M14 SASS, SIG MCX Spear,重量：[4FBE28]1.540kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：M1A EBR, SR-25, RSASS, G28, MDR 7.62, SCAR-H, HK417, M14 SASS, SIG MCX Spear
+modmagM60TriBoxWelded250Desc,重量：[4FBE28]2.500kg[-]\n装弹数：[4FBE28]250[-]\n更换弹匣时间：[FF4F33]+26%[-]\n\n相容性：M60E6,重量：[4FBE28]2.500kg[-]\n裝彈數：[4FBE28]250[-]\n更換彈匣時間：[FF4F33]+26%[-]\n\n相容性：M60E6
+modmagSVDstd20Desc,重量：[4FBE28]0.112kg[-]\n装弹数：[4FBE28]20[-]\n\n相容性：SVDS 'Dragunov',重量：[4FBE28]0.112kg[-]\n裝彈數：[4FBE28]20[-]\n\n相容性：SVDS 'Dragunov'
+modmagSVDmakeshiftdrum50Desc,重量：[4FBE28]0.530kg[-]\n装弹数：[4FBE28]50[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：SVDS 'Dragunov',重量：[4FBE28]0.530kg[-]\n裝彈數：[4FBE28]50[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：SVDS 'Dragunov'
+modmag762x54RPKBox200Desc,重量：[4FBE28]2.700kg[-]\n装弹数：[4FBE28]200[-]\n更换弹匣时间：[FF4F33]+25%[-]\n\n相容性：PKP Pecheneg,重量：[4FBE28]2.700kg[-]\n裝彈數：[4FBE28]200[-]\n更換彈匣時間：[FF4F33]+25%[-]\n\n相容性：PKP Pecheneg
+modmagAUGextended42Desc,重量：[4FBE28]0.142kg[-]\n装弹数：[4FBE28]42[-]\n\n相容性：AUG A3,重量：[4FBE28]0.142kg[-]\n裝彈數：[4FBE28]42[-]\n\n相容性：AUG A3
+modmagAUGdrum60Desc,重量：[4FBE28]0.515kg[-]\n装弹数：[4FBE28]60[-]\n\n相容性：AUG A3,重量：[4FBE28]0.515kg[-]\n裝彈數：[4FBE28]60[-]\n\n相容性：AUG A3
+modmagstanagstd30Desc,重量：[4FBE28]0.117kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：ADAR & ST AR-15,重量：[4FBE28]0.117kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：ADAR & ST AR-15
+modmagstanag556x45pmag40Desc,重量：[4FBE28]0.200kg[-]\n装弹数：[4FBE28]40[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：大多数以下口径的枪械：5.56×45 & .300blk,重量：[4FBE28]0.200kg[-]\n裝彈數：[4FBE28]40[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45 & .300blk
+modmagstanag556x45pmagd60Desc,重量：[4FBE28]0.580kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：大多数以下口径的枪械：5.56×45 & .300blk,重量：[4FBE28]0.580kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45 & .300blk
+modmagstanag556x45sf60Desc,重量：[4FBE28]0.180kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：大多数以下口径的枪械：5.56×45 & .300blk,重量：[4FBE28]0.180kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45 & .300blk
+modmagstanag556x45sf100Desc,重量：[4FBE28]0.270kg[-]\n装弹数：[4FBE28]100[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：大多数以下口径的枪械：5.56×45 & .300blk,重量：[4FBE28]0.270kg[-]\n裝彈數：[4FBE28]100[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45 & .300blk
+modmag556AKmolot45Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]45[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：Velociraptor,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]45[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：Velociraptor
+modmagvssval30Desc,重量：[4FBE28]0.254kg[-]\n装弹数：[4FBE28]30[-]\n\n相容性：VSS Vintorez & AS VAL,重量：[4FBE28]0.254kg[-]\n裝彈數：[4FBE28]30[-]\n\n相容性：VSS Vintorez & AS VAL
+modmagvssval45Desc,重量：[4FBE28]0.397kg[-]\n装弹数：[4FBE28]40[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：VSS Vintorez & AS VAL,重量：[4FBE28]0.397kg[-]\n裝彈數：[4FBE28]40[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：VSS Vintorez & AS VAL
+modmagAsh12extended40Desc,重量：[4FBE28]0.800kg[-]\n装弹数：[4FBE28]40[-]\n更换弹匣时间：[FF4F33]+16%[-]\n\n相容性：ASh-12,重量：[4FBE28]0.800kg[-]\n裝彈數：[4FBE28]40[-]\n更換彈匣時間：[FF4F33]+16%[-]\n\n相容性：ASh-12
+modmagAsh12extended60Desc,重量：[4FBE28]1.000kg[-]\n装弹数：[4FBE28]60[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：ASh-12,重量：[4FBE28]1.000kg[-]\n裝彈數：[4FBE28]60[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：ASh-12
+modmag338SwordMK18Pmag20Desc,重量：[4FBE28]0.800kg[-]\n装弹数：[4FBE28]20[-]\n更换弹匣时间：[FF4F33]+15%[-]\n\n相容性：Mk-18,重量：[4FBE28]0.800kg[-]\n裝彈數：[4FBE28]20[-]\n更換彈匣時間：[FF4F33]+15%[-]\n\n相容性：Mk-18
+modmag_870_remington_magazine_extension_12g_10Desc,重量：[4FBE28]0.400kg[-]\n装弹数：[4FBE28]11[-]\n\n相容性：M870,重量：[4FBE28]0.400kg[-]\n裝彈數：[4FBE28]11[-]\n\n相容性：M870
+modmag_m3_benelli_std_12g_7Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]8[-]\n\n相容性：M3 Benelli,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]8[-]\n\n相容性：M3 Benelli
+modmag_m3_tonisystem_magazine_extension_12g_13Desc,重量：[4FBE28]0.600kg[-]\n装弹数：[4FBE28]14[-]\n\n相容性：M3 Benelli,重量：[4FBE28]0.600kg[-]\n裝彈數：[4FBE28]14[-]\n\n相容性：M3 Benelli
+modmag_mr153_izhmeh_12g_8Desc,重量：[4FBE28]0.300kg[-]\n装弹数：[4FBE28]9[-]\n\n相容性：MP-153 & MP-155,重量：[4FBE28]0.300kg[-]\n裝彈數：[4FBE28]9[-]\n\n相容性：MP-153 & MP-155
+modmag_saiga12_maxrounds_powermag_20_12x76_20Desc,重量：[4FBE28]0.660kg[-]\n装弹数：[4FBE28]20[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：Saiga-12K,重量：[4FBE28]0.660kg[-]\n裝彈數：[4FBE28]20[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：Saiga-12K
+modmag_aa12_mps_aa12_drum_mag_12g_20Desc,重量：[4FBE28]1.130kg[-]\n装弹数：[4FBE28]20[-]\n更换弹匣时间：[FF4F33]+20%[-]\n\n相容性：AA-12,重量：[4FBE28]1.130kg[-]\n裝彈數：[4FBE28]20[-]\n更換彈匣時間：[FF4F33]+20%[-]\n\n相容性：AA-12
+modmag_aa12_drum_mag_12g_32Desc,重量：[4FBE28]1.450kg[-]\n装弹数：[4FBE28]32[-]\n更换弹匣时间：[FF4F33]+25%[-]\n\n相容性：AA-12,重量：[4FBE28]1.450kg[-]\n裝彈數：[4FBE28]32[-]\n更換彈匣時間：[FF4F33]+25%[-]\n\n相容性：AA-12
+
+modsilencertt33makeshift,TT-33 声音抑制器,TT-33 聲音抑制器
+modmuzzlettlaserdtk,TT手枪膛口制退器,TT手槍膛口制退器
+modsilencerstechkinstd,斯捷奇金消声器,斯捷奇金消音器
+modsilencerpp9klin,PP-9「klin」消音器,PP-9「klin」消音器
+modmuzzlemp5btqdbrake,[09FF00]MP5 B&T QD 膛口制退器[-],[09FF00]MP5 B&T QD 膛口制退器[-]
+modmuzzlemp5noveske,[09FF00]MP5 Noveske-style 膛口制退器[-],[09FF00]MP5 Noveske-style 膛口制退器[-]
+modsilencerco46multi,SilencerCo 46 多口径相容 声音抑制器,SilencerCo 46 多口徑相容 聲音抑制器
+modsilencerco9osprey,[09FF00]SilencerCo Osprey 9x19 声音抑制器[-],[09FF00]SilencerCo Osprey 9x19 聲音抑制器[-]
+modsilencersigsrd9,[004CFF]SIG SRD 9×19 声音抑制器[-],[004CFF]SIG SRD 9×19 聲音抑制器[-]
+modsilencerUziPro,[004CFF]UZI PRO 声音抑制器[-],[004CFF]UZI PRO 聲音抑制器[-]
+modmuzzlevityazbrakecompensator,[09FF00]Vityaz 膛口制退补偿器[-],[09FF00]Vityaz 膛口制退補償器[-]
+modsilencermpxsd,[BB00FF]MPX-SD 声音抑制器[-],[BB00FF]MPX-SD 聲音抑制器[-]
+modmuzzlestm9brake,[BB00FF]STM-9 膛口制退器[-],[BB00FF]STM-9 膛口制退器[-]
+modmuzzlegl17carver4port,Glock 17 Carver 四孔制退器,Glock 17 Carver 四孔制退器
+modmuzzlep226tjcustom,P226 TJ Custom 膛口制退器,P226 TJ Custom 膛口制退器
+modsilencersr1mpstd,SR-1MP 消音器,SR-1MP 消音器
+modsilencersr2msv1381,[004CFF]SR-2M 声音抑制器 (SV-1381)[-],[004CFF]SR-2M 聲音抑制器 (SV-1381)[-]
+modsilencerco45komega,[09FF00]SilencerCo 45K Omega[-],[09FF00]SilencerCo 45K Omega[-]
+modsilencerump45bt,[09FF00]UMP-45 B&T 声音抑制器[-],[09FF00]UMP-45 B&T 聲音抑制器[-]
+modmuzzle1911anarchyoutdoors,1911 Anarchy Outdoors 膛口制退器,1911 Anarchy Outdoors 膛口制退器
+modsilencermp7rotex2,[004CFF]MP7 Rotex-II 声音抑制器[-],[004CFF]MP7 Rotex-II 聲音抑制器[-]
+modsilencerp90attenuator,[004CFF]P90 Attenuator 声音抑制器[-],[004CFF]P90 Attenuator 聲音抑制器[-]
+modsilencer57gemtech,Gemtech SFN-57 声音抑制器,Gemtech SFN-57 聲音抑制器
+
+modsilencertt33makeshiftDesc,重量：[4FBE28]0.320kg[-]\n后座力：[4FBE28]-10%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：TT-33,重量：[4FBE28]0.320kg[-]\n後座力：[4FBE28]-10%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：TT-33
+modmuzzlettlaserdtkDesc,重量：[4FBE28]0.036kg[-]\n后座力：[4FBE28]-15%[-]\n\n相容性：TT-33,重量：[4FBE28]0.036kg[-]\n後座力：[4FBE28]-15%[-]\n\n相容性：TT-33
+modsilencerstechkinstdDesc,重量：[4FBE28]0.490kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-12%[-]\n腰射准确度：[FF4F33]-12%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：斯捷奇金自动手枪,重量：[4FBE28]0.490kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-12%[-]\n腰射準確度：[FF4F33]-12%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：斯捷奇金自動手槍
+modsilencerpp9klinDesc,重量：[4FBE28]0.200kg[-]\n后座力：[4FBE28]-18%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：PP-9,重量：[4FBE28]0.200kg[-]\n後座力：[4FBE28]-18%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：PP-9
+modmuzzlemp5btqdbrakeDesc,重量：[4FBE28]0.128kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：MP5,重量：[4FBE28]0.128kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：MP5
+modmuzzlemp5noveskeDesc,重量：[4FBE28]0.380kg[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：MP5,重量：[4FBE28]0.380kg[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：MP5
+modsilencerco46multiDesc,重量：[4FBE28]0.490kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-18%[-]\n腰射准确度：[FF4F33]-18%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：9×19、5.45×39、5.56×45、7.62×39 & 7.62×51,重量：[4FBE28]0.490kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：9×19、5.45×39、5.56×45、7.62×39 & 7.62×51
+modsilencerUziProDesc,重量：[4FBE28]0.680kg[-]\n后座力：[4FBE28]-18%[-]\n人体工学：[FF4F33]-18%[-]\n腰射准确度：[FF4F33]-18%[-]\n武器磨损：[FF4F33]+20%[-]\n\n相容性：UZI PRO SMG,重量：[4FBE28]0.680kg[-]\n後座力：[4FBE28]-18%[-]\n人體工學：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n武器磨損：[FF4F33]+20%[-]\n\n相容性：UZI PRO SMG
+modmuzzlevityazbrakecompensatorDesc,重量：[4FBE28]0.070kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：PP-19-01,重量：[4FBE28]0.070kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：PP-19-01
+modsilencermpxsdDesc,重量：[4FBE28]0.600kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-16%[-]\n腰射准确度：[FF4F33]-16%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SIG MPX,重量：[4FBE28]0.600kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-16%[-]\n腰射準確度：[FF4F33]-16%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SIG MPX
+modmuzzlestm9brakeDesc,重量：[4FBE28]0.084kg[-]\n后座力：[4FBE28]-26%[-]\n\n相容性：STM-9,重量：[4FBE28]0.084kg[-]\n後座力：[4FBE28]-26%[-]\n\n相容性：STM-9
+modmuzzlegl17carver4portDesc,重量：[4FBE28]0.063kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：Glock 17,重量：[4FBE28]0.063kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：Glock 17
+modmuzzlep226tjcustomDesc,重量：[4FBE28]0.036kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：P226R,重量：[4FBE28]0.036kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：P226R
+modsilencersr1mpstdDesc,重量：[4FBE28]0.490kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SR-1MP,重量：[4FBE28]0.490kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SR-1MP
+modsilencersr2msv1381Desc,重量：[4FBE28]0.575kg[-]\n后座力：[4FBE28]-12%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SR-2M,重量：[4FBE28]0.575kg[-]\n後座力：[4FBE28]-12%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SR-2M
+modmuzzle1911anarchyoutdoorsDesc,重量：[4FBE28]0.100kg[-]\n后座力：[4FBE28]-20%[-]\n\n相容性：M1911、M45A1,重量：[4FBE28]0.100kg[-]\n後座力：[4FBE28]-20%[-]\n\n相容性：M1911、M45A1
+modsilencermp7rotex2Desc,重量：[4FBE28]0.607kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-18%[-]\n腰射准确度：[FF4F33]-18%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：MP7A1,重量：[4FBE28]0.607kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：MP7A1
+modsilencerp90attenuatorDesc,重量：[4FBE28]0.677kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-18%[-]\n腰射准确度：[FF4F33]-18%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：P90,重量：[4FBE28]0.677kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：P90
+modsilencer57gemtechDesc,重量：[4FBE28]0.150kg[-]\n后座力：[4FBE28]-12%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：FN FiveSeven,重量：[4FBE28]0.150kg[-]\n後座力：[4FBE28]-12%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：FN FiveSeven
+
+modsilencerak74tgpa,[09FF00]AK-74 TGP-A 声音抑制器[-],[09FF00]AK-74 TGP-A 聲音抑制器[-]
+modmuzzleak74hexagonreactor,[09FF00]AK Hexagon Reactor 5.45x39 膛口制退器[-],[09FF00]AK Hexagon Reactor 5.45x39 膛口制退器[-]
+modsilencerak74hexagonwaffle,[09FF00]AK-74 Hexagon Wafflemaker 5.45x39 声音抑制器[-],[09FF00]AK-74 Hexagon Wafflemaker 5.45x39 聲音抑制器[-]
+modmuzzleak74jetmbr,[BB00FF]AK-74 SRVV MBR Jet 膛口制退器[-],[BB00FF]AK-74 SRVV MBR Jet 膛口制退器[-]
+modmuzzleak74zenitdtk1,[09FF00]AK Zenit DTK-1 膛口制退器[-],[09FF00]AK Zenit DTK-1 膛口制退器[-]
+modsilencerhexagonAK,[BB00FF]AK Hexagon 5.45x39/7.62x39 声音抑制器[-],[BB00FF]AK Hexagon 5.45x39/7.62x39 聲音抑制器[-]
+modmuzzleak12std,[BB00FF]AK-12 膛口制退器[-],[BB00FF]AK-12 膛口制退器[-]
+modsilencerak12std,[BB00FF]AK-12 消音器[-],[BB00FF]AK-12 消音器[-]
+modmuzzlerpdbrakecompensator,[BB00FF]RPD 膛口制退补偿器[-],[BB00FF]RPD 膛口制退補償器[-]
+modmuzzle_mosin_tacfire_tanker_style_762x54r,[09FF00]莫辛步枪 Tacfire Tanker 膛口制退器[-],[09FF00]莫辛步槍 Tacfire Tanker 膛口制退器[-]
+muzzle_mosin_tacfire_tanker_style_762x54r,[09FF00]莫辛步枪 Tacfire Tanker 膛口制退器[-],[09FF00]莫辛步槍 Tacfire Tanker 膛口制退器[-]
+modsilencer_mosin_bramit_std_762x54r,[09FF00]莫辛步枪 Bramit 声音抑制器[-],[09FF00]莫辛步槍 Bramit 聲音抑制器[-]
+silencer_mosin_bramit_std_762x54r,[09FF00]莫辛步枪 Bramit 声音抑制器[-],[09FF00]莫辛步槍 Bramit 聲音抑制器[-]
+modsilencerSV98std,[004CFF]SV-98 声音抑制器[-],[004CFF]SV-98 聲音抑制器[-]
+modmuzzleSV98mk2SRVV,[004CFF]SV-98 SRVV 膛口制退补偿器[-],[004CFF]SV-98 SRVV 膛口制退補償器[-]
+modSVDmuzzlebrakecompensator,[004CFF]SVDS 膛口制退补偿器[-],[004CFF]SVDS 膛口制退補償器[-]
+modsilencerSVDrotor43,[004CFF]SVDS Rotor 43 声音抑制器[-],[004CFF]SVDS Rotor 43 聲音抑制器[-]
+modmuzzlepkzenitdtk,[FFD700]PK Zenit DTK-1P 膛口制退器[-],[FFD700]PK Zenit DTK-1P 膛口制退器[-]
+modmuzzleash12std,[BB00FF]ASH-12 膛口制退器[-],[BB00FF]ASH-12 膛口制退器[-]
+modsilencerash12std,[BB00FF]ASH-12 消音器[-],[BB00FF]ASH-12 消音器[-]
+modsilencergriffinm4sdk,[09FF00]Griffin M4SD-K 声音抑制器[-],[09FF00]Griffin M4SD-K 聲音抑制器[-]
+modsilencersocomrc2,[004CFF]SOCOM556-RC2 声音抑制器[-],[004CFF]SOCOM556-RC2 聲音抑制器[-]
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45,[09FF00]AR-15 Ferfrans CQB 膛口制退器[-],[09FF00]AR-15 Ferfrans CQB 膛口制退器[-]
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45,[004CFF]AR-15 DoubleStar CTC 补偿器[-],[004CFF]AR-15 DoubleStar CTC 補償器[-]
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45,[BB00FF]AR-15 AlienTech 膛口制退器[-],[BB00FF]AR-15 AlienTech 膛口制退器[-]
+modmuzzleAR10thunderbeast30cb,[004CFF]AR-10 Thunder Beast 30CB 膛口制退器[-],[004CFF]AR-10 Thunder Beast 30CB 膛口制退器[-]
+modmuzzleAR15thunderbeast223cb,[004CFF]AR-15 Thunder Beast 223CB 膛口制退器[-],[004CFF]AR-15 Thunder Beast 223CB 膛口制退器[-]
+modsilencerthunderbeastultra5,[004CFF]Thunder Beast Ultra 5 声音抑制器[-],[004CFF]Thunder Beast Ultra 5 聲音抑制器[-]
+modsilencersdnaacmulti,[FFD700]AAC SDN-6 声音抑制器[-],[FFD700]AAC SDN-6 聲音抑制器[-]
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51,[004CFF]AR-10 PA M11 Severe-Duty 膛口制退器[-],[004CFF]AR-10 PA M11 Severe-Duty 膛口制退器[-]
+modmuzzleAR10kacqdc,[BB00FF]AR-10 KAC QDC 膛口制退器[-],[BB00FF]AR-10 KAC QDC 膛口制退器[-]
+modsilencerprskacqdc,[BB00FF]KAC PRS/QDC 声音抑制器[-],[BB00FF]KAC PRS/QDC 聲音抑制器[-]
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51,[FFD700]AR-10 Lantac Dragon 膛口制退补偿器[-],[FFD700]AR-10 Lantac Dragon 膛口制退補償器[-]
+modsilencerbtg28qd762,[BB00FF]HK G28 B&T QD 声音抑制器[-],[BB00FF]HK G28 B&T QD 聲音抑制器[-]
+modsilencerSIGclutchlokQD,[FFD700]MCX-SPEAR SLX68-MG-QD 声音抑制器[-],[FFD700]MCX-SPEAR SLX68-MG-QD 聲音抑制器[-]
+modmuzzlesigtwoportbrake,[BB00FF]SIG 二孔制退器[-],[BB00FF]SIG 二孔制退器[-]
+modsilencersigsrd762ti,[09FF00]SIG SRD762Ti 声音抑制器[-],[09FF00]SIG SRD762Ti 聲音抑制器[-]
+modsilencersigsrdqd,[FFD700]SIG SRD-QD 声音抑制器[-],[FFD700]SIG SRD-QD 聲音抑制器[-]
+modmuzzleAI338LMtactical,[FFD700]AI .338 LM 膛口制退器[-],[FFD700]AI .338 LM 膛口制退器[-]
+modsilencerAI338LMsoundmoderator,[FFD700]AI .338 LM 声音抑制器[-],[FFD700]AI .338 LM 聲音抑制器[-]
+
+modsilencerak74tgpaDesc,重量：[4FBE28]0.700kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-20%[-]\n腰射准确度：[FF4F33]-20%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、AKS-74UN、AK-107,重量：[4FBE28]0.700kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-20%[-]\n腰射準確度：[FF4F33]-20%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、AKS-74UN、AK-107
+modmuzzleak74hexagonreactorDesc,重量：[4FBE28]0.095kg[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：AK-74N/M、AK-107\n\n作为适配器：'AK-74 Hexagon Wafflemaker',重量：[4FBE28]0.095kg[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：AK-74N/M、AK-107\n\n作為適配器：'AK-74 Hexagon Wafflemaker'
+modsilencerak74hexagonwaffleDesc,重量：[4FBE28]0.290kg[-]\n后座力：[4FBE28]-18%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、AK-107\n\n需要适配器：'AK Hexagon Reactor',重量：[4FBE28]0.290kg[-]\n後座力：[4FBE28]-18%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、AK-107\n\n需要適配器：'AK Hexagon Reactor'
+modmuzzleak74jetmbrDesc,重量：[4FBE28]0.110kg[-]\n后座力：[4FBE28]-20%[-]\n\n相容性：AKS-74UN、AK-74N/M、RPK-16、AK-107,重量：[4FBE28]0.110kg[-]\n後座力：[4FBE28]-20%[-]\n\n相容性：AKS-74UN、AK-74N/M、RPK-16、AK-107
+modmuzzleak74zenitdtk1Desc,重量：[4FBE28]0.128kg[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：AKS-74UN、AK-74N/M、RPK-16、AK-107、SKS,重量：[4FBE28]0.128kg[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：AKS-74UN、AK-74N/M、RPK-16、AK-107、SKS
+modsilencerhexagonAKDesc,重量：[4FBE28]0.462kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、RPK-16、AK-107、SKS、AKMN、AK-103、AK-109,重量：[4FBE28]0.462kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-74N/M、RPK-16、AK-107、SKS、AKMN、AK-103、AK-109
+modmuzzleak12stdDesc,重量：[4FBE28]0.100kg[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：AK-12,重量：[4FBE28]0.100kg[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：AK-12
+modsilencerak12stdDesc,重量：[4FBE28]0.450kg[-]\n后座力：[4FBE28]-24%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AK-12,重量：[4FBE28]0.450kg[-]\n後座力：[4FBE28]-24%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AK-12
+modmuzzlerpdbrakecompensatorDesc,重量：[4FBE28]0.124kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：RPD,重量：[4FBE28]0.124kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：RPD
+modsilencerSV98stdDesc,重量：[4FBE28]0.330kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SV-98,重量：[4FBE28]0.330kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SV-98
+modmuzzleSV98mk2SRVVDesc,重量：[4FBE28]0.460kg[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：SV-98,重量：[4FBE28]0.460kg[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：SV-98
+modSVDmuzzlebrakecompensatorDesc,重量：[4FBE28]0.080kg[-]\n后座力：[4FBE28]-10%[-]\n\n相容性：SVDS 'Dragunov'\n\n作为适配器：'Rotor 43',重量：[4FBE28]0.080kg[-]\n後座力：[4FBE28]-10%[-]\n\n相容性：SVDS 'Dragunov'\n\n作為適配器：'Rotor 43'
+modsilencerSVDrotor43Desc,重量：[4FBE28]0.180kg[-]\n后座力：[4FBE28]-15%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SVDS 'Dragunov'\n\n需要适配器：'SVDS Brake-Compensator',重量：[4FBE28]0.180kg[-]\n後座力：[4FBE28]-15%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SVDS 'Dragunov'\n\n需要適配器：'SVDS Brake-Compensator'
+modmuzzlepkzenitdtkDesc,重量：[4FBE28]0.124kg[-]\n后座力：[4FBE28]-12%[-]\n\n相容性：PKP Pecheneg,重量：[4FBE28]0.124kg[-]\n後座力：[4FBE28]-12%[-]\n\n相容性：PKP Pecheneg
+modmuzzleash12stdDesc,重量：[4FBE28]0.150kg[-]\n后座力：[4FBE28]-30%[-]\n\n相容性：ASh-12,重量：[4FBE28]0.150kg[-]\n後座力：[4FBE28]-30%[-]\n\n相容性：ASh-12
+modsilencerash12stdDesc,重量：[4FBE28]0.700kg[-]\n后座力：[4FBE28]-26%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：ASh-12,重量：[4FBE28]0.700kg[-]\n後座力：[4FBE28]-26%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：ASh-12
+modsilencergriffinm4sdkDesc,重量：[4FBE28]0.397kg[-]\n后座力：[4FBE28]-26%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+30%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39,重量：[4FBE28]0.397kg[-]\n後座力：[4FBE28]-26%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+30%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39
+modsilencersocomrc2Desc,重量：[4FBE28]0.546kg[-]\n后座力：[4FBE28]-32%[-]\n人体工学：[FF4F33]-18%[-]\n腰射准确度：[FF4F33]-18%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39,重量：[4FBE28]0.546kg[-]\n後座力：[4FBE28]-32%[-]\n人體工學：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45Desc,重量：[4FBE28]0.150kg[-]\n后座力：[4FBE28]-15%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39,重量：[4FBE28]0.150kg[-]\n後座力：[4FBE28]-15%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45Desc,重量：[4FBE28]0.208kg[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39,重量：[4FBE28]0.208kg[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45Desc,重量：[4FBE28]0.085kg[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39,重量：[4FBE28]0.085kg[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39
+modmuzzleAR15thunderbeast223cbDesc,重量：[4FBE28]0.109kg[-]\n后座力：[4FBE28]-12%[-]\n\n相容性：大多数下列口径的枪械：5.56×45\n\n作为适配器：'Thunder Beast Ultra 5',重量：[4FBE28]0.109kg[-]\n後座力：[4FBE28]-12%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45\n\n作為適配器：'Thunder Beast Ultra 5'
+modmuzzleAR10thunderbeast30cbDesc,重量：[4FBE28]0.109kg[-]\n后座力：[4FBE28]-12%[-]\n\n相容性：大多数下列口径的枪械：7.62×39 & 7.62×51\n\n作为适配器：'Thunder Beast Ultra 5',重量：[4FBE28]0.109kg[-]\n後座力：[4FBE28]-12%[-]\n\n相容性：大多數下列口徑的槍械：7.62×39 & 7.62×51\n\n作為適配器：'Thunder Beast Ultra 5'
+modsilencerthunderbeastultra5Desc,重量：[4FBE28]0.210kg[-]\n后座力：[4FBE28]-18%[-]\n人体工学：[FF4F33]-5%[-]\n腰射准确度：[FF4F33]-5%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39、7.62×39 & 7.62×51\n\n需要适配器：'Thunder Beast (30CB: AR10 7.62 / 223CB: AR15 5.56)',重量：[4FBE28]0.210kg[-]\n後座力：[4FBE28]-18%[-]\n人體工學：[FF4F33]-5%[-]\n腰射準確度：[FF4F33]-5%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39、7.62×39 & 7.62×51\n\n需要適配器：'Thunder Beast (30CB: AR10 7.62 / 223CB: AR15 5.56)'
+modsilencersdnaacmultiDesc,重量：[4FBE28]0.689kg[-]\n后座力：[4FBE28]-30%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：5.56×45、5.45x39、7.62×39 & 7.62×51,重量：[4FBE28]0.689kg[-]\n後座力：[4FBE28]-30%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：5.56×45、5.45x39、7.62×39 & 7.62×51
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51Desc,重量：[4FBE28]0.120kg[-]\n后座力：[4FBE28]-14%[-]\n\n相容性：大多数下列口径的枪械：7.62×39 & 7.62×51,重量：[4FBE28]0.120kg[-]\n後座力：[4FBE28]-14%[-]\n\n相容性：大多數下列口徑的槍械：7.62×39 & 7.62×51
+modmuzzleAR10kacqdcDesc,重量：[4FBE28]0.145kg[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：大多数下列口径的枪械：7.62×39 & 7.62×51\n\n作为适配器：'KAC PRS/QDC',重量：[4FBE28]0.145kg[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：大多數下列口徑的槍械：7.62×39 & 7.62×51\n\n作為適配器：'KAC PRS/QDC'
+modsilencerprskacqdcDesc,重量：[4FBE28]0.453kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：7.62×39 & 7.62×51\n\n需要适配器：'AR-10 KAC QDC',重量：[4FBE28]0.453kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：7.62×39 & 7.62×51\n\n需要適配器：'AR-10 KAC QDC'
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51Desc,重量：[4FBE28]0.090kg[-]\n后座力：[4FBE28]-34%[-]\n\n相容性：大多数下列口径的枪械：7.62×39 & 7.62×51,重量：[4FBE28]0.090kg[-]\n後座力：[4FBE28]-34%[-]\n\n相容性：大多數下列口徑的槍械：7.62×39 & 7.62×51
+modsilencerbtg28qd762Desc,重量：[4FBE28]0.577kg[-]\n后座力：[4FBE28]-28%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：HK417 & G28,重量：[4FBE28]0.577kg[-]\n後座力：[4FBE28]-28%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：HK417 & G28
+modsilencerSIGclutchlokQDDesc,重量：[4FBE28]0.711kg[-]\n后座力：[4FBE28]-34%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：SIG MCX Spear,重量：[4FBE28]0.711kg[-]\n後座力：[4FBE28]-34%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：SIG MCX Spear
+modmuzzlesigtwoportbrakeDesc,重量：[4FBE28]0.095kg[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：大多数下列口径的枪械：.300blk、7.62×39 & 7.62×51,重量：[4FBE28]0.095kg[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：大多數下列口徑的槍械：.300blk、7.62×39 & 7.62×51
+modsilencersigsrd762tiDesc,重量：[4FBE28]0.460kg[-]\n后座力：[4FBE28]-24%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：.300blk、7.62×39 & 7.62×51,重量：[4FBE28]0.460kg[-]\n後座力：[4FBE28]-24%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：.300blk、7.62×39 & 7.62×51
+modsilencersigsrdqdDesc,重量：[4FBE28]0.460kg[-]\n后座力：[4FBE28]-30%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：大多数下列口径的枪械：.300blk、7.62×39 & 7.62×51,重量：[4FBE28]0.460kg[-]\n後座力：[4FBE28]-30%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：大多數下列口徑的槍械：.300blk、7.62×39 & 7.62×51
+modmuzzleAI338LMtacticalDesc,重量：[4FBE28]0.230kg[-]\n后座力：[4FBE28]-16%[-]\n\n相容性：AXMC、Mk-18\n\n作为适配器：'AI .338 LM Sound Suppressor',重量：[4FBE28]0.230kg[-]\n後座力：[4FBE28]-16%[-]\n\n相容性：AXMC、Mk-18\n\n作為適配器：'AI .338 LM Sound Suppressor'
+modsilencerAI338LMsoundmoderatorDesc,重量：[4FBE28]0.665kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-15%[-]\n腰射准确度：[FF4F33]-15%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：AXMC、Mk-18\n\n需要适配器：'AI .338 LM Muzzle Brake',重量：[4FBE28]0.665kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-15%[-]\n腰射準確度：[FF4F33]-15%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：AXMC、Mk-18\n\n需要適配器：'AI .338 LM Muzzle Brake'
+
+modmuzzle_mosin_tacfire_tanker_style_762x54rDesc,重量：[4FBE28]0.250kg[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：莫辛纳甘,重量：[4FBE28]0.250kg[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：莫辛納甘
+silencer_mosin_bramit_std_762x54rDesc,重量：[4FBE28]1.100kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-28%[-]\n腰射准确度：[FF4F33]-28%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：莫辛纳甘,重量：[4FBE28]1.100kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-28%[-]\n腰射準確度：[FF4F33]-28%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：莫辛納甘
+modsilencer_mosin_bramit_std_762x54rDesc,重量：[4FBE28]1.100kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-28%[-]\n腰射准确度：[FF4F33]-28%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：莫辛纳甘,重量：[4FBE28]1.100kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-28%[-]\n腰射準確度：[FF4F33]-28%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：莫辛納甘
+
+modsilencerSGhexagon12k,[004CFF]Hexagon 12K 声音抑制器[-],[004CFF]Hexagon 12K 聲音抑制器[-]
+modsilencercoSalvo12,[BB00FF]SilencerCo Salvo 12 声音抑制器[-],[BB00FF]SilencerCo Salvo 12 聲音抑制器[-]
+modchokeremingtontactical,[09FF00]雷明顿战术收束器[-],[09FF00]雷明頓戰術收束器[-]
+modmuzzleSGgk02muzzlebrake,[004CFF]GK-02 12ga 膛口制退器[-],[004CFF]GK-02 12ga 膛口制退器[-]
+modmuzzletromixmonsterclaw,[BB00FF]Tromix Monster Claw 12ga 膛口制退器[-],[BB00FF]Tromix Monster Claw 12ga 膛口制退器[-]
+modchokeAA12,[BB00FF]AA-12 12ga 收束器[-],[BB00FF]AA-12 12ga 收束器[-]
+modsilencerAA12marauder,[BB00FF]AA-12 12ga Marauder 消音器[-],[BB00FF]AA-12 12ga Marauder 消音器[-]
+
+modsilencerSGhexagon12kDesc,重量：[4FBE28]0.493kg[-]\n后座力：[4FBE28]-22%[-]\n人体工学：[FF4F33]-20%[-]\n腰射准确度：[FF4F33]-20%[-]\n武器磨损：[FF4F33]+50%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K,重量：[4FBE28]0.493kg[-]\n後座力：[4FBE28]-22%[-]\n人體工學：[FF4F33]-20%[-]\n腰射準確度：[FF4F33]-20%[-]\n武器磨損：[FF4F33]+50%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modsilencercoSalvo12Desc,重量：[4FBE28]0.970kg[-]\n后座力：[4FBE28]-28%[-]\n人体工学：[FF4F33]-25%[-]\n腰射准确度：[FF4F33]-25%[-]\n武器磨损：[FF4F33]+40%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K,重量：[4FBE28]0.970kg[-]\n後座力：[4FBE28]-28%[-]\n人體工學：[FF4F33]-25%[-]\n腰射準確度：[FF4F33]-25%[-]\n武器磨損：[FF4F33]+40%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modchokeremingtontacticalDesc,重量：[4FBE28]0.101kg[-]\n后座力：[4FBE28]-12%[-]\n射弹散布：[4FBE28]-25%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli,重量：[4FBE28]0.101kg[-]\n後座力：[4FBE28]-12%[-]\n射彈散佈：[4FBE28]-25%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli
+modmuzzleSGgk02muzzlebrakeDesc,重量：[4FBE28]0.233kg[-]\n后座力：[4FBE28]-20%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K,重量：[4FBE28]0.233kg[-]\n後座力：[4FBE28]-20%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modmuzzletromixmonsterclawDesc,重量：[4FBE28]0.340kg[-]\n后座力：[4FBE28]-34%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K,重量：[4FBE28]0.340kg[-]\n後座力：[4FBE28]-34%[-]\n\n相容性：M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modchokeAA12Desc,重量：[4FBE28]0.101kg[-]\n后座力：[4FBE28]-12%[-]\n射弹散布：[4FBE28]-30%[-]\n\n相容性：AA-12,重量：[4FBE28]0.101kg[-]\n後座力：[4FBE28]-12%[-]\n射彈散佈：[4FBE28]-30%[-]\n\n相容性：AA-12
+modsilencerAA12marauderDesc,重量：[4FBE28]0.570kg[-]\n后座力：[4FBE28]-20%[-]\n人体工学：[FF4F33]-20%[-]\n腰射准确度：[FF4F33]-20%[-]\n武器磨损：[FF4F33]+40%[-]\n\n相容性：AA-12,重量：[4FBE28]0.570kg[-]\n後座力：[4FBE28]-20%[-]\n人體工學：[FF4F33]-20%[-]\n腰射準確度：[FF4F33]-20%[-]\n武器磨損：[FF4F33]+40%[-]\n\n相容性：AA-12
+modsilencerco9ospreyDesc,重量：[4FBE28]0.270kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+25%[-]\n\n相容性：MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3,重量：[4FBE28]0.270kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+25%[-]\n\n相容性：MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3
+modsilencersigsrd9Desc,重量：[4FBE28]0.255kg[-]\n后座力：[4FBE28]-18%[-]\n人体工学：[FF4F33]-9%[-]\n腰射准确度：[FF4F33]-9%[-]\n武器磨损：[FF4F33]+20%[-]\n\n相容性：MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3,重量：[4FBE28]0.255kg[-]\n後座力：[4FBE28]-18%[-]\n人體工學：[FF4F33]-9%[-]\n腰射準確度：[FF4F33]-9%[-]\n武器磨損：[FF4F33]+20%[-]\n\n相容性：MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3
+modsilencerco45komegaDesc,重量：[4FBE28]0.270kg[-]\n后座力：[4FBE28]-14%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+15%[-]\n\n相容性：Vector 45、M45A1、M1911、USP 45 Tactical,重量：[4FBE28]0.270kg[-]\n後座力：[4FBE28]-14%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+15%[-]\n\n相容性：Vector 45、M45A1、M1911、USP 45 Tactical
+modsilencerump45btDesc,重量：[4FBE28]0.453kg[-]\n后座力：[4FBE28]-16%[-]\n人体工学：[FF4F33]-10%[-]\n腰射准确度：[FF4F33]-10%[-]\n武器磨损：[FF4F33]+15%[-]\n\n相容性：UMP-45,重量：[4FBE28]0.453kg[-]\n後座力：[4FBE28]-16%[-]\n人體工學：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n武器磨損：[FF4F33]+15%[-]\n\n相容性：UMP-45
+
+
+modstockttmachinecustom,TT-33 定制枪托,TT-33 特製槍托
+modstockstechkinwire,斯捷奇金钢线枪托,斯捷奇金鋼線槍托
+modstockglockfdglr17,Fab Defence GLR-17 Glock兼容枪托,Fab Defence GLR-17 Glock兼容槍托
+modstockmp5kpdw,MP5K PDW 摺叠枪托,MP5K PDW 摺疊槍托
+modstockmp5a2,[09FF00]MP5 A2 枪托[-],[09FF00]MP5 A2 槍托[-]
+modstockp90dibuttpad,[004CFF]P90 DI 枪托底板[-],[004CFF]P90 DI 槍托底板[-]
+modstockakzenitpt1,[09FF00]AK Zenit PT-1 枪托[-],[09FF00]AK Zenit PT-1 槍托[-]
+modstockakzenitpt3,[004CFF]AK Zenit PT-3 枪托[-],[004CFF]AK Zenit PT-3 槍托[-]
+modstockakzhukovmagpul,[BB00FF]AKM/AK-74 Zhukov-S 枪托[-],[BB00FF]AKM/AK-74 Zhukov-S 槍托[-]
+modstocka2ar15prsgen2tan,[004CFF]A2 AR-15 PRS Gen 2 枪托(棕褐色)[-],[004CFF]A2 AR-15 PRS Gen 2 槍托(棕褐色)[-]
+modstocka2ar15prsgen3,[BB00FF]A2 AR-15 PRS Gen 3 枪托[-],[BB00FF]A2 AR-15 PRS Gen 3 槍托[-]
+modstockar15b5precision,[FFD700]AR-15 B5 Precision 枪托[-],[FFD700]AR-15 B5 Precision 槍托[-]
+modstockar15troym7a1,[09FF00]AR-15 Troy M7A1 枪托[-],[09FF00]AR-15 Troy M7A1 槍托[-]
+modstockar15glcore,[BB00FF]AR-15 GL-Core 枪托[-],[BB00FF]AR-15 GL-Core 槍托[-]
+modstockar15acesocomgen4,[FFD700]AR-15 ACE SOCOM Gen 4 枪托[-],[FFD700]AR-15 ACE SOCOM Gen 4 槍托[-]
+modstockar15hke1,[004CFF]AR-15 HK E1 枪托[-],[004CFF]AR-15 HK E1 槍托[-]
+modstockar15ergof93pro,[BB00FF]AR-15 Ergo F93 Pro 枪托[-],[BB00FF]AR-15 Ergo F93 Pro 槍托[-]
+modstockIWICarmelErgo,[BB00FF]IWI Carmel Ergo 枪托[-],[BB00FF]IWI Carmel Ergo 槍托[-]
+modstockfnminimilightweight,[FFD700]FN Minimi Lightweight 枪托[-],[FFD700]FN Minimi Lightweight 槍托[-]
+modstocksigtelescoping,[FFD700]SIG Telescoping 枪托[-],[FFD700]SIG Telescoping 槍托[-]
+modstockmaximcqb,[BB00FF]Maxim CQB 枪托[-],[BB00FF]Maxim CQB 槍托[-]
+modstockpmmulss,[BB00FF]PMM ULSS 枪托[-],[BB00FF]PMM ULSS 槍托[-]
+modstockSA58paraSPR,[004CFF]SA58 SPR 枪托[-],[004CFF]SA58 SPR 槍托[-]
+modstockSA58paraBRS,[004CFF]SA58 BRS 枪托[-],[004CFF]SA58 BRS 槍托[-]
+modstockVLtorVSS11,[BB00FF]FN SCAR VSS-11 枪托[-],[BB00FF]FN SCAR VSS-11 槍托[-]
+modstock417hke2,[BB00FF]HK417 E2 枪托[-],[BB00FF]HK417 E2 槍托[-]
+modstockpkzenitpt2,[FFD700]PK Zenit PT-2 枪托[-],[FFD700]PK Zenit PT-2 槍托[-]
+modstockm3benelliurbino,[004CFF]M3 Urbino 枪托[-],[004CFF]M3 Urbino 槍托[-]
+modstock_ak_izhmash_ak_evo,[FFD700]AK Evo-styled 枪托[-],[FFD700]AK Evo-styled 槍托[-]
+modstock_ak_promag_archangel_opfor_aa47,[FFD700]Archangel OPFOR AA47 枪托[-],[FFD700]Archangel OPFOR AA47 槍托[-]
+modstock_ak_hera_arms_cqr47,[004CFF]HeraArms CQR 47 枪托[-],[004CFF]HeraArms CQR 47 槍托[-]
+
+modstockttmachinecustomDesc,重量：[4FBE28]0.050kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+25%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：TT-33　自动手枪（普通版本以及黄金版本无法适用,重量：[4FBE28]0.050kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+25%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：TT-33　自動手槍（普通版本以及黃金版本無法適用）
+modstockstechkinwireDesc,重量：[4FBE28]0.050kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+25%[-]\n后座力：[4FBE28]-27%[-]\n\n相容性：斯捷奇金自动手枪,重量：[4FBE28]0.050kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+25%[-]\n後座力：[4FBE28]-27%[-]\n\n相容性：斯捷奇金自動手槍
+modstockglockfdglr17Desc,重量：[4FBE28]0.050kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+25%[-]\n后座力：[4FBE28]-23%[-]\n\n相容性：Glock 17 & Glock 18C,重量：[4FBE28]0.050kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+25%[-]\n後座力：[4FBE28]-23%[-]\n\n相容性：Glock 17 & Glock 18C
+modstockmp5kpdwDesc,重量：[4FBE28]0.050kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：MP5K,重量：[4FBE28]0.050kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：MP5K
+modstockmp5a2Desc,重量：[4FBE28]0.400kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：MP5 & MP5SD,重量：[4FBE28]0.400kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：MP5 & MP5SD
+modstockp90dibuttpadDesc,重量：[4FBE28]0.060kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-15%[-]\n\n相容性：P90,重量：[4FBE28]0.060kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-15%[-]\n\n相容性：P90
+modstockakzenitpt1Desc,重量：[4FBE28]0.480kg[-]\n人体工学：[4FBE28]+6%[-]\n腰射准确度：[4FBE28]+6%[-]\n后座力：[4FBE28]-26%[-]\n\n相容性：PP-19-01、AKS-74UN、AK-74N/M、AK-107、AKMN、AK-103、AK-109、Velociraptor、Saiga-12K,重量：[4FBE28]0.480kg[-]\n人體工學：[4FBE28]+6%[-]\n腰射準確度：[4FBE28]+6%[-]\n後座力：[4FBE28]-26%[-]\n\n相容性：PP-19-01、AKS-74UN、AK-74N/M、AK-107、AKMN、AK-103、AK-109、Velociraptor、Saiga-12K
+modstockakzenitpt3Desc,重量：[4FBE28]0.250kg[-]\n人体工学：[4FBE28]+12%[-]\n腰射准确度：[4FBE28]+12%[-]\n后座力：[4FBE28]-27%[-]\n\n相容性：PP-19-01、AKS-74UN、AK-74N/M、AK-107、AKMN、AK-103、AK-109、Velociraptor、Saiga-12K,重量：[4FBE28]0.250kg[-]\n人體工學：[4FBE28]+12%[-]\n腰射準確度：[4FBE28]+12%[-]\n後座力：[4FBE28]-27%[-]\n\n相容性：PP-19-01、AKS-74UN、AK-74N/M、AK-107、AKMN、AK-103、AK-109、Velociraptor、Saiga-12K
+modstockakzhukovmagpulDesc,重量：[4FBE28]0.430kg[-]\n人体工学：[4FBE28]+24%[-]\n腰射准确度：[4FBE28]+12%[-]\n后座力：[4FBE28]-28%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704,重量：[4FBE28]0.430kg[-]\n人體工學：[4FBE28]+24%[-]\n腰射準確度：[4FBE28]+12%[-]\n後座力：[4FBE28]-28%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704
+modstocka2ar15prsgen2tanDesc,重量：[4FBE28]0.950kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+7.5%[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1,重量：[4FBE28]0.950kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+7.5%[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1
+modstocka2ar15prsgen3Desc,重量：[4FBE28]0.970kg[-]\n人体工学：[4FBE28]+20%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-24%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.,重量：[4FBE28]0.970kg[-]\n人體工學：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-24%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.
+modstockar15b5precisionDesc,重量：[4FBE28]0.350kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-28%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.,重量：[4FBE28]0.350kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-28%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.
+modstockar15troym7a1Desc,重量：[4FBE28]0.400kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-18%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1,重量：[4FBE28]0.400kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-18%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1
+modstockar15glcoreDesc,重量：[4FBE28]0.461kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-19%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.,重量：[4FBE28]0.461kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-19%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.
+modstockar15acesocomgen4Desc,重量：[4FBE28]0.470kg[-]\n人体工学：[4FBE28]+40%[-]\n腰射准确度：[4FBE28]+20%[-]\n后座力：[4FBE28]-22%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、SR-25、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1,重量：[4FBE28]0.470kg[-]\n人體工學：[4FBE28]+40%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-22%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、SR-25、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1
+modstockar15hke1Desc,重量：[4FBE28]0.520kg[-]\n人体工学：[4FBE28]+12%[-]\n腰射准确度：[4FBE28]+12%[-]\n后座力：[4FBE28]-23%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.,重量：[4FBE28]0.520kg[-]\n人體工學：[4FBE28]+12%[-]\n腰射準確度：[4FBE28]+12%[-]\n後座力：[4FBE28]-23%[-]\n\n相容性：AR-15 styled stock. Can fit on many guns.
+modstockar15ergof93proDesc,重量：[4FBE28]0.590kg[-]\n人体工学：[4FBE28]+20%[-]\n腰射准确度：[4FBE28]+20%[-]\n后座力：[4FBE28]-21%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、SR-25、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1,重量：[4FBE28]0.590kg[-]\n人體工學：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-21%[-]\n\n相容性：Vector 9/45、STM-9、M4A1、M16A4、HK416A5、ST AR-15、FN FAL、SR-25、RSASS、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1
+modstockIWICarmelErgoDesc,重量：[4FBE28]0.500kg[-]\n人体工学：[4FBE28]+20%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-21%[-]\n\n相容性：IWI Carmel,重量：[4FBE28]0.500kg[-]\n人體工學：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-21%[-]\n\n相容性：IWI Carmel
+modstockfnminimilightweightDesc,重量：[4FBE28]0.300kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+12.5%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：FN Minimi,重量：[4FBE28]0.300kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+12.5%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：FN Minimi
+modstocksigtelescopingDesc,重量：[4FBE28]0.340kg[-]\n人体工学：[4FBE28]+40%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-20%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H,重量：[4FBE28]0.340kg[-]\n人體工學：[4FBE28]+40%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-20%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H
+modstockmaximcqbDesc,重量：[4FBE28]0.500kg[-]\n人体工学：[4FBE28]+20%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-21%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H,重量：[4FBE28]0.500kg[-]\n人體工學：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-21%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H
+modstockpmmulssDesc,重量：[4FBE28]0.460kg[-]\n人体工学：[4FBE28]+30%[-]\n腰射准确度：[4FBE28]+20%[-]\n后座力：[4FBE28]-23%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H,重量：[4FBE28]0.460kg[-]\n人體工學：[4FBE28]+30%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-23%[-]\n\n相容性：SIG MPX/MCX/MCX Spear & SCAR-H
+modstockSA58paraSPRDesc,重量：[4FBE28]0.950kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+5%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：FN FAL,重量：[4FBE28]0.950kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+5%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：FN FAL
+modstockSA58paraBRSDesc,重量：[4FBE28]0.810kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：FN FAL,重量：[4FBE28]0.810kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：FN FAL
+modstockVLtorVSS11Desc,重量：[4FBE28]0.630kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+10%[-]\n后座力：[4FBE28]-23%[-]\n\n相容性：SCAR-H,重量：[4FBE28]0.630kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-23%[-]\n\n相容性：SCAR-H
+modstock417hke2Desc,重量：[4FBE28]0.550kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+20%[-]\n后座力：[4FBE28]-23%[-]\n\n相容性：HK417 & G28,重量：[4FBE28]0.550kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-23%[-]\n\n相容性：HK417 & G28
+modstockpkzenitpt2Desc,重量：[4FBE28]0.640kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+12.5%[-]\n后座力：[4FBE28]-21%[-]\n\n相容性：PKP Pecheneg,重量：[4FBE28]0.640kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+12.5%[-]\n後座力：[4FBE28]-21%[-]\n\n相容性：PKP Pecheneg
+modstockm3benelliurbinoDesc,重量：[4FBE28]1.043kg[-]\n人体工学：[4FBE28]+10%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：M3 Benelli,重量：[4FBE28]1.043kg[-]\n人體工學：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：M3 Benelli
+
+modstock_ak_izhmash_ak_evoDesc,重量：[4FBE28]0.397kg[-]\n人体工学：[4FBE28]+25%[-]\n腰射准确度：[4FBE28]+25%[-]\n后座力：[4FBE28]-28%[-]\n\n相容性：AKS-74UN、AK-74M、AK-107、AK-109、AK-12、RPK-16、Saiga-12K,重量：[4FBE28]0.397kg[-]\n人體工學：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+25%[-]\n後座力：[4FBE28]-28%[-]\n\n相容性：AKS-74UN、AK-74M、AK-107、AK-109、AK-12、RPK-16、Saiga-12K
+modstock_ak_promag_archangel_opfor_aa47Desc,重量：[4FBE28]0.39kg[-]\n人体工学：[4FBE28]+36%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-27%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704、Velociraptor,重量：[4FBE28]0.39kg[-]\n人體工學：[4FBE28]+36%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-27%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704、Velociraptor
+modstock_ak_hera_arms_cqr47Desc,重量：[4FBE28]0.525kg[-]\n人体工学：[4FBE28]+15%[-]\n腰射准确度：[4FBE28]+15%[-]\n后座力：[4FBE28]-25%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704、Velociraptor,重量：[4FBE28]0.525kg[-]\n人體工學：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-25%[-]\n\n相容性：AK-74N、AKMN & AK-103、RD-704、Velociraptor
+modm203grenadelaunchers,M203 40 mm下挂式榴弹发射器,M203 40 mm下掛式榴彈發射器
+modm203grenadelaunchersDesc,M203 下挂式榴弹发射器有 3 种变体：枪管安装、导轨安装和迷你 203。\n默认模式切换键：X，与爆破专家一起缩放，在没有导轨部分的枪上需要导轨护手。\n\n可以与这些 SMG 一起安装：MP5、MP5SD、MP7、MPX、Vector 9/45、STM-9、CZ Evo3、所有突击步枪。,M203 下掛式榴彈發射器有 3 種變體：槍管安裝、導軌安裝和迷你 203。\n默認模式切換鍵：X，與爆破專家一起縮放，在沒有導軌部分的槍上需要導軌護手。\n\n可以與這些 SMG 一起安裝：MP5、MP5SD、MP7、MPX、Vector 9/45、STM-9、CZ Evo3、所有突擊步槍。
+modgp25grenadelauncher,GP-25 40 mm下挂式榴弹发射器,GP-25 40 mm下掛式榴彈發射器
+modgp25grenadelauncherDesc,GP-25 下挂式榴弹发射器是与任何 AK 型号兼容的标准榴弹发射器。\n默认模式切换键：X，与 Demolition Expert 一起缩放。\n\n与所有 AK 兼容。与 AKS-74UN 不兼容，不能配备 RPK16 95 发弹鼓。,GP-25 下掛式榴彈發射器是與任何 AK 型號相容的標準榴彈發射器。\n默認模式切換鍵：X，與 Demolition Expert 一起縮放。\n\n與所有 AK 相容。與 AKS-74UN 不相容，不能配備 RPK16 95 發彈鼓。
+
+mag_mr153_izhmeh_12g_8,[004CFF]MP-153 8发弹匣[-],[004CFF]MP-153 8發彈匣[-]
+mag_mr153_izhmeh_12g_8Desc,将你的弹匣总容量增加至 [4FBE28]9[-] 发。\n你的后坐力增加 [FF4F33]10%[-] 并且腰射准确度降低 [FF4F33]10%[-]。\n\n相容性：MP-153、MP-155“Ultima”,將你的彈匣總容量增加至 [4FBE28]9[-] 發。\n你的後坐力增加 [FF4F33]10%[-] 並且腰射準確度降低 [FF4F33]10%[-]。\n\n相容性：MP-153、MP-155“Ultima”
+mag_m3_tonisystem_magazine_extension_12g_13,[004CFF]M3 Super 90 Toni 系统 13 发弹匣[-],[004CFF]M3 Super 90 Toni 系統 13 發彈匣[-]
+mag_m3_tonisystem_magazine_extension_12g_13Desc,将你的弹匣总容量增加至 [4FBE28]14[-] 发。\n你的后坐力增加 [FF4F33]12%[-] 且腰射准确度降低 [FF4F33]10%[-]。\n\n相容性：贝纳利 M4,將你的彈匣總容量增加至 [4FBE28]14[-] 發。\n你的後坐力增加 [FF4F33]12%[-] 且腰射準確度降低 [FF4F33]10%[-]。\n\n相容性：貝納利 M4
+modstockm1014collapsible,[004CFF]M1014折叠枪托[-],[004CFF]M1014摺疊槍托[-]
+modstockm1014collapsibleDesc,轻型枪托。\n减少 [4FBE28]6%[-] 的后坐力，提高 [4FBE28]16%[-] 的腰射准确度。\n\n相容性：贝纳利 M4,輕型槍托。\n減少 [4FBE28]6%[-] 的後坐力，提高 [4FBE28]16%[-] 的腰射準確度。\n\n相容性：貝納利 M4
+resource_item_other_powder,「风筝」蓝色火药罐,「風箏」藍色火藥罐
+resource_item_other_powderDesc,生产各类小口径弹药的关键材料，对于确保适当的性能和一致性至关重要。\n以 [D3CE1D]8[-] 为单位制作。,生產各類小口徑彈藥的關鍵材料，對於確保適當的性能和一致性至關重要。\n以 [D3CE1D]8[-] 為單位製作。
+resource_item_other_powder_green,「老鹰」绿色火药罐,「老鷹」綠色火藥罐
+resource_item_other_powder_greenDesc,生产各类中口径弹药的关键部件，对于确保适当的性能和一致性至关重要。\n以 [D3CE1D]8[-] 为单位制作。,生產各類中口徑彈藥的關鍵部件，對於確保適當的性能和一致性至關重要。\n以 [D3CE1D]8[-] 為單位製作。
+resource_item_other_powder_red,「猎隼」红色火药罐,「獵隼」紅色火藥罐
+resource_item_other_powder_redDesc,生产各类大口径弹药的关键部件，对于确保适当的性能和一致性至关重要。\n以 [D3CE1D]8[-] 的数量制作。,生產各類大口徑彈藥的關鍵部件，對於確保適當的性能和一致性至關重要。\n以 [D3CE1D]8[-] 的數量製作。
+resourceCellulosePowder,纤维素粉,纖維素粉
+resourceCellulosePowderDesc,纤维素粉末占硝化纤维素粉末生产总成分的八分之一。\n以 [D3CE1D]16[-] 为批量制作。,纖維素粉末占硝化纖維素粉末生產總成分的八分之一。\n以 [D3CE1D]16[-] 為批次製作。
+resourceNitricAcid,硝酸（~68%）,硝酸（~68%）
+resourceNitricAcidDesc,在硝化棉粉末的生产中，硝酸占总成分的八分之三。,在硝化棉粉末的生產中，硝酸占總成分的八分之三。
+resourceSulfuricAcid,硫酸 (~98%),硫酸 (~98%)
+resourceSulfuricAcidDesc,硫酸在硝化棉粉末的生产中占总成分的八分之四。,硫酸在硝化棉粉末的生產中占總成分的八分之四。
+resourceLowCaliberCasing,子弹筒（小口径）,子彈筒（小口徑）
+resourceLowCaliberCasingDesc,小口径弹壳是各类弹药生产的关键部件。,小口徑彈殼是各類彈藥生產的關鍵部件。
+resourceMedCaliberCasing,子弹筒（中口径）,子彈筒（中口徑）
+resourceMedCaliberCasingDesc,中口径弹壳是生产各类弹药的关键部件。,中口徑彈殼是生產各類彈藥的關鍵部件。
+resourceHighCaliberCasing,子弹筒（大口径）,子彈筒（大口徑）
+resourceHighCaliberCasingDesc,大口径弹壳是各类弹药生产的关键部件。,大口徑彈殼是各類彈藥生產的關鍵部件。
+resourceLowCaliberBulletTip,子弹头（小口径）,子彈頭（小口徑）
+resourceLowCaliberBulletTipDesc,小口径子弹头是生产各类弹药的关键部件。,小口徑子彈頭是生產各類彈藥的關鍵部件。
+resourceMedCaliberBulletTip,子弹头（中口径）,子彈頭（中口徑）
+resourceMedCaliberBulletTipDesc,中口径子弹头是生产各类弹药的关键部件。,中口徑子彈頭是生產各類彈藥的關鍵部件。
+resourceHighCaliberBulletTip,子弹头（大口径）,子彈頭（大口徑）
+resourceHighCaliberBulletTipDesc,大口径子弹头是生产各类弹药的关键部件。,大口徑子彈頭是生產各類彈藥的關鍵部件。
+resourceEmptyShotgunShell,空霰弹枪弹壳,空霰彈槍彈殼
+resourceEmptyShotgunShellDesc,霰弹枪弹对于任何类型的霰弹枪弹药的生产都至关重要。,霰彈槍彈對於任何類型的霰彈槍彈藥的生產都至關重要。
+resourceWeaponRepairKit,武器修理套件,武器修理套件
+resourceWeaponRepairKitDesc,武器修理套件用于修理各种远程枪械。,武器修理套件用於修理各種遠程槍械。
+resourceArmorRepairKit,装甲修理套件,裝甲修理套件
+resourcePrinterPaper,打印纸,影印紙
+resourcePrinterPaperDesc,打印纸可以被报废为纸张。,影印紙可以被報廢為紙張。
+resourceToiletPaper,卫生纸,衛生紙
+resourceToiletPaperDesc,卫生纸可以被报废为纸张。,衛生紙可以被報廢為紙張。
+resourceNewspaper,报纸,報紙
+resourceNewspaperDesc,报纸可以被报废为纸张。,報紙可以被報廢為紙張。
+resourceOldBook,旧书,舊書
+resourceOldBookDesc,旧书可以被报废为纸张。,舊書可以被報廢為紙張。
+resourceClassicMatches,火柴,火柴
+resourceClassicMatchesDesc,火柴可以制作火药。还可用于製作管状炸弹或製作硫酸。,火柴可以製作火藥。還可用於製作管狀炸彈或製作硫酸。
+resourceBottleOfHydrogenPeroxide,一瓶过氧化氢,一瓶過氧化氫
+resourceBottleOfHydrogenPeroxideDesc,过氧化氢不仅可用于淨化髒水，还有许多其他用途。,過氧化氫不僅可用於淨化髒水，還有許多其他用途。
+resourceCanisterWithPurifiedWater,纯净水罐,純淨水罐
+resourceCanisterWithPurifiedWaterDesc,这个罐子里有很多珍贵的水。它也可以用来制作化学制品。,這個罐子裡有很多珍貴的水。它也可以用來製作化學製品。
+resourceCanOfWhiteSalt,一罐白盐,一罐白鹽
+resourceCanOfWhiteSaltDesc,盐已被使用数百年。可用于制作食物和化学物品。,鹽已被使用數百年。可用於製作食物和化學物品。
+resourceOxBbleach,Ox漂白剂,Ox漂白劑
+resourceOxBbleachDesc,漂白剂可用于给水消毒。是化学工艺中有用的成分。,漂白劑可用於給水消毒。是化學工藝中有用的成分。
+resourceSmokedChimneyDrainCleaner,排水管清洁剂,排水管清潔劑
+resourceSmokedChimneyDrainCleanerDesc,是制作化学品的有用成分。,是製作化學品的有用成分。
+resourceOFZ30x165mmShell,30×165mm机砲弹壳,30×165mm機砲彈殼
+resourceOFZ30x165mmShellDesc,可以报废拆解，或者有人会花钱买下它。,可以報廢拆解，或者有人會花錢買下它。
+resourceTP200TNTBrick,TP200 TNT砖,TP200 TNT磚
+resourceTP200TNTBrickDesc,制作炸药的有用原料。,製作炸藥的有用原料。
+resourceUZRGMGrenadeFuze,手榴弹引信,手榴彈引信
+resourceUZRGMGrenadeFuzeDesc,可以用作手榴弹。,可以用作手榴彈。
+resourceWeaponParts,[09FF00]武器部件[-],[09FF00]武器部件[-]
+resourceWeaponPartsDesc,武器部件是一种宝贵的资源，尤其是在武器制造中。,武器部件是一種寶貴的資源，尤其是在武器製造中。
+resourceWD40,[004CFF]WD40 (100ml)[-],[004CFF]WD40 (100ml)[-]
+resourceWD40Desc,稀有资源，应用范围广泛。\n\n用于製作 T3 物品和配件。,稀有資源，應用範圍廣泛。\n\n用於製作 T3 物品和配件。
+resourceMultitool,[09FF00]Leatherman万用刀[-],[09FF00]Leatherman瑞士刀[-]
+resourceMultitoolDesc,稀有资源，应用范围广泛。\n\n用于製作 T3 物品和配件。,稀有资源，应用范围广泛。\n\n用于製作 T1 和 T2 指南书、T2 物品和配件。,稀有資源，應用範圍廣泛。\n\n用於製作 T3 物品和配件。,稀有資源，應用範圍廣泛。\n\n用於製作 T1 和 T2 指南書、T2 物品和配件。
+resourceToolset,[FFD700]工具组[-],[FFD700]工具組[-]
+resourceToolsetDesc,稀有资源，应用范围广泛。\n\n用于製作 T3 物品和配件。,稀有资源，应用范围广泛。\n\n用于製作 T3 / T4 / T5 指南书、T5 物品和配件。,稀有資源，應用範圍廣泛。\n\n用於製作 T3 物品和配件。,稀有資源，應用範圍廣泛。\n\n用於製作 T3 / T4 / T5 指南書、T5 物品和配件。
+resourceDisposableSyringe,一次性注射器,一次性注射器
+resourceDisposableSyringeDesc,你不会想用它，但事情就是这样,你不會想用它，但事情就是這樣。
+resourcePileOfMeds,一堆药,一堆藥
+resourcePileOfMedsDesc,对于制作医疗用品很有用。,對於製作醫療用品很有用。
+resourceSalineSolution,生理食盐水,生理食鹽水
+resourceSalineSolutionDesc,可用于製作各种医疗用具。,可用於製作各種醫療用具。
+resourceRouble,卢布,盧布
+resourceRoubleDesc,卢布是这一带的主要货币。,盧布是這一帶的主要貨幣。
+foodMayo,Devildog蛋黄酱,Devildog美乃滋
+foodMayoDesc,一罐蛋黄酱，吸溜吸溜,一罐美乃滋，窸窣叫
+foodSausage,盐味热狗,鹽味熱狗
+foodSausageDesc,并不包含真的狗肉,並不包含真的狗肉
+foodOatFlakes,燕麦片,燕麥片
+foodOatFlakesDesc,良好的碳水化合物来源。,良好的碳水化合物來源。
+foodWheatFlour,一包小麦粉,一包小麥粉
+foodWheatFlourDesc,数百年来，人们一直使用小麦来制作面包。,數百年來，人們一直使用小麥來製作麵包。
+foodBread,面包,麵包
+foodBreadDesc,一个面包。,一個面包。
+foodBeefstew,图尚卡罐头,圖尚卡罐頭
+foodBeefstewDesc,小罐炖牛肉。,小罐燉牛肉。
+foodBeefstew2,图尚卡罐头,圖尚卡罐頭
+foodBeefstew2Desc,大罐炖牛肉。,大罐燉牛肉。
+foodCannedSaira,秋刀鱼罐头,秋刀魚罐頭
+foodCannedSairaDesc,尽情享受秋刀鱼吧。,盡情享受秋刀魚吧。
+foodCondensedMilk,一罐炼乳,一罐煉乳
+foodCondensedMilkDesc,一罐美味的糖牛奶。一份珍贵的享受。,一罐美味的糖牛奶。一份珍貴的享受。
+foodHerring,鲱鱼罐头,鯡魚罐頭
+foodHerringDesc,一个装有鲱鱼的漂亮罐头。,一個裝有鯡魚的漂亮罐頭。
+foodIskra,军用口粮,軍用口糧
+foodIskraDesc,如今，这是一种奢侈。,如今，這是一種奢侈。
+foodPeas,一罐豌豆,一罐豌豆
+foodPeasDesc,一罐豌豆。你还期待什麽。,一罐豌豆。你還期待什麼。
+foodMarrowPurree,一罐南瓜酱,一罐南瓜醬
+foodMarrowPurreeDesc,一罐南瓜酱，一种可以与几乎任何东西搭配的小蔬菜珍品，含有令人印象深刻的维生素和矿物质。,一罐南瓜醬，一種可以與幾乎任何東西搭配的小蔬菜珍品，含有令人印象深刻的維他命和礦物質。
+foodMRE,野战口粮,野戰口糧
+foodMREDesc,MRE野战口粮。大量的卡路里让您尽情享受，趁您还能享受的时候。,MRE野戰口糧。大量的卡路里讓您盡情享受，趁您還能享受的時候。
+foodSugar,一包糖,一包糖
+foodSugarDesc,一些快速的能量。一份珍贵的款待。,一些快速的能量。一份珍貴的款待。
+foorHumpback,座头鲑鱼罐头,座頭鮭魚罐頭
+foorHumpbackDesc,如果你喜欢鱼，你一定会喜欢这个。,如果你喜歡魚，你一定會喜歡這個。
+
+foodArmyCracker,军用饼干,軍用餅乾
+foodArmyCrackerDesc,俄罗斯军队战斗配给中又硬又干的饼干。俄羅斯軍隊戰鬥配給中又硬又干的餅乾。
+foodAlyonka,Alyonka巧克力,Alyonka巧克力
+foodAlyonkaDesc,后苏联时代最好的牛奶朱古力，香甜又多脂。,後蘇聯時代最好的牛奶巧克力，香甜又多脂。
+foodSlickers,士力架朱古力棒,士力架巧克力棒
+foodSlickersDesc,可供快速食用的甜味能量棒，含有均衡的蛋白质、膳食纤维和维他命，就是甜得有点腻。,可供快速食用的甜味能量棒，含有均衡的蛋白質、膳食纖維和維他命，就是甜得有點膩。
+foodBeefJerky,袋装牛肉乾,袋裝牛肉乾
+foodBeefJerkyDesc,真空包装的牛肉乾。美味可口。,真空包裝的牛肉乾。美味可口。
+foodInstantNoodles,袋装方便麵,袋裝泡麵
+foodInstantNoodlesDesc,一包方便麵。没有热水？太糟糕了。乾吃吧。,一包泡麵。沒有熱水？太糟糕了。乾吃吧。
+foodEmeliaCroutons,Emelya黑麦麵包,Emelya黑麥麵包
+foodEmeliaCroutonsDesc,Emelya什锦口味的烤黑麦麵包块曾是青少年和酒鬼们的最爱，可那些人离开了，零食却被遗留了下来。,Emelya什錦口味的烤黑麥麵包塊曾是青少年和酒鬼們的最愛，可那些人離開了，零食卻被遺留了下來。
+foodRyeCroutons,黑麦麵包,黑麥麵包
+foodRyeCroutonsDesc,以俄罗斯传统的酸酵母黑麦麵包为原料製作的烤麵包块。,以俄羅斯傳統的酸酵母黑麥麵包為原料製作的麵包。
+
+drinkGreenTea,冰绿茶,冰綠茶
+drinkGreenTeaDesc,含糖的饮料。您已经很久没有尝过了。,含糖的飲料。您已經很久沒有嘗過了。
+drinkTarCola,Tar可乐,Tar可樂
+drinkTarColaDesc,一罐过期可乐。让你晚上睡不着。,一罐過期可樂。讓你晚上睡不著。
+drinkMaxEnergy,Max Energy能量饮料,Max Energy能量飲料
+drinkMaxEnergyDesc,一罐过期的能量饮料，撇开上一次喝荒原的水的话你的身体好久没有这麽富含化学物质了,一罐過期的能量飲料，撇開上一次喝荒原的水的話你的身體好久沒有這麼富含化學物質了
+drinkApplejuice,一包苹果汁,一包蘋果汁
+drinkApplejuiceDesc,闻起来很奇怪，纸盒很软，感觉很奇怪，但你需要保持维生素。,聞起來很奇怪，紙盒很軟，感覺很奇怪，但你需要保持維他命。
+drinkGrandJuice,大果汁包,大果汁包
+drinkGrandJuiceDesc,谁不喜欢偶尔喝点果汁呢？,誰不喜歡偶爾喝點果汁呢？
+drinkVitaJuice,Vita果汁,Vita果汁
+drinkVitaJuiceDesc,富含大量维生素,富含大量維生素
+drinkKvass,克瓦斯,克瓦斯
+drinkKvassDesc,一种盛行于俄罗斯、乌克兰等东欧国家的一种低度酒精的饮料，口感酸甜，有少量二氧化碳，以黑麦麵包发酵而成。\n以 [D3CE1D]3[-] 为单位制作。,一種盛行於俄羅斯、烏克蘭等東歐國家的一種低度酒精的飲料，口感酸甜，有少量二氧化碳，以黑麥麵包發酵而成。\n以 [D3CE1D]3[-] 為單位製作。
+drinkEWR,紧急饮用水,緊急飲用水
+drinkMilk,盒装牛奶,盒裝牛奶
+drinkPineappleJuice,盒装凤梨汁,盒裝鳳梨汁
+drinkRatCola,Rat可乐,Rat可樂
+drinkRatColaDesc,限量版 Rat可乐。这款可乐的秘密配方至今仍是个谜。,限量版 Rat可樂。這款可樂的秘密配方至今仍是個謎。
+drinkMoonshine,[BB00FF]私酿烈酒[-],[BB00FF]私釀烈酒[-]
+drinkMoonshineDesc,自制高辛烷值燃料，为您的灵魂和逃生工具提供能量。它可能是饮料，也可能是燃烧瓶，具体取决于您的心情。,自製高辛烷值燃料，為您的靈魂和逃生工具提供能量。它可能是飲料，也可能是燃燒瓶，具體取決於您的心情。
+drinkPevkoBeer,佩夫科啤酒,佩夫科啤酒
+drinkPevkoBeerDesc,当干净的水资源稀缺时，Pevko 就会出现。清淡、清爽，而且可能比河里的任何水都更安全。,當乾淨的水資源稀缺時，Pevko 就會出現。清淡、清爽，而且可能比河裡的任何水都更安全。
+
+liquorPevkoBeer,Pevko瓶装啤酒,Pevko瓶裝啤酒
+liquorPevkoBeerDesc,当缺乏乾淨的饮用水时，别忘了你还有Pevko。淡雅、清爽，可能比河里的水还要安全。\n\n每喝一次酒，都会增加你的属性，且效果可以堆叠，但喝太多酒会有负面的副作用。\n安全饮用上限：[D3CE1D]2[-]\n可担保副作用的饮用上限：[FF4F33]4[-],當缺乏乾淨的飲用水時，別忘了你還有Pevko。淡雅、清爽，可能比河里的水還要安全。\n\n每喝一次酒，都會增加你的屬性，且效果可以堆疊，但喝太多酒會有負面的副作用。\n安全飲用上限：[D3CE1D]2[-]\n可擔保副作用的飲用上限：[FF4F33]4[-]
+buffLiquorPevkoBeer,Pevko瓶装啤酒,Pevko瓶裝啤酒
+buffLiquorPevkoBeerDesc,提高您的近战能力。,提高您的近戰能力。
+liquorVodka,伏特加,伏特加
+liquorVodkaDesc,最原始的消毒剂 - 用于伤口、悲伤和世界末日。只是不要和辐射混在一起；我们试过了，结果不太好。\n\n每喝一次酒，都会增加你的属性，且效果可以堆叠，但喝太多酒会有负面的副作用。\n安全饮用上限：[D3CE1D]2[-]\n可担保副作用的饮用上限：[FF4F33]4[-],最原始的消毒劑 - 用於傷口、悲傷和世界末日。只是不要和輻射混在一起；我們試過了，結果不太好。\n\n每喝一次酒，都會增加你的屬性，且效果可以堆疊，但喝太多酒會有負面的副作用。\n安全飲用上限：[D3CE1D]2[-]\n可擔保副作用的飲用上限：[FF4F33]4[-]
+buffLiquorVodka,伏特加,伏特加
+buffLiquorVodkaDesc,增加你的回復能力。,增加你的回復能力。
+liquorDanJackiel,「丹杰奇尔」威士忌,「丹傑奇爾」威士忌
+liquorDanJackielDesc,当世界末日来临时，真正的倖存者会伸手拿「丹杰奇尔」威士忌。Navezganes最好的选择——因为如果一切都在燃烧，你的喉咙也该跟着燃烧。(Navezgane位于亚利桑那州。 在阿帕奇语中，「Navezgane」意为「杀死怪物的」)\n\n每喝一次酒，都会增加你的属性，且效果可以堆叠，但喝太多酒会有负面的副作用。\n安全饮用上限：[D3CE1D]2[-]\n可担保副作用的饮用上限：[FF4F33]4[-],當世界末日來臨時，真正的倖存者會伸手拿「丹傑奇爾」威士忌。Navezganes最好的選擇——因為如果一切都在燃燒，你的喉嚨也該跟著燃燒。(Navezgane位於亞利桑那州。 在阿帕奇語中，「Navezgane」意為「殺死怪物的」)\n\n每喝一次酒，都會增加你的屬性，且效果可以堆疊，但喝太多酒會有負面的副作用。\n安全飲用上限：[D3CE1D]2[-]\n可擔保副作用的飲用上限：[FF4F33]4[-]
+buffLiquorDanJackiel,「丹杰奇尔」威士忌,「丹傑奇爾」威士忌
+buffLiquorDanJackielDesc,增加你的回復能力。,增加你的回復能力。
+
+liquorMoonshine,[BB00FF]私酿烈酒[-],[BB00FF]私釀烈酒[-]
+liquorMoonshineDesc,自製的高辛烷值燃料，让你的灵魂和逃生工具都能发挥作用。既可以做为饮料，也可以是燃烧瓶，视您的心情而定。,自製的高辛烷值燃料，讓你的靈魂和逃生工具都能發揮作用。既可以做為飲料，也可以是燃燒瓶，視您的心情而定。
+
+medicalInjectorAdrenaline,肾上腺素注射器,腎上腺素注射器
+medicalInjectorAdrenalineDesc,适用于需要快速移动的情况。\n\n相容：[D3CE1D]吗啡注射器[-] & [D3CE1D]Perftoran注射器[-]\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,適用於需要快速移動的情況。\n\n相容：[D3CE1D]嗎啡注射器[-] & [D3CE1D]Perftoran注射器[-]\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+medicalInjectorMorphine,吗啡注射器,嗎啡注射器
+medicalInjectorMorphineDesc,适合在需要维持生命值的情况下使用。强效的止痛药可减少所受到的伤害，让您在受伤后仍能继续战斗。\n\n相容：[D3CE1D]肾上腺素注射器[-] & [D3CE1D]Perftoran注射器[-]\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,適合在需要維持生命值的情況下使用。強效的止痛藥可減少所受到的傷害，讓您在受傷後仍能繼續戰鬥。\n\n相容：[D3CE1D]腎上腺素注射器[-] & [D3CE1D]Perftoran注射器[-]\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+medicalInjectorPerfortran,Perftoran注射器,Perftoran注射器
+medicalInjectorPerfortranDesc,免疫流血状态。副作用会令最大生命值暂时降低，但同时间每秒回復能力会大幅提升，同时会减缓饱食度跟饮水度的下降速度。\n\n相容：[D3CE1D]肾上腺素注射器[-] & [D3CE1D]吗啡注射器[-]\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,免疫流血狀態。副作用會令最大生命值暫時降低，但同時間每秒回復能力會大幅提升，同時會減緩飽食度跟飲水度的下降速度。\n\n相容：[D3CE1D]腎上腺素注射器[-] & [D3CE1D]嗎啡注射器[-]\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+medicalInjectorPropitalRegenerativeStim,丙酸刺激剂注射器,丙酸刺激劑注射器
+medicalInjectorPropitalRegenerativeStimDesc,增加最大生命值，提高每秒回復能力。\n\n相容：[D3CE1D]曲马多注射器[-]\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,增加最大生命值，提高每秒回復能力。\n\n相容：[D3CE1D]曲馬多注射器[-]\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+medicalInjectorSJ12,曲马多注射器,曲馬多注射器
+medicalInjectorSJ12Desc,能够提高物理伤害和耐力。强效的止痛剂，让您能持续进行重度体力活动。\n\n相容：[D3CE1D]丙酸刺激剂注射器[-]\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,能夠提高物理傷害和耐力。強效的止痛劑，讓您能持續進行重度體力活動。\n\n相容：[D3CE1D]丙酸刺激劑注射器[-]\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+medicalInjector2A2,2A2-(b-TG) 兴奋剂注射器,2A2-(b-TG) 興奮劑注射器
+medicalInjector2A2Desc,非常适合需要绝对后座力控制和增强枪械操控能力的场合。\n\n相容：除了[D3CE1D]肾上腺素注射器[-]之外的任何东西都是致命的。\n\n使用不相容的注射器可能会导致非常负面甚至[FF4F33]致命[-]的影响。\n以 [D3CE1D]8[-] 为单位制作。,非常適合需要絕對後座力控制和增強槍械操控能力的場合。\n\n相容：除了[D3CE1D]腎上腺素注射器[-]之外的任何東西都是致命的。\n\n使用不相容的注射器可能會導致非常負面甚至[FF4F33]致命[-]的影響。\n以 [D3CE1D]3[-] 為單位製作。
+buffTooltipTrip1,[FF4F33]噢... 发生了什麽事...[-],[FF4F33]噢... 發生了什麼事...[-]
+buffTooltipTrip2,[FF4F33]妈的。妈的... 妈的...[-],[FF4F33]媽的。媽的... 媽的...[-]	
+medicalInjectorMULE,M.U.L.E. 注射器,M.U.L.E. 注射器
+medicalInjectorMULEDesc,在长距离移动时使用来提高身体的各项能力：。\n\n相容： 与其他活性成分没有已知的交叉反应。\n以 [D3CE1D]1[-] 为单位制作。,在長距離移動時使用來提高身體的各項能力：。\n\n相容： 與其他活性成分沒有已知的交叉反應。\n以 [D3CE1D]1[-] 為單位製作。
+
+medicalIFAK,单兵战术急救包,單兵戰術急救包
+medicalIFAKDesc,单兵战术急救包，可以治愈你的伤口，却无法治愈你的心灵。,單兵戰術急救包，可以治癒你的傷口，卻無法治癒你的心靈。
+medicalSalewa,Salewa急救包,Salewa急救包
+medicalSalewaDesc,内含各种有用的医疗用品。,內含各種有用的醫療用品。
+medicalCMS,CMS手术包,CMS手術包
+medicalCMSDesc,特别适合回復死亡惩罚造成的健康损失,特別適合回復死亡懲罰造成的健康損失
+medicalSurv12,[BB00FF]Surv12野战手术包[-],[BB00FF]Surv12野戰手術包[-]
+medicalSurv12Desc,配备高级器械的外科手术包，可以大量回復死亡惩罚造成的健康损失。,配備高級器械的外科手術包，可以大量回復死亡懲罰造成的健康損失。
+valuableBitcoin,[FFD700]实物比特币（BTC）[-],[FFD700]實物比特幣（BTC）[-]
+valuableBitcoinDesc,0.2BTC\n某人的梦想破灭了。无论如何，它是由纯金制成的，这使得它在荒芜的荒地上非常有价值。,0.2BTC\n某人的夢想破滅了。無論如何，它是由純金製成的，這使得它在荒蕪的荒地上非常有價值。
+valuableRolex,[FFD700]劳力士[-],[FFD700]勞力士[-]
+valuableRolexDesc,在世界末日中，地位的象征不会让你走得太远，所以你最好卖掉它。,在世界末日中，地位的象徵不會讓你走得太遠，所以你最好賣掉它。
+valuableSkullring,[FFD700]骷髅戒指[-],[FFD700]骷髏戒指[-]
+valuableSkullringDesc,一枚金色骷髅戒指。可能很有价值。,一枚金色骷髏戒指。可能很有價值。
+valuableLABSCard,[BB00FF]实验室钥匙卡[-],[BB00FF]實驗室鑰匙卡[-]
+valuableLABSCardDesc,看起来像是某种东西的通行卡，肯定对某些人有用，但在这个宇宙中它可能是一种有价值的交易物品。,看起來像是某種東西的通行卡，肯定對某些人有用，但在這個宇宙中它可能是一種有價值的交易物品。
+valuableGP,[FFD700]GP[-],[FFD700]GP[-]
+valuableGPDesc,看起来像是一枚金色的交易硬币。可能对某些人有价值。,看起來像是一枚金色的交易硬幣。可能對某些人有價值。
+valuableG9Coin,[FFD700]G9硬币[-],[FFD700]G9硬幣[-]
+valuableG9CoinDesc,这枚神秘的硬币看上去像是经历过几次疯狂的新泽西冒险——翻转它，你可能会听到一个妙语。,這枚神秘的硬幣看起來像是經歷過幾次瘋狂的紐澤西冒險——翻轉它，你可能會聽到一個妙語。
+bundleEftResourceNitricAcid,硝酸（1950）,硝酸（1950）
+bundleEftResourceNitricAcid_2,硝酸 (780),硝酸 (780)
+bundleEftResourceSulfuricAcid,硫酸（10000）,硫酸（10000）
+bundleEftResourceSulfuricAcid_2,硫酸 (1250),硫酸 (1250)
+bundleEftDrinkJarPureMineralWater,纯净矿泉水 (5),純淨礦泉水 (5)
+bundleEftDrinkJarBoiledWater,水 (3),水 (3)
+bundleEftDrinkJarBoiledWater_2,水 (9),水 (9)
+bundleAmmoBoxAll,弹药箱,彈藥箱
+bundleAmmoBoxT1Ammo,弹药箱,彈藥箱
+bundleAmmoBoxT2Ammo,弹药箱,彈藥箱
+bundleAmmoBoxT3Ammo,弹药箱,彈藥箱
+bundlePistolCaseGoldenTT,[FFD700]金色手枪盒[-],[FFD700]金色手槍盒[-]
+bundlePistolCaseTT,手枪盒,手槍盒
+bundlePistolCaseTTM,手枪盒,手槍盒
+bundlePistolCasePB,手枪盒,手槍盒
+bundlePistolCasePM,手枪盒,手槍盒
+bundlePistolCaseAPS,手枪盒,手槍盒
+bundlePistolCaseG17,手枪盒,手槍盒
+bundlePistolCaseP226,手枪盒,手槍盒
+bundlePistolCaseM9A3,手枪盒,手槍盒
+bundlePistolCaseG18C,手枪盒,手槍盒
+bundlePistolCaseSR1MP,手枪盒,手槍盒
+bundlePistolCaseUSP45T,手枪盒,手槍盒
+bundlePistolCase1911,手枪盒,手槍盒
+bundlePistolCaseUSP45M,手枪盒,手槍盒
+bundlePistolCaseM45,手枪盒,手槍盒
+bundlePistolCaseSr1mp,手枪盒,手槍盒
+bundlePistolCaseFiveSeven,手枪盒,手槍盒
+bundlePistolCaseDesertEagle,手枪盒,手槍盒
+bundlePistolCaseRsh12,手枪盒,手槍盒
+bundleGrenadebox,手榴弹箱,手榴彈箱
+bundleGrenadeboxDesc,手榴弹箱包含冲击手榴弹和普通手榴弹。,手榴彈箱包含衝擊手榴彈和普通手榴彈。
+bundleMoneyCase,[FFD700]钱夹[-],[FFD700]錢夾[-]
+bundleMoneyCaseDesc,钱箱中装有大额现金。,錢箱中裝有大額現金。
+bundleWallet,钱包,錢包
+bundleWalletDesc,钱包里有现金。,錢包裡有現金。
+bundleCraftableRouble,一捆卢布 (10.000₽),一捆盧布 (10.000₽)
+bundleCraftableRoubleDesc,一捆卢布，完美地捲起来，以尽可能节省空间的方式存放。,一捆盧布，完美地捲起來，以盡可能節省空間的方式存放。
+bundleFoodContainer,食品容器,食品容器
+bundleFoodContainerDesc,食品容器装有食物和饮料。,食品容器裝有食物和飲料。
+bundleMedics,医药箱,醫藥箱
+bundleMedicsDesc,药箱中装有医疗物品。,藥箱中裝有醫療物品。
+bundleAmmoBoxGroupDesc,弹药箱含有大量弹药。,彈藥箱含有大量彈藥。
+bundlePistolCaseGroupDesc,手枪盒内装有随机手枪及其相应的弹药。,手槍盒內裝有隨機手槍及其相應的彈藥。
+disassembleAmmoGroupDesc,制作这个并打开捆绑包以获取弹药的全部资源。,製作這個並打開捆綁包以獲取彈藥的全部資源。
+medicalT1-1,急救绷带和 IFAK,急救繃帶和 IFAK
+foodT1-2,面包和黄花茶,麵包和黃花茶
+gunak107,[BB00FF]AK-107突击步枪[-],[BB00FF]AK-107突擊步槍[-]
+gunak107Desc,步枪动力学 AK-107 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-],步槍動力學 AK-107 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
+
+schematicsMedicals,药物製作指南,藥物製作指南
+schematicsInjectors,注射器製作指南,注射器製作指南
+schematicsAlcoholics,酿酒指南,釀酒指南
+schematicsExplosives,爆裂物製作指南,爆裂物製作指南
+schematicsCarMaintenance,车辆维护指南,車輛維護指南
+schematicsChemician,药剂师指南,藥劑師指南
+schematicsRoubles,伪钞图解,偽鈔圖解
+schematicsSpecialArcher,弓箭图解,弓箭圖解
+schematicsSpecialRobotics,自动炮塔弹药製作指南,自動炮臺彈藥製作指南
+schematicsArmor,铠甲百科全书,鎧甲百科全書
+
+schematicsMedicalsDesc,解锁下列物品:\n急救绷带、单兵战术急救包、Salewa急救包、石膏绷带、草药抗生素、抗生素、维生素、止痛药,解鎖下列物品:\n急救繃帶、單兵戰術急救包、Salewa急救包、石膏繃帶、草藥抗生素、抗生素、維生素、止痛藥
+schematicsInjectorsDesc,解锁下列注射器:\n肾上腺素、吗啡、Perfotoran、丙酸刺激剂、曲马多、2A2-(b-TG) 兴奋剂、M.U.L.E.,解鎖下列注射器:\n腎上腺素、嗎啡、Perfotoran、丙酸刺激劑、曲馬多、2A2-(b-TG) 興奮劑、M.U.L.E.
+schematicsAlcoholicsDesc,解锁下列物品:\n克瓦斯、Pevko瓶装啤酒、伏特加、「丹杰奇尔」威士忌、私酿烈酒,解鎖下列物品:\n克瓦斯、Pevko瓶裝啤酒、伏特加、「丹傑奇爾」威士忌、私釀烈酒
+schematicsExplosivesDesc,解锁下列物品:\nM67、RGN、M381、VOG-25、PG-7VL、炸药、定时炸弹,解鎖下列物品:\nM67、RGN、M381、VOG-25、PG-7VL、炸藥、定時炸彈
+schematicsChemicianDesc,解锁下列物品:\n硝酸、硫酸、纤维素粉、废聚合物,解锁下列物品:\n硝酸、硫酸、纖維素粉、聚合體碎片
+schematicsRoublesDesc,解锁下列物品:\n卢布假钞,解鎖下列物品:\n盧布假鈔
+schematicsSpecialArcherDesc,解锁下列物品:\n钢箭、燃烧箭、爆炸箭以及对应的十字弓箭,解鎖下列物品:\n鋼箭、燃燒箭、爆炸箭以及對應的十字弓箭
+schematicsSpecialRoboticsDesc,解锁下列物品:\n自动炮塔 穿甲弹 & 霰弹,解鎖下列物品:\n自動炮臺 穿甲彈 & 霰彈
+schematicsArmorDesc,解锁下列物品:\n侦查队员、突击队员、生存专家护甲,解鎖下列物品:\n偵查隊員、突擊隊員、生存專家護甲
+
+
+schematicsEftGunGeneralDesc,阅读此书可以解锁下列物品製作：,閱讀此書可以解鎖下列物品製作：
+
+lootboxT1,T1 战利品容器,T1 戰利品容器
+lootboxT1Desc,打开这个战利品容器有10%机率取得T1枪械,打開這個戰利品容器有10%機率取得T1槍械
+lootboxT2,[09FF00]T2 战利品容器[-],[09FF00]T2 戰利品容器[-]
+lootboxT2Desc,打开这个战利品容器有10%机率取得T2枪械,打開這個戰利品容器有10%機率取得T2槍械
+lootboxT3,[004CFF]T3 战利品容器[-],[004CFF]T3 戰利品容器[-]
+lootboxT3Desc,打开这个战利品容器有10%机率取得T3枪械,打開這個戰利品容器有10%機率取得T3槍械
+lootboxT4,[BB00FF]T4 战利品容器[-],[BB00FF]T4 戰利品容器[-]
+lootboxT4Desc,打开这个战利品容器有10%机率取得T4枪械,打開這個戰利品容器有10%機率取得T4槍械
+lootboxT5,[FFD700]T5 战利品容器[-],[FFD700]T5 戰利品容器[-]
+lootboxT5Desc,打开这个战利品容器有10%机率取得T5枪械,打開這個戰利品容器有10%機率取得T5槍械
+
+
+armorAthleticBoots,侦查队员靴,偵查隊員靴
+armorAthleticGloves,侦查队员手套,偵查隊員手套
+armorAthleticHelmet,侦查队员帽,偵查隊員帽
+armorAthleticOutfit,侦查队员服,偵查隊員服
+armorCommandoBoots,突击队员靴,突擊隊員靴
+armorCommandoGloves,突击队员手套,突擊隊員手套
+armorCommandoHelmet,突击队员帽,突擊隊員帽
+armorCommandoOutfit,突击队员服,突擊隊員服
+armorNomadBoots,生存专家靴,生存專家靴
+armorNomadGloves,生存专家手套,生存專家手套
+armorNomadHelmet,生存专家头盔,生存專家頭盔
+armorNomadOutfit,生存专家护甲,生存專家護甲
+
+armorAthleticBootsDesc,轻型装甲\n轻巧灵活，提供最大的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],輕型裝甲\n輕巧靈活，提供最大的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorAthleticGlovesDesc,轻型装甲\n轻巧灵活，提供最大的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],輕型裝甲\n輕巧靈活，提供最大的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorAthleticHelmetDesc,轻型装甲\n轻巧灵活，提供最大的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],輕型裝甲\n輕巧靈活，提供最大的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorAthleticOutfitDesc,轻型装甲\n轻巧灵活，提供最大的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],輕型裝甲\n輕巧靈活，提供最大的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorCommandoBootsDesc,中型装甲\n兼顾防护力及不错的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],中型裝甲\n兼顧防護力及不錯的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorCommandoGlovesDesc,中型装甲\n兼顾防护力及不错的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],中型裝甲\n兼顧防護力及不錯的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorCommandoHelmetDesc,中型装甲\n兼顾防护力及不错的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],中型裝甲\n兼顧防護力及不錯的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorCommandoOutfitDesc,中型装甲\n兼顾防护力及不错的机动性。\n\n修复方式：[D3CE1D]护甲零件[-],中型裝甲\n兼顧防護力及不錯的機動性。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorNomadBootsDesc,重型装甲\n针对荒原上的各种威胁提供最大的保护。\n\n修复方式：[D3CE1D]护甲零件[-],重型裝甲\n針對荒原上的各種威脅提供最大的保護。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorNomadGlovesDesc,重型装甲\n针对荒原上的各种威胁提供最大的保护。\n\n修复方式：[D3CE1D]护甲零件[-],重型裝甲\n針對荒原上的各種威脅提供最大的保護。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorNomadHelmetDesc,重型装甲\n针对荒原上的各种威胁提供最大的保护。\n\n修复方式：[D3CE1D]护甲零件[-],重型裝甲\n針對荒原上的各種威脅提供最大的保護。\n\n修復方式：[D3CE1D]護甲零件[-]
+armorNomadOutfitDesc,重型装甲\n针对荒原上的各种威胁提供最大的保护。\n\n修复方式：[D3CE1D]护甲零件[-],重型裝甲\n針對荒原上的各種威脅提供最大的保護。\n\n修復方式：[D3CE1D]護甲零件[-]
+
+
+cntWoodFurnitureBlockVariantHelper,木制家具,木製家具

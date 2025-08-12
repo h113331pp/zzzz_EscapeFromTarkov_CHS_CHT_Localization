@@ -1,0 +1,5 @@
+All the contents in this repository are in the public domain.
+
+If you still require a license, feel free to copy everything here and create your own repository.
+
+I take no responsibility for the quality of the localization.

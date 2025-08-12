@@ -1,0 +1,122 @@
+<configs>
+
+	<!-- ### Overall Stat UI changes -->
+	<!-- good background sprites: ui_game_background_fill (cornered), ui_game_header_fill (rounded corners), ui_game_header_insert(rounded sides but cornered), ui_game_panel_header(corndered but black), right_click_9_slice -->
+	<!-- good filler sprites:  Highlight - Shadowed, Highlight - Thin, highlight_thin2 -->
+
+	<remove xpath="//window[@name='CharacterFrameWindow']/grid[(@visible='{showstats}') or (@visible='{showcore}') or (@visible='{newshowstats}') or (@visible='{showsecondtab}') or (@visible='{showthirdtab}')]"/>
+	<insertAfter xpath="//window[@name='CharacterFrameWindow']/rect[@visible='{showcharactersdcs}']">
+		<grid visible="{showstats}" depth="0" pos="0,-86" width="327" cols="1" cell_height="30" repeat_content="false" arrangement="vertical">
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="{playerhealthtitle|once}" valuecontent="{playerhealth}/{playermaxhealth}" />
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="{playerstaminatitle|once}" valuecontent="{playerstamina}/{playermaxstamina}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="{playerfoodtitle|once}" valuecontent="{playermodifiedcurrentfood}/{playerfoodmax}" />
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="{playerwatertitle|once}" valuecontent="{playermodifiedcurrentwater}/{playerwatermax}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="{playercoretemptitle|once}" valuecontent="{playercoretemp}" />
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="{playerzombiekillstitle|once}" valuecontent="{playerzombiekills}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]"	textcontent="Normal" valuecontent="{cvar($LBD_KilledEntities_Zombies_Normal)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"	textcontent="Feral" valuecontent="{cvar($LBD_KilledEntities_Zombies_Feral)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]"	textcontent="Radiated" valuecontent="{cvar($LBD_KilledEntities_Zombies_Radiated)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"	textcontent="Headshots" valuecontent="{cvar($LBD_KilledEntities_Zombies_Head)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]"	textcontent="Armored" valuecontent="{cvar($KilledEntities_Zombies_Armored)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"	textcontent="Wights" valuecontent="{cvar($KilledEntities_Zombies_Wights)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]"	textcontent="Demolitioners" valuecontent="{cvar($KilledEntities_Zombies_Demolitioners)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]" textcontent="{playerpvpkillstitle|once}" valuecontent="{playerpvpkills}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]"    textcontent="{playerdeathstitle|once}" valuecontent="{playerdeaths}" />
+			<player_stats_entry backgroundcolor="[darkGrey]" textcontent="{playertravelledtitle|once}" valuecontent="{playertravelled}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]"    textcontent="{playeritemscraftedtitle|once}" valuecontent="{playeritemscrafted}" />
+			<player_stats_entry backgroundcolor="[darkGrey]" textcontent="{playerlongestlifetitle|once}" valuecontent="{playerlongestlife}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]"    textcontent="{playercurrentlifetitle|once}" valuecontent="{playercurrentlife}" />
+			<player_stats_entry backgroundcolor="[darkGrey]" textcontent="{playerxptonextleveltitle|once}" valuecontent="{playerxptonextlevel}" />
+			<player_stats_entry backgroundcolor="[darkestGrey]"    textcontent="{playerlootstagetitle|once}" valuecontent="{playerlootstage}" />
+		</grid>
+
+		<grid visible="{showcore}" depth="0" pos="0,-86" width="327" cols="1" cell_height="30" repeat_content="false" arrangement="vertical">
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="1" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="2" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="3" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="4" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="5" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="6" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="7" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="8" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="9" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="10" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="11" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="12" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="13" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="14" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="15" />
+			<player_stats_generic_entry backgroundcolor="[darkGrey]"    index="16" />
+			<player_stats_generic_entry backgroundcolor="[darkestGrey]" index="17" />
+			<player_stats_entry backgroundcolor="[darkGrey]" textcontent="死亡懲罰生命值損失" valuecontent="{cvar($DP_PermanentHealthLoss)}" />
+		</grid>
+
+		<grid visible="{newshowstats}" depth="0" pos="0,-86" width="327" cols="1" cell_height="30" repeat_content="false" arrangement="vertical">
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="當前後座力" valuecontent="{# Round((cvar('$gunEftBaseRecoil')),2)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="槍枝重量" valuecontent="{# Round((cvar('$gunEftWeightKg')),3)}kg"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="槍枝總重量" valuecontent="{# Round((cvar('$gunEftWeightTotal')),3)}kg"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="腰射精確度" valuecontent="{# Round((cvar('$gunEftHipAcc')),2)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="後座力減輕" valuecontent="{# Round((cvar('$DisplayValue_Gun_RecoilReduction')),2)}%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="槍枝人體工學" valuecontent="{# Round((cvar('$gunEftHoldingGunErgo')),2)}/1"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="機動性" valuecontent="{# Round((cvar('$DisplayValue_Gun_Mobility')),2)}%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="槍枝回位速度" valuecontent="{# Round((cvar('$gunEftHoldingGunReturnSpeed')),2)}"/>
+		</grid>
+		<grid visible="{showsecondtab}" depth="0" pos="0,-86" width="327" cols="1" cell_height="30" repeat_content="false" arrangement="vertical">
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總射擊次數" valuecontent="{cvar($ASkill_Gun_TotalShotsCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="後座力控制加成" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Gun_RecoilBonus')),2)}%/-25%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總彈匣裝填次數" valuecontent="{cvar($ASkill_Gun_ReloadCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="彈匣裝填速度加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Gun_ReloadBonus')),2)}%/+50%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總槍枝命中次數" valuecontent="{cvar($ASkill_Gun_AttackCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總弓箭命中次數" valuecontent="{cvar($ASkill_Archery_AttackCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總砲臺命中次數" valuecontent="{cvar($ASkill_Turret_AttackCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總近戰命中次數" valuecontent="{cvar($ASkill_Melee_AttackCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="傷害加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_General_DamageBonus')),2)}%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總瞄準時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Gun_TotalAimedTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="人體工學加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Gun_ErgoBonus')),2)}%/+100%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="槍枝移動時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Gun_Gun_TotalGunMovementTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="槍枝機動性懲罰" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Gun_GunHoldingMobilityBonus')),2)}%/-75%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總近戰次數" valuecontent="{cvar($ASkill_Melee_HitCounter)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="近戰體力加成" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Melee_StaminaBonus')),2)}%/-25%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="近戰攻擊速度加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Melee_AttackSpeedBonus')),2)}%/+33%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總方塊損壞數 (挖掘)" valuecontent="{cvar($ASkill_Miner69er_BlockDamagedCountMiner)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總方塊摧毀數 (挖掘)" valuecontent="{cvar($ASkill_Miner69er_BlockDestroyedCount)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="方塊傷害加成 (挖掘)" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Miner69er_BlockDamageBonus')),2)}%/+150%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="採集數量加成 (挖掘)" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Miner69er_HarvestCountBonus')),2)}%/+100%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總方塊損壞數 (拆解)" valuecontent="{cvar($ASkill_SalvageOperations_BlockDamagedCountSalvage)}"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總方塊採集數 (拆解)" valuecontent="{cvar($ASkill_SalvageOperations_BlockHarvestedCount)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="方塊傷害加成 (拆解)" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_SalvageOperations_BlockDamageBonus')),2)}%/+150%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="採集數量加成 (拆解)" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_SalvageOperations_HarvestCountBonus')),2)}%/+100%"/>
+		</grid>
+		<grid visible="{showthirdtab}" depth="0" pos="0,-86" width="327" cols="1" cell_height="30" repeat_content="false" arrangement="vertical">
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總戰利品容器開啟數" valuecontent="{cvar($ASkill_General_OpenedLootContainers)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="搜刮速度加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_General_LootContainerOpenSpeedBonus')),2)}%/+80%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="負重時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_General_EncumberedTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="攜帶容量加成" valuecontent="{# Round((cvar('$ASkill_Mobility_CarryCapacityBonus')),0)}/30"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="遭受攻擊次數" valuecontent="{cvar($ASkill_General_OtherDamagedSelf)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="傷害抗性加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_General_DamageResistanceBonus')),2)}%/+15%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="治療因子加成" valuecontent="{# Round((cvar('$ASkill_General_HealingFactorBonus')),2)}HP/s / 0.16HP/s"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總跳躍次數" valuecontent="{cvar($ASkill_Mobility_TotalJumps)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="跳躍體力加成" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Mobility_JumpStaminaBonus')),2)}%/-50%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總行走時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Mobility_TotalWalkTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="行走速度加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Mobility_WalkBonus')),2)}%/+15%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總跑步時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Mobility_TotalRunTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="跑步速度加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_Mobility_RunBonus')),2)}%/+15%"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="跑步體力加成" valuecontent="-{# Round((cvar('$DisplayValue_ASkill_Mobility_RunStaminaBonus')),2)}%/-30%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="玩家等級" valuecontent="{cvar($ASkill_CurrentPlayerLevel)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="物品製作速度加成" valuecontent="{# Round((cvar('$DisplayValue_ASkill_General_CraftingTime')),2)}%/-90%"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="低生命值時間" valuecontent="{# Round((cvar('$DisplayValue_ASkill_Mobility_LowHealthTime')),0)}m"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="腎上腺素激增" valuecontent="below {# Round((cvar('$ASkill_CombatStim_MinHPAdrenalineStart')),0)}HP/60HP"/>
+			<player_stats_entry backgroundcolor="[darkestGrey]" textcontent="總注射器使用次數" valuecontent="{cvar($ASkill_CombatStim_InjectorUsedCount)}"/>
+			<player_stats_entry backgroundcolor="[darkGrey]"    textcontent="注射器持續時間加成" valuecontent="+{# Round((cvar('$DisplayValue_ASkill_CombatStim_DurationBonus')),2)}%/100%"/>
+		</grid>
+	</insertAfter>
+	
+	<!--set xpath="//window[@name='windowOutput']/rect[@name='content']/grid[@controller='WorkstationMaterialInputGrid']/@rows">3</set-->
+	<set xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/grid[@name='queue']/@cols">6</set>
+	<set xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/grid[@name='queue']/@cell_width">64</set>
+	<set xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/grid[@name='queue']/@cell_height">64</set>
+	<remove xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/grid[@name='queue']/recipe_stack"></remove>
+    <append xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/grid[@name='queue']"><recipe_stack2 name="0"/></append>
+	<set xpath="//window[@name='windowCraftingQueue']/rect[@controller='CraftingQueue']/@pos">80</set>
+
+</configs>
