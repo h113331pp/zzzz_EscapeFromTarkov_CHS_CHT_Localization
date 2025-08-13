@@ -463,8 +463,8 @@ meleeToolSalvageT3ImpactDriver,[004CFF]冲击起子[-],[004CFF]衝擊起子[-]
 meleeToolShovelT1IronShovel,铁铲,鐵鏟
 meleeToolShovelT2SteelShovel,[09FF00]钢铲[-],[09FF00]鋼鏟[-]
 meleeWpnBatonT2StunBaton,[09FF00]电击警棍[-],[09FF00]電擊警棍[-]
-meleeWpnBladeT1HuntingKnife,刀,刀
-meleeWpnBladeT3Machete,[004CFF]弯刀[-],[004CFF]彎刀[-]
+meleeWpnBladeT1HuntingKnife,猎刀,獵刀
+meleeWpnBladeT3Machete,[004CFF]大砍刀[-],[004CFF]大砍刀[-]
 meleeWpnClubT1BaseballBat,棒球棒,棒球棒
 meleeWpnClubT3SteelClub,[004CFF]棍棒[-],[004CFF]棍棒[-]
 meleeWpnKnucklesT1IronKnuckles,拳套,拳套
@@ -1057,11 +1057,11 @@ resource_item_other_powder_greenDesc,生产各类中口径弹药的关键部件�
 resource_item_other_powder_red,「猎隼」红色火药罐,「獵隼」紅色火藥罐
 resource_item_other_powder_redDesc,生产各类大口径弹药的关键部件，对于确保适当的性能和一致性至关重要。\n以 [D3CE1D]8[-] 的数量制作。,生產各類大口徑彈藥的關鍵部件，對於確保適當的性能和一致性至關重要。\n以 [D3CE1D]8[-] 的數量製作。
 resourceCellulosePowder,纤维素粉,纖維素粉
-resourceCellulosePowderDesc,纤维素粉末占硝化纤维素粉末生产总成分的八分之一。\n以 [D3CE1D]16[-] 为批量制作。,纖維素粉末占硝化纖維素粉末生產總成分的八分之一。\n以 [D3CE1D]16[-] 為批次製作。
+resourceCellulosePowderDesc,火药的製造过程中纤维素粉佔了总成分的12.5%。\n以 [D3CE1D]16[-] 为批量制作。,火藥的製造過程中纖維素佔了總成分的12.5%。\n以 [D3CE1D]16[-] 為批次製作。
 resourceNitricAcid,硝酸（~68%）,硝酸（~68%）
-resourceNitricAcidDesc,在硝化棉粉末的生产中，硝酸占总成分的八分之三。,在硝化棉粉末的生產中，硝酸占總成分的八分之三。
+resourceNitricAcidDesc,火药的製造过程中硝酸佔了总成分的37.5%。,火藥的製造過程中硝酸佔了總成分的37.5%。
 resourceSulfuricAcid,硫酸 (~98%),硫酸 (~98%)
-resourceSulfuricAcidDesc,硫酸在硝化棉粉末的生产中占总成分的八分之四。,硫酸在硝化棉粉末的生產中占總成分的八分之四。
+resourceSulfuricAcidDesc,火药的製造过程中硫酸佔了总成分的50%。,火藥的製造過程中硫酸佔了總成分的50%。
 resourceLowCaliberCasing,子弹筒（小口径）,子彈筒（小口徑）
 resourceLowCaliberCasingDesc,小口径弹壳是各类弹药生产的关键部件。,小口徑彈殼是各類彈藥生產的關鍵部件。
 resourceMedCaliberCasing,子弹筒（中口径）,子彈筒（中口徑）
