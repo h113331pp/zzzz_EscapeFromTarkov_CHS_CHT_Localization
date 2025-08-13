@@ -1062,11 +1062,11 @@ resourceNitricAcid,硝酸（~68%）,硝酸（~68%）
 resourceNitricAcidDesc,火药的製造过程中硝酸佔了总成分的37.5%。,火藥的製造過程中硝酸佔了總成分的37.5%。
 resourceSulfuricAcid,硫酸 (~98%),硫酸 (~98%)
 resourceSulfuricAcidDesc,火药的製造过程中硫酸佔了总成分的50%。,火藥的製造過程中硫酸佔了總成分的50%。
-resourceLowCaliberCasing,子弹筒（小口径）,子彈筒（小口徑）
+resourceLowCaliberCasing,子弹壳（小口径）,子彈殼（小口徑）
 resourceLowCaliberCasingDesc,小口径弹壳是各类弹药生产的关键部件。,小口徑彈殼是各類彈藥生產的關鍵部件。
-resourceMedCaliberCasing,子弹筒（中口径）,子彈筒（中口徑）
+resourceMedCaliberCasing,子弹壳（中口径）,子彈殼（中口徑）
 resourceMedCaliberCasingDesc,中口径弹壳是生产各类弹药的关键部件。,中口徑彈殼是生產各類彈藥的關鍵部件。
-resourceHighCaliberCasing,子弹筒（大口径）,子彈筒（大口徑）
+resourceHighCaliberCasing,子弹壳（大口径）,子彈殼（大口徑）
 resourceHighCaliberCasingDesc,大口径弹壳是各类弹药生产的关键部件。,大口徑彈殼是各類彈藥生產的關鍵部件。
 resourceLowCaliberBulletTip,子弹头（小口径）,子彈頭（小口徑）
 resourceLowCaliberBulletTipDesc,小口径子弹头是生产各类弹药的关键部件。,小口徑子彈頭是生產各類彈藥的關鍵部件。
