@@ -1188,10 +1188,6 @@ drinkMilk,盒装牛奶,盒裝牛奶
 drinkPineappleJuice,盒装凤梨汁,盒裝鳳梨汁
 drinkRatCola,Rat可乐,Rat可樂
 drinkRatColaDesc,限量版 Rat可乐。这款可乐的秘密配方至今仍是个谜。,限量版 Rat可樂。這款可樂的秘密配方至今仍是個謎。
-drinkMoonshine,[BB00FF]私酿烈酒[-],[BB00FF]私釀烈酒[-]
-drinkMoonshineDesc,自制高辛烷值燃料，为您的灵魂和逃生工具提供能量。它可能是饮料，也可能是燃烧瓶，具体取决于您的心情。,自製高辛烷值燃料，為您的靈魂和逃生工具提供能量。它可能是飲料，也可能是燃燒瓶，具體取決於您的心情。
-drinkPevkoBeer,佩夫科啤酒,佩夫科啤酒
-drinkPevkoBeerDesc,当干净的水资源稀缺时，Pevko 就会出现。清淡、清爽，而且可能比河里的任何水都更安全。,當乾淨的水資源稀缺時，Pevko 就會出現。清淡、清爽，而且可能比河裡的任何水都更安全。
 
 liquorPevkoBeer,Pevko瓶装啤酒,Pevko瓶裝啤酒
 liquorPevkoBeerDesc,当缺乏乾淨的饮用水时，别忘了你还有Pevko。淡雅、清爽，可能比河里的水还要安全。\n\n每喝一次酒，都会增加你的属性，且效果可以堆叠，但喝太多酒会有负面的副作用。\n安全饮用上限：[D3CE1D]2[-]\n可担保副作用的饮用上限：[FF4F33]4[-],當缺乏乾淨的飲用水時，別忘了你還有Pevko。淡雅、清爽，可能比河里的水還要安全。\n\n每喝一次酒，都會增加你的屬性，且效果可以堆疊，但喝太多酒會有負面的副作用。\n安全飲用上限：[D3CE1D]2[-]\n可擔保副作用的飲用上限：[FF4F33]4[-]
@@ -1240,8 +1236,6 @@ valuableRolex,[FFD700]劳力士[-],[FFD700]勞力士[-]
 valuableRolexDesc,在世界末日中，地位的象征不会让你走得太远，所以你最好卖掉它。,在世界末日中，地位的象徵不會讓你走得太遠，所以你最好賣掉它。
 valuableSkullring,[FFD700]骷髅戒指[-],[FFD700]骷髏戒指[-]
 valuableSkullringDesc,一枚金色骷髅戒指。可能很有价值。,一枚金色骷髏戒指。可能很有價值。
-valuableLABSCard,[BB00FF]实验室钥匙卡[-],[BB00FF]實驗室鑰匙卡[-]
-valuableLABSCardDesc,看起来像是某种东西的通行卡，肯定对某些人有用，但在这个宇宙中它可能是一种有价值的交易物品。,看起來像是某種東西的通行卡，肯定對某些人有用，但在這個宇宙中它可能是一種有價值的交易物品。
 valuableGP,[FFD700]GP[-],[FFD700]GP[-]
 valuableGPDesc,看起来像是一枚金色的交易硬币。可能对某些人有价值。,看起來像是一枚金色的交易硬幣。可能對某些人有價值。
 valuableG9Coin,[FFD700]G9硬币[-],[FFD700]G9硬幣[-]
