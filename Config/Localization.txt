@@ -1239,7 +1239,7 @@ valuableSkullringDesc,一枚金色骷髅戒指。可能很有价值。,一枚金
 valuableGP,[FFD700]GP[-],[FFD700]GP[-]
 valuableGPDesc,看起来像是一枚金色的交易硬币。可能对某些人有价值。,看起來像是一枚金色的交易硬幣。可能對某些人有價值。
 valuableG9Coin,[FFD700]G9硬币[-],[FFD700]G9硬幣[-]
-valuableG9CoinDesc,这枚神秘的硬币看上去像是经历过几次疯狂的新泽西冒险——翻转它，你可能会听到一个妙语。,這枚神秘的硬幣看起來像是經歷過幾次瘋狂的紐澤西冒險——翻轉它，你可能會聽到一個妙語。
+valuableG9CoinDesc,一枚神秘的硬币，看起来像是在新泽西州经历过几次疯狂的冒险 - 翻动它，您可能会听到一则妙语。,一枚神秘的硬幣，看起來像是在新澤西州經歷過幾次瘋狂的冒險 - 翻動它，您可能會聽到一則妙語。
 bundleEftResourceNitricAcid,硝酸（1950）,硝酸（1950）
 bundleEftResourceNitricAcid_2,硝酸 (780),硝酸 (780)
 bundleEftResourceSulfuricAcid,硫酸（10000）,硫酸（10000）
