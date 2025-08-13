@@ -1094,7 +1094,7 @@ resourceBottleOfHydrogenPeroxideDesc,过氧化氢不仅可用于淨化髒水，�
 resourceCanisterWithPurifiedWater,纯净水罐,純淨水罐
 resourceCanisterWithPurifiedWaterDesc,这个罐子里有很多珍贵的水。它也可以用来制作化学制品。,這個罐子裡有很多珍貴的水。它也可以用來製作化學製品。
 resourceCanOfWhiteSalt,一罐白盐,一罐白鹽
-resourceCanOfWhiteSaltDesc,盐已被使用数百年。可用于制作食物和化学物品。,鹽已被使用數百年。可用於製作食物和化學物品。
+resourceCanOfWhiteSaltDesc,盐的使用已有数百年历史。可以用来製作食物和化学物品。,鹽的使用已有數百年歷史。可以用來製作食物和化學物品。
 resourceOxBbleach,Ox漂白剂,Ox漂白劑
 resourceOxBbleachDesc,漂白剂可用于给水消毒。是化学工艺中有用的成分。,漂白劑可用於給水消毒。是化學工藝中有用的成分。
 resourceSmokedChimneyDrainCleaner,排水管清洁剂,排水管清潔劑
@@ -1128,7 +1128,7 @@ foodSausageDesc,并不包含真的狗肉,並不包含真的狗肉
 foodOatFlakes,燕麦片,燕麥片
 foodOatFlakesDesc,良好的碳水化合物来源。,良好的碳水化合物來源。
 foodWheatFlour,一包小麦粉,一包小麥粉
-foodWheatFlourDesc,数百年来，人们一直使用小麦来制作面包。,數百年來，人們一直使用小麥來製作麵包。
+foodWheatFlourDesc,用小麦製作麵包已有数百年的历史。,用小麥製作麵包已有數百年的歷史。
 foodBread,面包,麵包
 foodBreadDesc,一个面包。,一個面包。
 foodBeefstew,图尚卡罐头,圖尚卡罐頭
