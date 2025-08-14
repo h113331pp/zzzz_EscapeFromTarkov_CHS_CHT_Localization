@@ -1288,7 +1288,6 @@ disassembleAmmoGroupDesc,制作这个并打开捆绑包以获取弹药的全部�
 medicalT1-1,急救绷带和 IFAK,急救繃帶和 IFAK
 foodT1-2,面包和黄花茶,麵包和黃花茶
 gunak107,[BB00FF]AK-107突击步枪[-],[BB00FF]AK-107突擊步槍[-]
-gunak107Desc,步枪动力学 AK-107 突击步枪\n\n使用弹药类型：[D3CE1D]5.45×39[-]\n修复方式：[D3CE1D]武器修理套件[-],步槍動力學 AK-107 突擊步槍\n\n使用彈藥類型：[D3CE1D]5.45×39[-]\n修復方式：[D3CE1D]武器修理套件[-]
 
 modSKStactickit,[09FF00]SKS战术升级套件[-],[09FF00]SKS戰術升級套件[-]
 modSKStactickitDesc,SKS升级用套件。允许安装 AR-15 风格的枪托、前握把、脚架、雷射瞄准器/枪灯和侧边瞄准镜。,SKS升級用套件。允許安裝 AR-15 風格的槍托、前握把、腳架、雷射瞄準器/槍燈和側邊瞄準鏡。
