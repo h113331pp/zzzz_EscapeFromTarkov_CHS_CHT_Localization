@@ -1295,7 +1295,6 @@ bundlePistolCaseGroupDesc,手枪盒内装有随机手枪及其相应的弹药。
 disassembleAmmoGroupDesc,制作这个并打开捆绑包以获取弹药的全部资源。,製作這個並打開捆綁包以獲取彈藥的全部資源。
 medicalT1-1,急救绷带和 IFAK,急救繃帶和 IFAK
 foodT1-2,面包和黄花茶,麵包和黃花茶
-gunak107,[BB00FF]AK-107突击步枪[-],[BB00FF]AK-107突擊步槍[-]
 
 modSKStactickit,[09FF00]SKS战术升级套件[-],[09FF00]SKS戰術升級套件[-]
 modSKStactickitDesc,SKS升级用套件。允许安装 AR-15 风格的枪托、前握把、脚架、雷射瞄准器/枪灯和侧边瞄准镜。,SKS升級用套件。允許安裝 AR-15 風格的槍托、前握把、腳架、雷射瞄準器/槍燈和側邊瞄準鏡。
